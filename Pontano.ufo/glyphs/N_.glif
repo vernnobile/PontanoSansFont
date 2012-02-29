@@ -20,6 +20,12 @@
       <point x="281" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="746" y="1464" type="line"/>
+    </contour>
+    <contour>
+      <point x="746" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="746" y="1464" type="line" smooth="yes"/>
     </contour>
     <contour>

@@ -64,6 +64,9 @@
       <point x="1152" y="1044"/>
     </contour>
     <contour>
+      <point x="939" y="1023" type="line"/>
+    </contour>
+    <contour>
       <point x="939" y="1023" type="line" smooth="yes"/>
     </contour>
     <contour>

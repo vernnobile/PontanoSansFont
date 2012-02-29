@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflex" format="1">
-  <advance width="1178"/>
+  <advance width="1143"/>
   <unicode hex="00CA"/>
   <outline>
-    <component base="circumflex" xOffset="220" yOffset="421"/>
     <component base="E"/>
+    <component base="circumflex" xOffset="153.500" yOffset="441"/>
   </outline>
 </glyph>

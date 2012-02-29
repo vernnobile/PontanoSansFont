@@ -5,21 +5,24 @@
   <outline>
     <contour>
       <point x="192" y="1492" type="line"/>
-      <point x="387" y="1492" type="line"/>
-      <point x="159" y="1172" type="line"/>
-      <point x="67" y="1172" type="line"/>
+      <point x="381" y="1492" type="line"/>
+      <point x="153" y="1172" type="line"/>
+      <point x="87" y="1172" type="line"/>
     </contour>
     <contour>
       <point x="490" y="1492" type="line"/>
       <point x="685" y="1492" type="line"/>
-      <point x="457" y="1172" type="line"/>
-      <point x="365" y="1172" type="line"/>
+      <point x="428" y="1172" type="line"/>
+      <point x="355" y="1172" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="1023" type="line"/>
     </contour>
     <contour>
       <point x="376" y="1023" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="376" y="1023" type="move" name="_top"/>
+      <point x="386" y="1023" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

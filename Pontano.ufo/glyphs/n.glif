@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1097"/>
+  <advance width="1085"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
@@ -14,12 +14,12 @@
       <point x="490.341" y="1044"/>
       <point x="622" y="1044" type="curve" smooth="yes"/>
       <point x="945" y="1044"/>
-      <point x="976" y="790"/>
-      <point x="976" y="584" type="curve" smooth="yes"/>
-      <point x="976" y="0" type="line"/>
-      <point x="834" y="0" type="line"/>
-      <point x="834" y="603" type="line" smooth="yes"/>
-      <point x="834" y="806"/>
+      <point x="964" y="790"/>
+      <point x="964" y="584" type="curve" smooth="yes"/>
+      <point x="964" y="0" type="line"/>
+      <point x="822" y="0" type="line"/>
+      <point x="822" y="603" type="line" smooth="yes"/>
+      <point x="822" y="806"/>
       <point x="781" y="930"/>
       <point x="602" y="930" type="curve" smooth="yes"/>
       <point x="339" y="930"/>
@@ -34,10 +34,10 @@
       <point x="549" y="0" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="549" y="1023" type="move" name="top"/>
+      <point x="543" y="1023" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="549" y="0" type="move" name="bottom"/>
+      <point x="543" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

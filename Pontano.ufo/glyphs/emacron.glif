@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emacron" format="1">
-  <advance width="1037"/>
+  <advance width="1020"/>
   <unicode hex="0113"/>
   <outline>
-    <component base="macron" xOffset="157" yOffset="-73"/>
     <component base="e"/>
+    <component base="macron" xOffset="183"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

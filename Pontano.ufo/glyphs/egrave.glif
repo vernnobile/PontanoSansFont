@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="egrave" format="1">
-  <advance width="1037"/>
+  <advance width="1020"/>
   <unicode hex="00E8"/>
   <outline>
-    <component base="grave" xOffset="272" yOffset="-26"/>
     <component base="e"/>
+    <component base="grave" xOffset="220"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="1062"/>
+  <advance width="1059"/>
   <unicode hex="010F"/>
   <outline>
+    <component base="comma" xOffset="1022" yOffset="1255"/>
     <component base="d"/>
-    <component base="comma" xOffset="976" yOffset="1255"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

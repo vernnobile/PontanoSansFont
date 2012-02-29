@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcircumflex" format="1">
-  <advance width="1072"/>
+  <advance width="1106"/>
   <unicode hex="0125"/>
   <outline>
-    <component base="circumflex" xOffset="133" yOffset="403"/>
+    <contour>
+      <point x="587" y="1823" type="line"/>
+      <point x="742" y="1823" type="line"/>
+      <point x="907" y="1503" type="line"/>
+      <point x="815" y="1503" type="line"/>
+      <point x="654" y="1721" type="line"/>
+      <point x="494" y="1503" type="line"/>
+      <point x="402" y="1503" type="line"/>
+    </contour>
     <component base="h"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

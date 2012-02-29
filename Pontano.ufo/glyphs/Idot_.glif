@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idot" format="1">
-  <advance width="456"/>
+  <advance width="464"/>
   <unicode hex="0130"/>
   <outline>
-    <component base="uni0307" xOffset="-42" yOffset="345"/>
     <component base="I"/>
+    <component base="uni0307" xOffset="-42" yOffset="345"/>
   </outline>
 </glyph>
