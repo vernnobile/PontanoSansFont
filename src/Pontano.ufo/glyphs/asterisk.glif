@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="826"/>
+  <unicode hex="002a"/>
+  <outline>
+    <contour>
+      <point x="463" y="762" type="line" smooth="no"/>
+      <point x="363" y="762" type="line" smooth="no"/>
+      <point x="373" y="1049" type="line" smooth="no"/>
+      <point x="108" y="894" type="line" smooth="no"/>
+      <point x="61" y="982" type="line" smooth="no"/>
+      <point x="336" y="1112" type="line" smooth="no"/>
+      <point x="60" y="1242" type="line" smooth="no"/>
+      <point x="107" y="1330" type="line" smooth="no"/>
+      <point x="373" y="1175" type="line" smooth="no"/>
+      <point x="363" y="1463" type="line" smooth="no"/>
+      <point x="463" y="1463" type="line" smooth="no"/>
+      <point x="453" y="1176" type="line" smooth="no"/>
+      <point x="718" y="1331" type="line" smooth="no"/>
+      <point x="765" y="1243" type="line" smooth="no"/>
+      <point x="490" y="1113" type="line" smooth="no"/>
+      <point x="766" y="983" type="line" smooth="no"/>
+      <point x="719" y="895" type="line" smooth="no"/>
+      <point x="453" y="1050" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

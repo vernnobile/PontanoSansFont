@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="644"/>
+  <unicode hex="007b"/>
+  <outline>
+    <contour>
+      <point x="35" y="754" type="line" smooth="no"/>
+      <point x="200" y="766"/>
+      <point x="198" y="904"/>
+      <point x="198" y="1033" type="curve" smooth="yes"/>
+      <point x="198" y="1332"/>
+      <point x="198" y="1544"/>
+      <point x="608" y="1544" type="curve" smooth="no"/>
+      <point x="608" y="1454" type="line" smooth="no"/>
+      <point x="348" y="1454"/>
+      <point x="349" y="1375"/>
+      <point x="349" y="1033" type="curve" smooth="yes"/>
+      <point x="349" y="851"/>
+      <point x="319" y="738"/>
+      <point x="190" y="707" type="curve" smooth="no"/>
+      <point x="319" y="676"/>
+      <point x="349" y="563"/>
+      <point x="349" y="381" type="curve" smooth="yes"/>
+      <point x="349" y="39"/>
+      <point x="348" y="-40"/>
+      <point x="608" y="-40" type="curve" smooth="no"/>
+      <point x="608" y="-130" type="line" smooth="no"/>
+      <point x="198" y="-130"/>
+      <point x="198" y="82"/>
+      <point x="198" y="381" type="curve" smooth="yes"/>
+      <point x="198" y="510"/>
+      <point x="200" y="648"/>
+      <point x="35" y="660" type="curve" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="1221"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="278" y="1" type="line" smooth="no"/>
+      <point x="144" y="0" type="line" smooth="no"/>
+      <point x="255.481" y="551" type="line" smooth="no"/>
+      <point x="51" y="551" type="line" smooth="no"/>
+      <point x="80" y="649" type="line" smooth="no"/>
+      <point x="275.308" y="649" type="line" smooth="no"/>
+      <point x="326.294" y="901" type="line" smooth="no"/>
+      <point x="120" y="901" type="line" smooth="no"/>
+      <point x="149" y="999" type="line" smooth="no"/>
+      <point x="346.122" y="999" type="line" smooth="no"/>
+      <point x="440" y="1463" type="line" smooth="no"/>
+      <point x="579" y="1464" type="line" smooth="no"/>
+      <point x="483.33" y="999" type="line" smooth="no"/>
+      <point x="808.122" y="999" type="line" smooth="no"/>
+      <point x="902" y="1463" type="line" smooth="no"/>
+      <point x="1041" y="1464" type="line" smooth="no"/>
+      <point x="945.33" y="999" type="line" smooth="no"/>
+      <point x="1175" y="999" type="line" smooth="no"/>
+      <point x="1146" y="901" type="line" smooth="no"/>
+      <point x="925.167" y="901" type="line" smooth="no"/>
+      <point x="873.321" y="649" type="line" smooth="no"/>
+      <point x="1106" y="649" type="line" smooth="no"/>
+      <point x="1077" y="551" type="line" smooth="no"/>
+      <point x="853.158" y="551" type="line" smooth="no"/>
+      <point x="740" y="1" type="line" smooth="no"/>
+      <point x="606" y="0" type="line" smooth="no"/>
+      <point x="717.481" y="551" type="line" smooth="no"/>
+      <point x="391.158" y="551" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="463.167" y="901" type="line" smooth="no"/>
+      <point x="411.321" y="649" type="line" smooth="no"/>
+      <point x="737.308" y="649" type="line" smooth="no"/>
+      <point x="788.294" y="901" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>
