@@ -15,11 +15,11 @@
 	<key>xHeight</key>
 	<integer>1023</integer>
 	<key>capHeight</key>
-	<integer>1464</integer>
+	<integer>1462</integer>
 	<key>ascender</key>
-	<integer>1504</integer>
+	<integer>1638</integer>
 	<key>descender</key>
-	<integer>-391</integer>
+	<integer>-410</integer>
 	<key>italicAngle</key>
 	<real>0</real>
 	<key>note</key>
@@ -34,6 +34,8 @@
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
 	<string>1.0</string>
+	<key>openTypeNameUniqueID</key>
+	<string>vernon adams : Pontano Sans : 2-3-2012</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameCompatibleFullName</key>
@@ -82,15 +84,15 @@
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>2025</integer>
+	<integer>2033</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-599</integer>
+	<integer>-573</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2025</integer>
+	<integer>2033</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>599</integer>
+	<integer>573</integer>
 	<key>openTypeOS2SubscriptXSize</key>
 	<integer>1434</integer>
 	<key>openTypeOS2SubscriptYSize</key>
@@ -127,6 +129,13 @@
 		<integer>38</integer>
 		<integer>62</integer>
 	</array>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>4</integer>
+		<integer>7</integer>
+	</array>
 	<key>postscriptFontName</key>
 	<string>Pontano</string>
 	<key>postscriptFullName</key>
@@ -137,27 +146,19 @@
 	<integer>102</integer>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-205</integer>
-	<key>postscriptStemSnapH</key>
+	<key>postscriptBlueValues</key>
 	<array>
-		<integer>76</integer>
-		<integer>57</integer>
-		<integer>84</integer>
-		<integer>106</integer>
+		<integer>-25</integer>
+		<integer>0</integer>
+		<integer>1023</integer>
+		<integer>1044</integer>
+		<integer>1462</integer>
+		<integer>1491</integer>
 	</array>
-	<key>postscriptStemSnapV</key>
+	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>115</integer>
-		<integer>94</integer>
-		<integer>135</integer>
-		<integer>150</integer>
+		<integer>-394</integer>
+		<integer>-320</integer>
 	</array>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
-	<key>macintoshFONDName</key>
-	<string>Pontano Sans</string>
     </dict>
 </plist>

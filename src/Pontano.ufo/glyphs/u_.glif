@@ -8,11 +8,11 @@
       <point x="123" y="1464" type="line" smooth="no"/>
       <point x="283" y="1464" type="line" smooth="no"/>
       <point x="283" y="598" type="line" smooth="yes"/>
-      <point x="283" y="306"/>
-      <point x="348" y="98"/>
-      <point x="676" y="98" type="curve" smooth="yes"/>
-      <point x="1002" y="98"/>
-      <point x="1066" y="306"/>
+      <point x="283" y="303.08"/>
+      <point x="348" y="93"/>
+      <point x="676" y="93" type="curve" smooth="yes"/>
+      <point x="1002" y="93"/>
+      <point x="1066" y="303.08"/>
       <point x="1066" y="598" type="curve" smooth="yes"/>
       <point x="1066" y="1464" type="line" smooth="no"/>
       <point x="1223" y="1464" type="line" smooth="no"/>

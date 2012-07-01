@@ -3,12 +3,7 @@
   <advance width="1374"/>
   <unicode hex="01f4"/>
   <outline>
-    <component base="acute" xOffset="540" yOffset="441"/>
+    <component base="acute" xOffset="586" yOffset="421"/>
     <component base="G"/>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

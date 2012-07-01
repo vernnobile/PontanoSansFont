@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcommaaccent" format="1">
-  <advance width="1295"/>
+  <advance width="1286"/>
   <unicode hex="0156"/>
   <outline>
-    <component base="commaaccent" xOffset="477"/>
+    <component base="uni0326" xOffset="493" yOffset="-102"/>
     <component base="R"/>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

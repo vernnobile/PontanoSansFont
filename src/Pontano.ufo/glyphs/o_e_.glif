@@ -29,7 +29,10 @@
       <point x="2110" y="1464" type="line" smooth="no"/>
       <point x="1163" y="1464" type="line" smooth="no"/>
       <point x="1163" y="1464"/>
-      <point x="1164" y="1352"/>
+      <point x="1163.44" y="1414.22"/>
+      <point x="1163.44" y="1362.07" type="curve" smooth="yes"/>
+      <point x="1163.44" y="1336"/>
+      <point x="1163.33" y="1309.33"/>
       <point x="1163" y="1288" type="curve" smooth="no"/>
       <point x="1073" y="1430"/>
       <point x="926" y="1491"/>
@@ -43,8 +46,11 @@
       <point x="929" y="-25"/>
       <point x="1074" y="37"/>
       <point x="1164" y="180" type="curve" smooth="no"/>
-      <point x="1164" y="117"/>
-      <point x="1165" y="1"/>
+      <point x="1164" y="138"/>
+      <point x="1164.44" y="72.4444"/>
+      <point x="1164.44" y="33.1111" type="curve" smooth="yes"/>
+      <point x="1164.44" y="13.4444"/>
+      <point x="1164.33" y="0.333333"/>
       <point x="1164" y="0" type="curve" smooth="no"/>
       <point x="2121" y="0" type="line" smooth="no"/>
     </contour>
@@ -52,9 +58,4 @@
       <point x="1086" y="1464" type="move" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

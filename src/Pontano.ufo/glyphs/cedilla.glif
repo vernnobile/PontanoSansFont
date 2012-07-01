@@ -23,9 +23,4 @@
       <point x="249" y="-174" type="curve" smooth="no"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

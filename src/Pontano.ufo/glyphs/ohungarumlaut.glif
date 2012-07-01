@@ -3,12 +3,7 @@
   <advance width="1064"/>
   <unicode hex="0151"/>
   <outline>
-    <component base="hungarumlaut" xOffset="229"/>
+    <component base="hungarumlaut" xOffset="274.5" yOffset="-26"/>
     <component base="o"/>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

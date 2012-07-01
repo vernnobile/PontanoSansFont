@@ -8,13 +8,11 @@
       <point x="148" y="1464" type="line" smooth="no"/>
       <point x="311" y="1464" type="line" smooth="no"/>
       <point x="1214" y="221" type="line" smooth="no"/>
-      <point x="1214" y="614" type="line" smooth="no"/>
       <point x="1214" y="1464" type="line" smooth="no"/>
       <point x="1343" y="1464" type="line" smooth="no"/>
       <point x="1343" y="0" type="line" smooth="no"/>
       <point x="1211" y="0" type="line" smooth="no"/>
       <point x="281" y="1290" type="line" smooth="no"/>
-      <point x="281" y="875" type="line" smooth="yes"/>
       <point x="281" y="0" type="line" smooth="no"/>
     </contour>
   </outline>

@@ -4,19 +4,19 @@
     <dict>
 	<key>F</key>
 	<dict>
-	    <key>period</key>
-	    <integer>-140</integer>
 	    <key>g</key>
 	    <integer>-26</integer>
+	    <key>period</key>
+	    <integer>-140</integer>
 	    <key>comma</key>
 	    <integer>-180</integer>
 	</dict>
 	<key>L</key>
 	<dict>
-	    <key>quoteright</key>
-	    <integer>-120</integer>
 	    <key>quotedblright</key>
 	    <integer>-170</integer>
+	    <key>quoteright</key>
+	    <integer>-120</integer>
 	</dict>
 	<key>b</key>
 	<dict>
