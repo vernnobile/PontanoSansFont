@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="131028_2106_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="700-400-200" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="500.0" />
+<data name="previewtext" value="/threequarters L " />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.73964081777" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="700-400-200" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Pontano.ufo">
+<location>
+<dimension name="700-400-200" xvalue="0" />
+</location>
+<!-- color for Pontano.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="Pontano-Bold.ufo">
+<location>
+<dimension name="700-400-200" xvalue="1000" />
+</location>
+<!-- color for Pontano-Bold.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Pontano Sans" sequence="" stylename="xx0">
+<location>
+<dimension name="700-400-200" xvalue="-700" />
+</location>
+</instance>
+<instance familyname="Pontano Sans" sequence="" stylename="xx-1514_20_--0">
+<location>
+<dimension name="700-400-200" xvalue="-1514.1988" />
+<dimension name="None" xvalue="0" />
+</location>
+</instance>
+</designspace>
