@@ -34,26 +34,20 @@
   </outline>
   <lib>
     <dict>
+      <key>angle</key>
+      <real>90</real>
       <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>723</integer>
-          <key>y</key>
-          <integer>1471</integer>
-        </dict>
-      </array>
+      <dict>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <integer>723</integer>
+      <key>y</key>
+      <integer>1471</integer>
     </dict>
   </lib>
 </glyph>

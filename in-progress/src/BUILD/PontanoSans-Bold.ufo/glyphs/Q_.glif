@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="1">
+  <advance width="1530"/>
+  <unicode hex="0051"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="1274" y="-364" type="line"/>
+      <point x="972" y="80" type="line"/>
+      <point x="1117" y="179" type="line"/>
+      <point x="1437" y="-243" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
+    <key>name</key>
+      <string>Q</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1530</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+      <integer>1266</integer>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <integer>-345</integer>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+      <integer>976</integer>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <integer>100</integer>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+      <integer>1076</integer>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <integer>164</integer>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+      <integer>1374</integer>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <integer>-263</integer>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

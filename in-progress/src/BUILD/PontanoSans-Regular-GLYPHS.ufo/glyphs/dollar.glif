@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="1216"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="601" y="1672" type="line"/>
+      <point x="690" y="1672" type="line"/>
+      <point x="690" y="-204" type="line"/>
+      <point x="601" y="-204" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>dollar</string>
+      <key>points</key>
+      <array/>
+      <key>segmentType</key>
+      <string>curve</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1216</integer>
+      <key>x</key>
+      <integer>642</integer>
+      <key>y</key>
+      <integer>-24</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="1005"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="206" y="303" type="line"/>
+      <point x="962" y="1023" type="line"/>
+      <point x="800" y="1023" type="line"/>
+      <point x="206" y="455" type="line"/>
+    </contour>
+    <contour>
+      <point x="855" y="0" type="line"/>
+      <point x="1015" y="0" type="line"/>
+      <point x="541" y="698" type="line"/>
+      <point x="448" y="612" type="line"/>
+    </contour>
+    <component base="lc_ascender_stem"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>k</string>
+      <key>points</key>
+      <array/>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1005</integer>
+      <key>x</key>
+      <integer>268</integer>
+      <key>y</key>
+      <integer>511</integer>
+    </dict>
+  </lib>
+</glyph>

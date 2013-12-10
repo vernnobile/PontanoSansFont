@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring" format="1">
+  <advance width="1004"/>
+  <unicode hex="00E5"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni030A" xOffset="120" yOffset="205"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

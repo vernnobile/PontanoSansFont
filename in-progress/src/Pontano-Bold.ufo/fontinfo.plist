@@ -12,24 +12,30 @@
 	<integer>-410</integer>
 	<key>familyName</key>
 	<string>Pontano Sans</string>
-	<key>italicAngle</key>
-	<real>0.0</real>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/02/01 22:28:02</string>
+	<string>2013/12/09 16:08:44</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>newtypography.co.uk</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
-	<string>vernon adams</string>
+	<string>Vernon Adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Pontano Sans</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernon adams : Pontano Sans : 2-3-2012</string>
 	<key>openTypeNameVersion</key>
-	<string>1.0</string>
+	<integer>1</integer>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -78,12 +84,6 @@
 	<key>openTypeOS2Type</key>
 	<array>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>2033</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-573</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 		<integer>0</integer>
@@ -106,10 +106,6 @@
 	<integer>700</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
-	<key>openTypeOS2WinAscent</key>
-	<integer>2033</integer>
-	<key>openTypeOS2WinDescent</key>
-	<integer>573</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-25</integer>
@@ -119,33 +115,23 @@
 		<integer>1462</integer>
 		<integer>1491</integer>
 	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-394</integer>
 		<integer>-320</integer>
 	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-205</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>102</integer>
+	<key>styleMapStyleName</key>
+	<string>bold</string>
 	<key>styleName</key>
 	<string>Bold</string>
 	<key>trademark</key>
 	<string>Pontano Sans is a trademark of vernon adams.</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>2</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>1023</integer>
 </dict>

@@ -3,35 +3,31 @@
   <advance width="1010"/>
   <unicode hex="00BF"/>
   <outline>
-    <component base="question" xScale="-1.0" xyScale="2.22044604925e-16" yxScale="-2.22044604925e-16" yScale="-1.0" xOffset="976" yOffset="1134"/>
+    <component base="question" xOffset="976" yOffset="1134" xScale="-1" yScale="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>questiondown</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1010</integer>
-        </dict>
       </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>lib</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>questiondown</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1010</integer>
     </dict>
   </lib>
 </glyph>

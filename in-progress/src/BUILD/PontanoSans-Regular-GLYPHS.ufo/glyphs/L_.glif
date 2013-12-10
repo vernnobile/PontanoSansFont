@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="1020"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="1041" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="224" y="112" type="line"/>
+      <point x="1041" y="112" type="line"/>
+    </contour>
+    <component base="uc_main_stem"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>L</string>
+      <key>points</key>
+      <array/>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1020</integer>
+      <key>x</key>
+      <integer>1041</integer>
+      <key>y</key>
+      <integer>112</integer>
+    </dict>
+  </lib>
+</glyph>

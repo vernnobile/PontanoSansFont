@@ -2,19 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>E322F6D1-BA90-436B-BB35-51D9BD3EA9D1</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
 	<key>com.typemytype.robofont.b.layerStrokeColor</key>
 	<array>
-		<real>1.0</real>
+		<real>1</real>
 		<real>0.75</real>
 		<real>0.0</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
 		<real>0.0</real>
 		<real>0.5</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
@@ -463,9 +467,6 @@
 		<string>trademark</string>
 		<string>degree</string>
 		<string>CR</string>
-		<string>onesuperior</string>
-		<string>threesuperior</string>
-		<string>twosuperior</string>
 		<string>uniFB01</string>
 		<string>uniFB02</string>
 		<string>lc_ascender_stem</string>
@@ -474,6 +475,34 @@
 		<string>lc_curved_stem</string>
 		<string>lc_main_stem</string>
 		<string>.notdef</string>
+		<string>Edotaccent</string>
+		<string>Idotaccent</string>
+		<string>Eng</string>
+		<string>Tbar</string>
+		<string>Tcedilla</string>
+		<string>Tcommaaccent</string>
+		<string>Wacute</string>
+		<string>Wcircumflex</string>
+		<string>Wdieresis</string>
+		<string>Wgrave</string>
+		<string>Ycircumflex</string>
+		<string>Ygrave</string>
+		<string>edotaccent</string>
+		<string>idotaccent</string>
+		<string>dotlessj</string>
+		<string>eng</string>
+		<string>tbar</string>
+		<string>tcedilla</string>
+		<string>tcommaaccent</string>
+		<string>wacute</string>
+		<string>wcircumflex</string>
+		<string>wdieresis</string>
+		<string>wgrave</string>
+		<string>ycircumflex</string>
+		<string>ygrave</string>
+		<string>lc_descender_stem</string>
+		<string>lc_descender_stem_2</string>
+		<string>uc_main_stem</string>
 	</array>
 </dict>
 </plist>

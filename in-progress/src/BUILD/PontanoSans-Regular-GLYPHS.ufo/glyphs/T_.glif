@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="1119"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="9" y="1352" type="line"/>
+      <point x="9" y="1464" type="line"/>
+      <point x="1110" y="1464" type="line"/>
+      <point x="1110" y="1352" type="line"/>
+    </contour>
+    <component base="uc_main_stem" xOffset="345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>name</key>
+      <string>T</string>
+      <key>points</key>
+      <array/>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1119</integer>
+      <key>x</key>
+      <integer>483</integer>
+      <key>y</key>
+      <integer>1352</integer>
+    </dict>
+  </lib>
+</glyph>

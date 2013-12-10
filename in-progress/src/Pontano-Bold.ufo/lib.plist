@@ -2,29 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>5D328E58-2F78-4B3D-8E27-494E56F2C351</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Bold</string>
 	<key>com.typemytype.robofont.b.layerStrokeColor</key>
 	<array>
-		<real>1.0</real>
+		<integer>1</integer>
 		<real>0.75</real>
-		<real>0.0</real>
-		<real>0.7</real>
+		<integer>0</integer>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
-		<real>0.0</real>
+		<integer>0</integer>
 		<real>0.5</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
@@ -96,7 +102,7 @@
 			<key>x</key>
 			<integer>264</integer>
 			<key>y</key>
-			<integer>-24</integer>
+			<string>-24</string>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -108,12 +114,12 @@
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
 			<key>allowPseudoUnicode</key>
-			<true/>
+			<integer>1</integer>
 			<key>type</key>
 			<string>cannedDesign</string>
 		</dict>
@@ -478,9 +484,6 @@
 		<string>degree</string>
 		<string>CR</string>
 		<string>dotlessj</string>
-		<string>onesuperior</string>
-		<string>threesuperior</string>
-		<string>twosuperior</string>
 		<string>uniFB01</string>
 		<string>uniFB02</string>
 		<string>lc_ascender_stem</string>
@@ -492,6 +495,30 @@
 		<string>lc_main_stem</string>
 		<string>uc_main_stem</string>
 		<string>.notdef</string>
+		<string>Edotaccent</string>
+		<string>Idotaccent</string>
+		<string>Eng</string>
+		<string>Tbar</string>
+		<string>Tcedilla</string>
+		<string>Tcommaaccent</string>
+		<string>Wacute</string>
+		<string>Wcircumflex</string>
+		<string>Wdieresis</string>
+		<string>Wgrave</string>
+		<string>Ycircumflex</string>
+		<string>Ygrave</string>
+		<string>edotaccent</string>
+		<string>idotaccent</string>
+		<string>eng</string>
+		<string>tbar</string>
+		<string>tcedilla</string>
+		<string>tcommaaccent</string>
+		<string>wacute</string>
+		<string>wcircumflex</string>
+		<string>wdieresis</string>
+		<string>wgrave</string>
+		<string>ycircumflex</string>
+		<string>ygrave</string>
 	</array>
 </dict>
 </plist>
