@@ -151,7 +151,7 @@
 	<key>trademark</key>
 	<string>Pontano Sans is a trademark of vernon adams.</string>
 	<key>unitsPerEm</key>
-	<integer>2048</integer>
+	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>2</integer>
 	<key>versionMinor</key>
