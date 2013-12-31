@@ -12,31 +12,11 @@
       <point x="561" y="1474" type="line"/>
       <point x="294" y="1474" type="line"/>
     </contour>
-    <contour>
-      <point x="419" y="1023" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>circumflex</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>838</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

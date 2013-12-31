@@ -4,6 +4,12 @@
   <unicode hex="004F"/>
   <outline>
     <contour>
+      <point x="757.5" y="1464" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="815" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
       <point x="756" y="138" type="curve" smooth="yes"/>
       <point x="436" y="138"/>
       <point x="331" y="332"/>
@@ -31,30 +37,23 @@
       <point x="115" y="178"/>
       <point x="364" y="-24"/>
     </contour>
-    <contour>
-      <point x="815" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="757.5" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="757.5" y="1464" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>angle</key>
+    <key>angle</key>
       <string>90</string>
-      <key>com.typemytype.robofont.guides</key>
-      <dict/>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>magnetic</key>
+    <key>com.typemytype.robofont.guides</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>magnetic</key>
       <string>5</string>
-      <key>x</key>
-      <string>723</string>
-      <key>y</key>
+    <key>y</key>
       <string>1471</string>
+    <key>x</key>
+      <string>723</string>
     </dict>
   </lib>
 </glyph>

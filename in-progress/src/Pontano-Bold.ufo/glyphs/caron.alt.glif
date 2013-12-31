@@ -3,6 +3,9 @@
   <advance width="600"/>
   <outline>
     <contour>
+      <point x="263" y="1082" type="move" name="_caron.alt"/>
+    </contour>
+    <contour>
       <point x="500" y="1125" type="line"/>
       <point x="642" y="1216"/>
       <point x="642" y="1355"/>
@@ -15,35 +18,5 @@
       <point x="466" y="1207"/>
       <point x="441" y="1187" type="curve"/>
     </contour>
-    <contour>
-      <point x="263" y="1082" type="move" name="_caron.alt"/>
-    </contour>
-    <contour>
-      <point x="300" y="1023" type="move" name="_top"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>caron.alt</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>600</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

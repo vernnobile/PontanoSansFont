@@ -3,13 +3,14 @@
   <advance width="999"/>
   <unicode hex="0107"/>
   <outline>
-    <component base="c"/>
     <component base="acute" xOffset="352"/>
+    <component base="c"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

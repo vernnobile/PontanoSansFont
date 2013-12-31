@@ -4,6 +4,9 @@
   <unicode hex="006B"/>
   <outline>
     <contour>
+      <point x="639" y="1220" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="126" y="0" type="line"/>
       <point x="297" y="0" type="line"/>
       <point x="297" y="352" type="line"/>
@@ -17,41 +20,43 @@
       <point x="297" y="1474" type="line"/>
       <point x="126" y="1474" type="line"/>
     </contour>
-    <contour>
-      <point x="514.5" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="639" y="1220" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array/>
-      <key>b</key>
-      <dict/>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>components</key>
-      <array/>
-      <key>contours</key>
-      <dict/>
-      <key>lib</key>
-      <dict/>
-      <key>name</key>
-      <string>k</string>
-      <key>points</key>
-      <dict/>
-      <key>segmentType</key>
+    <key>segmentType</key>
       <string>line</string>
-      <key>unicodes</key>
-      <array/>
-      <key>width</key>
+    <key>b</key>
+      <dict>
+      </dict>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
       <string>1005</string>
-      <key>x</key>
-      <string>268</string>
-      <key>y</key>
+    <key>points</key>
+      <dict>
+      </dict>
+    <key>contours</key>
+      <dict>
+      </dict>
+    <key>components</key>
+      <array>
+      </array>
+    <key>y</key>
       <string>511</string>
+    <key>x</key>
+      <string>268</string>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>name</key>
+      <string>k</string>
     </dict>
   </lib>
 </glyph>

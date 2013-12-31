@@ -3,30 +3,13 @@
   <advance width="1033"/>
   <unicode hex="0207"/>
   <outline>
+    <component base="breveinvertedcomb" xOffset="132"/>
     <component base="e"/>
-    <component base="uni0311" xOffset="132"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>uni0207</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1033</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

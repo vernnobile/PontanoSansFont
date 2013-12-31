@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecmb" format="1">
+  <advance width="745"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="317" y="1152" type="line"/>
+      <point x="430" y="1152" type="line"/>
+      <point x="344" y="1495" type="line"/>
+      <point x="42" y="1495" type="line"/>
+    </contour>
+    <contour>
+      <point x="664" y="1152" type="line"/>
+      <point x="767" y="1152" type="line"/>
+      <point x="708" y="1495" type="line"/>
+      <point x="415" y="1495" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>b</key>
+      <dict>
+      </dict>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <string>745</string>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>name</key>
+      <string>uni030F</string>
+    </dict>
+  </lib>
+</glyph>

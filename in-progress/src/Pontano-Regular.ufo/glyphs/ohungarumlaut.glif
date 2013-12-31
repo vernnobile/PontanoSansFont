@@ -3,13 +3,14 @@
   <advance width="1090"/>
   <unicode hex="0151"/>
   <outline>
-    <component base="o"/>
     <component base="hungarumlaut" xOffset="273"/>
+    <component base="o"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

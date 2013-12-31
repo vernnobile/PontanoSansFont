@@ -4,6 +4,12 @@
   <unicode hex="0075"/>
   <outline>
     <contour>
+      <point x="557" y="1023" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="889" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
       <point x="477" y="-24" type="curve" smooth="yes"/>
       <point x="637" y="-24"/>
       <point x="745" y="39"/>
@@ -25,39 +31,44 @@
       <point x="120" y="240"/>
       <point x="144" y="-24"/>
     </contour>
-    <contour>
-      <point x="554.5" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="889" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="557" y="1023" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array/>
-      <key>b</key>
-      <dict/>
-      <key>baseGlyph</key>
-      <string>lc_main_stem</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>components</key>
-      <dict/>
-      <key>contours</key>
-      <dict/>
-      <key>lib</key>
-      <dict/>
-      <key>name</key>
-      <string>u</string>
-      <key>points</key>
-      <dict/>
-      <key>segmentType</key>
+    <key>segmentType</key>
       <string>curve</string>
-      <key>transformation</key>
+    <key>b</key>
+      <dict>
+      </dict>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>baseGlyph</key>
+      <string>lc_main_stem</string>
+    <key>width</key>
+      <string>1086</string>
+    <key>points</key>
+      <dict>
+      </dict>
+    <key>contours</key>
+      <dict>
+      </dict>
+    <key>components</key>
+      <dict>
+      </dict>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>y</key>
+      <string>421</string>
+    <key>x</key>
+      <string>263</string>
+    <key>transformation</key>
       <array>
         <string>-0.9999999999999996</string>
         <string>-1.665334536937734e-16</string>
@@ -66,14 +77,8 @@
         <string>1086</string>
         <string>1024</string>
       </array>
-      <key>unicodes</key>
-      <array/>
-      <key>width</key>
-      <string>1086</string>
-      <key>x</key>
-      <string>263</string>
-      <key>y</key>
-      <string>421</string>
+    <key>name</key>
+      <string>u</string>
     </dict>
   </lib>
 </glyph>

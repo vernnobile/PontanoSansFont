@@ -4,6 +4,9 @@
   <unicode hex="0059"/>
   <outline>
     <contour>
+      <point x="578" y="1464" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="510" y="0" type="line"/>
       <point x="648" y="0" type="line"/>
       <point x="648" y="548" type="line"/>
@@ -14,34 +17,33 @@
       <point x="-3" y="1464" type="line"/>
       <point x="510" y="549" type="line"/>
     </contour>
-    <contour>
-      <point x="578.5" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="578.5" y="1464" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>Y</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1157</integer>
-        </dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>Y</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1157</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

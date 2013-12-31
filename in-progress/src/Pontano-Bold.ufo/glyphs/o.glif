@@ -31,39 +31,14 @@
       <point x="86" y="158"/>
       <point x="265" y="-24"/>
     </contour>
-    <contour>
-      <point x="554" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="554" y="1023" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="597" y="0" type="move" name="ogonek"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array/>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>o</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1108</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

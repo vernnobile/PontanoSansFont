@@ -4,29 +4,12 @@
   <unicode hex="0109"/>
   <outline>
     <component base="c"/>
-    <component base="circumflex" xOffset="93"/>
+    <component base="circumflex" xOffset="105"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>ccircumflex</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1024</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

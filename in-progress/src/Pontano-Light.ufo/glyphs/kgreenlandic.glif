@@ -9,61 +9,73 @@
       <point x="580" y="606" type="line"/>
       <point x="954" y="1023" type="line"/>
       <point x="800" y="1023" type="line"/>
-      <point x="281" y="456.186" type="line"/>
+      <point x="281" y="456" type="line"/>
       <point x="281" y="1023" type="line"/>
       <point x="146" y="1023" type="line"/>
       <point x="146" y="0" type="line"/>
       <point x="281" y="0" type="line"/>
-      <point x="281" y="317.727" type="line"/>
+      <point x="281" y="318" type="line"/>
       <point x="489" y="533" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array/>
-      <key>b</key>
-      <dict/>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>kgreenlandic</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1010</integer>
-        </dict>
-      </dict>
-      <key>components</key>
-      <array/>
-      <key>contours</key>
-      <dict/>
-      <key>lib</key>
-      <dict/>
-      <key>name</key>
-      <string>kgreenlandic</string>
-      <key>points</key>
-      <dict/>
-      <key>segmentType</key>
+    <key>segmentType</key>
       <string>curve</string>
-      <key>unicodes</key>
-      <array/>
-      <key>width</key>
+    <key>b</key>
+      <dict>
+      </dict>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
       <string>1010</string>
-      <key>x</key>
-      <string>271</string>
-      <key>y</key>
+    <key>points</key>
+      <dict>
+      </dict>
+    <key>contours</key>
+      <dict>
+      </dict>
+    <key>components</key>
+      <array>
+      </array>
+    <key>y</key>
       <string>446</string>
+    <key>x</key>
+      <string>271</string>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>kgreenlandic</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1010</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>name</key>
+      <string>kgreenlandic</string>
     </dict>
   </lib>
 </glyph>

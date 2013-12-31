@@ -4,6 +4,9 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
+      <point x="290" y="0" type="move" name="_ogonek"/>
+    </contour>
+    <contour>
       <point x="366" y="-368" type="curve"/>
       <point x="366" y="-272" type="line"/>
       <point x="349.094" y="-275.87"/>
@@ -25,14 +28,12 @@
       <point x="306.569" y="-379.127"/>
       <point x="334.701" y="-375.691"/>
     </contour>
-    <contour>
-      <point x="290" y="0" type="move" name="_ogonek"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

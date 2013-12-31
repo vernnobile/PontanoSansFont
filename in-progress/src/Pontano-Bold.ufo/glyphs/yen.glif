@@ -3,6 +3,7 @@
   <advance width="1162"/>
   <unicode hex="00A5"/>
   <outline>
+    <component base="Y"/>
     <contour>
       <point x="210" y="300" type="line"/>
       <point x="956" y="300" type="line"/>
@@ -15,29 +16,11 @@
       <point x="956" y="675" type="line"/>
       <point x="210" y="675" type="line"/>
     </contour>
-    <component base="Y"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>yen</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1162</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

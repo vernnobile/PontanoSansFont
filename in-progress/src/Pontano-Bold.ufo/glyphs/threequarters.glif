@@ -4,15 +4,12 @@
   <unicode hex="00BE"/>
   <outline>
     <contour>
-      <point x="132" y="910" type="line"/>
-      <point x="162.158" y="786.249"/>
-      <point x="279.587" y="742.86"/>
-      <point x="381.597" y="742.86" type="curve" smooth="yes"/>
-      <point x="546.1" y="742.86"/>
-      <point x="641.111" y="826.464"/>
-      <point x="641.111" y="965.346" type="curve" smooth="yes"/>
-      <point x="641.111" y="1018.26"/>
-      <point x="630.808" y="1100.05"/>
+      <point x="370" y="743" type="curve"/>
+      <point x="537" y="739"/>
+      <point x="638" y="821"/>
+      <point x="641" y="955" type="curve" smooth="yes"/>
+      <point x="642" y="1007"/>
+      <point x="639" y="1097"/>
       <point x="510" y="1145" type="curve"/>
       <point x="589" y="1174"/>
       <point x="617" y="1236"/>
@@ -27,11 +24,11 @@
       <point x="279" y="1314"/>
       <point x="313" y="1348"/>
       <point x="367" y="1348" type="curve" smooth="yes"/>
-      <point x="423.916" y="1348"/>
-      <point x="457.478" y="1327.5"/>
-      <point x="457.478" y="1281.36" type="curve" smooth="yes"/>
-      <point x="457.478" y="1232.56"/>
-      <point x="432.64" y="1206.85"/>
+      <point x="418" y="1348"/>
+      <point x="453" y="1329"/>
+      <point x="457" y="1294" type="curve" smooth="yes"/>
+      <point x="461" y="1237"/>
+      <point x="442" y="1207"/>
       <point x="320" y="1205" type="curve"/>
       <point x="320" y="1069" type="line"/>
       <point x="456" y="1069"/>
@@ -43,6 +40,9 @@
       <point x="336" y="880"/>
       <point x="278" y="893"/>
       <point x="253" y="978" type="curve"/>
+      <point x="132" y="910" type="line"/>
+      <point x="161" y="791"/>
+      <point x="276" y="744"/>
     </contour>
     <contour>
       <point x="1293" y="0" type="line"/>
@@ -71,25 +71,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>threequarters</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1425</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

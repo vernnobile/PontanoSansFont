@@ -4,6 +4,16 @@
   <unicode hex="0039"/>
   <outline>
     <contour>
+      <point x="927" y="649" type="curve"/>
+      <point x="914.942" y="290.288"/>
+      <point x="774.494" y="85.9062"/>
+      <point x="554.264" y="85.9062" type="curve" smooth="yes"/>
+      <point x="463.825" y="85.9062"/>
+      <point x="368.312" y="115.938"/>
+      <point x="285" y="176" type="curve"/>
+      <point x="246" y="70" type="line"/>
+      <point x="340" y="6"/>
+      <point x="467" y="-25"/>
       <point x="565" y="-25" type="curve" smooth="yes"/>
       <point x="864" y="-25"/>
       <point x="1078" y="265"/>
@@ -14,26 +24,19 @@
       <point x="281" y="1491"/>
       <point x="125" y="1230"/>
       <point x="125" y="981" type="curve" smooth="yes"/>
-      <point x="125" y="676"/>
-      <point x="315" y="508"/>
-      <point x="587" y="520" type="curve" smooth="yes"/>
-      <point x="700" y="526"/>
-      <point x="831" y="572"/>
-      <point x="927" y="649" type="curve"/>
-      <point x="915" y="292"/>
-      <point x="775" y="92"/>
-      <point x="563" y="86" type="curve" smooth="yes"/>
-      <point x="470" y="84"/>
-      <point x="371" y="114"/>
-      <point x="285" y="176" type="curve"/>
-      <point x="246" y="70" type="line"/>
-      <point x="340" y="6"/>
-      <point x="467" y="-25"/>
+      <point x="125" y="686.207"/>
+      <point x="302.495" y="519.398"/>
+      <point x="559.97" y="519.398" type="curve" smooth="yes"/>
+      <point x="691.477" y="519.398"/>
+      <point x="824.061" y="566.434"/>
     </contour>
     <contour>
-      <point x="598" y="627" type="curve" smooth="yes"/>
-      <point x="368" y="618"/>
-      <point x="268" y="742"/>
+      <point x="927" y="762" type="line"/>
+      <point x="822.076" y="678.489"/>
+      <point x="705.408" y="626.543"/>
+      <point x="575.059" y="626.543" type="curve" smooth="yes"/>
+      <point x="361.336" y="626.543"/>
+      <point x="268" y="750.236"/>
       <point x="268" y="985" type="curve" smooth="yes"/>
       <point x="268" y="1232"/>
       <point x="392" y="1379"/>
@@ -41,49 +44,57 @@
       <point x="866" y="1379"/>
       <point x="927" y="1100"/>
       <point x="927" y="805" type="curve" smooth="yes"/>
-      <point x="927" y="762" type="line"/>
-      <point x="829" y="684"/>
-      <point x="711" y="631"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array/>
-      <key>b</key>
-      <dict/>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>nine</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1198</integer>
-        </dict>
       </dict>
-      <key>components</key>
-      <array/>
-      <key>contours</key>
-      <array/>
-      <key>lib</key>
-      <dict/>
-      <key>name</key>
-      <string>nine</string>
-      <key>unicodes</key>
-      <array/>
-      <key>width</key>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
       <string>1202</string>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>nine</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1198</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>name</key>
+      <string>nine</string>
     </dict>
   </lib>
 </glyph>

@@ -4,45 +4,44 @@
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="132" y="0" type="line"/>
-      <point x="267" y="0" type="line"/>
-      <point x="267" y="1474" type="line"/>
-      <point x="132" y="1474" type="line"/>
+      <point x="206" y="1464" type="move" name="top"/>
     </contour>
     <contour>
       <point x="267" y="1023" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="206" y="734" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="206" y="1464" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="205.5" y="0" type="move" name="bot"/>
+      <point x="132" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="267" y="1474" type="line"/>
+      <point x="132" y="1474" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>l</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>411</integer>
-        </dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>l</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>411</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

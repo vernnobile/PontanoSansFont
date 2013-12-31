@@ -3,16 +3,17 @@
   <advance width="429"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="dotlessi"/>
     <component base="dotaccent" xOffset="9"/>
+    <component base="dotlessi"/>
     <contour>
       <point x="0" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
