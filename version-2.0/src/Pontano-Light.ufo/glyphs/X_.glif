@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="1">
+  <advance width="1239"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="7" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="617" y="649" type="line"/>
+      <point x="1068" y="0" type="line"/>
+      <point x="1232" y="0" type="line"/>
+      <point x="700" y="769" type="line"/>
+      <point x="1188" y="1464" type="line"/>
+      <point x="1030" y="1464" type="line"/>
+      <point x="622" y="881" type="line"/>
+      <point x="219" y="1464" type="line"/>
+      <point x="53" y="1464" type="line"/>
+      <point x="539" y="762" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>segmentType</key>
+      <string>line</string>
+    <key>b</key>
+      <dict>
+      </dict>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <string>1245</string>
+    <key>points</key>
+      <dict>
+      </dict>
+    <key>contours</key>
+      <dict>
+      </dict>
+    <key>components</key>
+      <array>
+      </array>
+    <key>y</key>
+      <string>0</string>
+    <key>x</key>
+      <string>1239</string>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>X</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1239</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>name</key>
+      <string>X</string>
+    </dict>
+  </lib>
+</glyph>

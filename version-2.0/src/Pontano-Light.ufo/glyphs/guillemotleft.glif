@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="946"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="503" y="252" type="line"/>
+      <point x="503" y="386" type="line"/>
+      <point x="152" y="650" type="line"/>
+      <point x="503" y="912" type="line"/>
+      <point x="503" y="1047" type="line"/>
+      <point x="59" y="743" type="line"/>
+      <point x="59" y="556" type="line"/>
+    </contour>
+    <contour>
+      <point x="936" y="252" type="line"/>
+      <point x="936" y="386" type="line"/>
+      <point x="585" y="650" type="line"/>
+      <point x="936" y="912" type="line"/>
+      <point x="936" y="1047" type="line"/>
+      <point x="492" y="743" type="line"/>
+      <point x="492" y="556" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>b</key>
+      <dict>
+      </dict>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <string>946</string>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>guillemotleft</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>946</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>name</key>
+      <string>guillemotleft</string>
+    </dict>
+  </lib>
+</glyph>

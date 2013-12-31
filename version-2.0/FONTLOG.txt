@@ -1,0 +1,3 @@
+1.0 initial release
+
+2.0 New weights; Light 300, Regular 400, Medium 500, Bold 700. Extended to Latin 3 coverage. Improvements to spacing and rendering.

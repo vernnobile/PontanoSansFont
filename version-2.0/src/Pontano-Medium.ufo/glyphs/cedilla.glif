@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="435"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="317" y="-113" type="curve" smooth="yes"/>
+      <point x="268" y="0" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="208" y="-118" type="line" smooth="yes"/>
+      <point x="215.963" y="-150.4"/>
+      <point x="219.566" y="-177.644"/>
+      <point x="219.566" y="-200.499" type="curve" smooth="yes"/>
+      <point x="219.566" y="-292.011"/>
+      <point x="161.802" y="-313.16"/>
+      <point x="94.8335" y="-313.16" type="curve" smooth="yes"/>
+      <point x="67.6565" y="-313.16"/>
+      <point x="38.9635" y="-309.677"/>
+      <point x="12" y="-306" type="curve"/>
+      <point x="12" y="-395" type="line"/>
+      <point x="55.9397" y="-410.165"/>
+      <point x="98.0212" y="-417.303"/>
+      <point x="136.587" y="-417.303" type="curve" smooth="yes"/>
+      <point x="258.006" y="-417.303"/>
+      <point x="344.577" y="-346.555"/>
+      <point x="344.577" y="-232.832" type="curve" smooth="yes"/>
+      <point x="344.577" y="-196.888"/>
+      <point x="335.929" y="-156.652"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
