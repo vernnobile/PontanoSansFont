@@ -31,12 +31,17 @@
       <point x="113" y="203"/>
       <point x="351" y="-24"/>
     </contour>
+    <contour>
+      <point x="779" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="747" y="1464" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -22,40 +22,32 @@
   </outline>
   <lib>
     <dict>
-    <key>segmentType</key>
-      <string>curve</string>
-    <key>b</key>
-      <dict>
-      </dict>
-    <key>anchors</key>
-      <array>
-      </array>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <string>602</string>
-    <key>points</key>
-      <dict>
-      </dict>
-    <key>contours</key>
-      <dict>
-      </dict>
-    <key>components</key>
-      <array>
-      </array>
-    <key>y</key>
-      <string>1518</string>
-    <key>x</key>
-      <string>232</string>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>name</key>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <dict/>
+      <key>lib</key>
+      <dict/>
+      <key>name</key>
       <string>parenright</string>
+      <key>points</key>
+      <dict/>
+      <key>segmentType</key>
+      <string>curve</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <string>602</string>
+      <key>x</key>
+      <string>232</string>
+      <key>y</key>
+      <string>1518</string>
     </dict>
   </lib>
 </glyph>

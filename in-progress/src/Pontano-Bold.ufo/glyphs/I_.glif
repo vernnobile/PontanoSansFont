@@ -9,5 +9,20 @@
       <point x="350" y="1464" type="line"/>
       <point x="119" y="1464" type="line"/>
     </contour>
+    <contour>
+      <point x="232" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="232" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="232" y="1464" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>

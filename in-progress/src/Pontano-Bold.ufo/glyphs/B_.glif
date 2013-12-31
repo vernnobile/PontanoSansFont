@@ -42,12 +42,14 @@
       <point x="957" y="860"/>
       <point x="650" y="860" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="667.5" y="1464" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>
