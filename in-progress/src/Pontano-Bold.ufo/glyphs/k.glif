@@ -1,59 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1052"/>
+  <advance width="1072"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="233" y="245" type="curve"/>
-      <point x="233" y="245"/>
-      <point x="1042" y="1023"/>
-      <point x="1042" y="1023" type="curve"/>
-      <point x="803" y="1023" type="line"/>
-      <point x="233" y="468" type="line"/>
-      <point x="233" y="468"/>
-      <point x="233" y="245"/>
+      <point x="123" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="347" y="330" type="line"/>
+      <point x="514" y="492" type="line"/>
+      <point x="831" y="0" type="line"/>
+      <point x="1082" y="0" type="line"/>
+      <point x="660" y="632" type="line"/>
+      <point x="1067" y="1023" type="line"/>
+      <point x="816" y="1023" type="line"/>
+      <point x="347" y="565" type="line"/>
+      <point x="347" y="1474" type="line"/>
+      <point x="123" y="1474" type="line"/>
     </contour>
     <contour>
-      <point x="823" y="0" type="line"/>
-      <point x="1062" y="0" type="line"/>
-      <point x="596" y="698" type="line"/>
-      <point x="455" y="569" type="line"/>
+      <point x="536" y="0" type="move" name="bot"/>
     </contour>
-    <component base="lc_ascender_stem" xOffset="15"/>
+    <contour>
+      <point x="630" y="1280" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>k</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1072</integer>
+        </dict>
       </dict>
       <key>components</key>
       <array/>
       <key>contours</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>k</string>
       <key>points</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>segmentType</key>
       <string>line</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <integer>1052</integer>
+      <string>1005</string>
       <key>x</key>
-      <integer>283</integer>
+      <string>268</string>
       <key>y</key>
-      <integer>511</integer>
+      <string>511</string>
     </dict>
   </lib>
 </glyph>

@@ -4,22 +4,51 @@
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="-31" y="582" type="curve"/>
-      <point x="-31" y="764" type="line"/>
-      <point x="-31" y="764"/>
-      <point x="642" y="1024"/>
-      <point x="642" y="1024" type="curve"/>
-      <point x="642" y="842" type="line"/>
-      <point x="642" y="842"/>
-      <point x="-31" y="582"/>
+      <point x="-33" y="573" type="line"/>
+      <point x="650" y="833" type="line"/>
+      <point x="650" y="1024" type="line"/>
+      <point x="-33" y="764" type="line"/>
     </contour>
     <component base="L"/>
   </outline>
   <lib>
     <dict>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Lslash</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1055</integer>
+        </dict>
       </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>lib</key>
+      <dict/>
+      <key>name</key>
+      <string>Lslash</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <string>1055</string>
     </dict>
   </lib>
 </glyph>

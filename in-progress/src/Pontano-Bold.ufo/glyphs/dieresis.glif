@@ -4,25 +4,42 @@
   <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="750" y="1395" type="line"/>
-      <point x="750" y="1161" type="line"/>
-      <point x="514" y="1161" type="line"/>
-      <point x="514" y="1395" type="line"/>
+      <point x="66" y="1160" type="line"/>
+      <point x="313" y="1160" type="line"/>
+      <point x="313" y="1403" type="line"/>
+      <point x="66" y="1403" type="line"/>
     </contour>
     <contour>
-      <point x="65" y="1395" type="line"/>
-      <point x="301" y="1395" type="line"/>
-      <point x="301" y="1161" type="line"/>
-      <point x="65" y="1161" type="line"/>
+      <point x="526" y="1160" type="line"/>
+      <point x="772" y="1160" type="line"/>
+      <point x="772" y="1403" type="line"/>
+      <point x="526" y="1403" type="line"/>
     </contour>
     <contour>
-      <point x="405" y="1023" type="move" name="_top"/>
+      <point x="430" y="1023" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>dieresis</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>860</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

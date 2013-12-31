@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="1">
-  <advance width="1491"/>
+  <advance width="1496"/>
   <unicode hex="00D1"/>
   <outline>
-    <component base="tilde" xOffset="345.500" yOffset="393"/>
     <component base="N"/>
+    <component base="tilde" xOffset="349" yOffset="441"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Ntilde</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1496</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

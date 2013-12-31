@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ffl" format="1">
+  <advance width="1543"/>
+  <unicode hex="FB04"/>
+  <outline>
+    <component base="f"/>
+    <component base="f" xOffset="511"/>
+    <component base="l" xOffset="1132"/>
+  </outline>
+</glyph>

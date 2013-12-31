@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="1126"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="478" y="-24" type="curve" smooth="yes"/>
+      <point x="630" y="-24"/>
+      <point x="734" y="34"/>
+      <point x="803" y="137" type="curve"/>
+      <point x="803" y="0" type="line"/>
+      <point x="1001" y="0" type="line"/>
+      <point x="1001" y="1023" type="line"/>
+      <point x="803" y="1023" type="line"/>
+      <point x="803" y="529" type="line" smooth="yes"/>
+      <point x="803" y="317"/>
+      <point x="739" y="116"/>
+      <point x="516" y="116" type="curve" smooth="yes"/>
+      <point x="361" y="116"/>
+      <point x="314" y="218"/>
+      <point x="314" y="422" type="curve" smooth="yes"/>
+      <point x="314" y="1023" type="line"/>
+      <point x="116" y="1023" type="line"/>
+      <point x="116" y="435" type="line" smooth="yes"/>
+      <point x="116" y="227"/>
+      <point x="151" y="-24"/>
+    </contour>
+    <contour>
+      <point x="563" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="563" y="1023" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="905" y="0" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict/>
+      <key>baseGlyph</key>
+      <string>lc_main_stem</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>components</key>
+      <dict/>
+      <key>contours</key>
+      <dict/>
+      <key>lib</key>
+      <dict/>
+      <key>name</key>
+      <string>u</string>
+      <key>points</key>
+      <dict/>
+      <key>segmentType</key>
+      <string>curve</string>
+      <key>transformation</key>
+      <array>
+        <string>-0.9999999999999996</string>
+        <string>-1.665334536937734e-16</string>
+        <string>1.665334536937734e-16</string>
+        <string>-0.9999999999999996</string>
+        <string>1086</string>
+        <string>1024</string>
+      </array>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <string>1086</string>
+      <key>x</key>
+      <string>263</string>
+      <key>y</key>
+      <string>421</string>
+    </dict>
+  </lib>
+</glyph>

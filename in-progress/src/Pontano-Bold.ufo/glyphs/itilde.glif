@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="itilde" format="1">
-  <advance width="411"/>
+  <advance width="463"/>
   <unicode hex="0129"/>
   <outline>
-    <component base="tilde" xOffset="-189" yOffset="-54"/>
     <component base="dotlessi"/>
+    <component base="tilde" xOffset="-144"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>itilde</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>463</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

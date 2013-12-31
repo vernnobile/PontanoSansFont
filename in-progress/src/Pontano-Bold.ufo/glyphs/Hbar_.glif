@@ -5,31 +5,10 @@
   <outline>
     <contour>
       <point x="48" y="1144" type="line"/>
-      <point x="48" y="1230" type="line"/>
-      <point x="148" y="1230" type="line"/>
-      <point x="148" y="1464" type="line"/>
-      <point x="294" y="1464" type="line"/>
-      <point x="294" y="1230" type="line"/>
-      <point x="1164" y="1230" type="line"/>
-      <point x="1164" y="1464" type="line"/>
-      <point x="1309" y="1464" type="line"/>
-      <point x="1309" y="1230" type="line"/>
-      <point x="1400" y="1230" type="line"/>
-      <point x="1400" y="1144" type="line"/>
-      <point x="1309" y="1144" type="line"/>
-      <point x="1309" y="0" type="line"/>
-      <point x="1164" y="0" type="line"/>
-      <point x="1164" y="720" type="line"/>
-      <point x="294" y="720" type="line"/>
-      <point x="294" y="0" type="line"/>
-      <point x="148" y="0" type="line"/>
-      <point x="148" y="1144" type="line"/>
+      <point x="1467" y="1144" type="line"/>
+      <point x="1467" y="1258" type="line"/>
+      <point x="48" y="1258" type="line"/>
     </contour>
-    <contour>
-      <point x="1164" y="1144" type="line"/>
-      <point x="294" y="1144" type="line"/>
-      <point x="294" y="836" type="line"/>
-      <point x="1164" y="836" type="line"/>
-    </contour>
+    <component base="H"/>
   </outline>
 </glyph>

@@ -4,56 +4,66 @@
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="590" y="653" type="line"/>
-      <point x="454" y="530" type="line"/>
-      <point x="825" y="0" type="line"/>
-      <point x="1066" y="0" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="1073" y="0" type="line"/>
+      <point x="647" y="583" type="line"/>
+      <point x="1019" y="1023" type="line"/>
+      <point x="763" y="1023" type="line"/>
+      <point x="359" y="558" type="line"/>
+      <point x="359" y="1023" type="line"/>
+      <point x="137" y="1023" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="359" y="319" type="line"/>
+      <point x="497" y="461" type="line"/>
     </contour>
-    <contour>
-      <point x="767" y="1023" type="line"/>
-      <point x="207" y="382" type="line"/>
-      <point x="207" y="382"/>
-      <point x="207" y="172"/>
-      <point x="207" y="172" type="curve"/>
-      <point x="507" y="482" type="line"/>
-      <point x="622" y="567" type="line"/>
-      <point x="1011" y="1023" type="line"/>
-    </contour>
-    <component base="lc_main_stem"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>kgreenlandic</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1010</integer>
+        </dict>
       </dict>
       <key>components</key>
       <array/>
       <key>contours</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>kgreenlandic</string>
       <key>points</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>segmentType</key>
       <string>curve</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <integer>1010</integer>
+      <string>1010</string>
       <key>x</key>
-      <integer>271</integer>
+      <string>271</string>
       <key>y</key>
-      <integer>446</integer>
+      <string>446</string>
     </dict>
   </lib>
 </glyph>

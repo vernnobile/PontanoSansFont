@@ -1,59 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="1284"/>
+  <advance width="1307"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="680" y="996" type="line"/>
-      <point x="1308" y="0" type="line"/>
-      <point x="1059" y="0" type="line"/>
-      <point x="526" y="847" type="line"/>
+      <point x="134" y="0" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="365" y="536" type="line"/>
+      <point x="580" y="759" type="line"/>
+      <point x="1056" y="0" type="line"/>
+      <point x="1317" y="0" type="line"/>
+      <point x="738" y="922" type="line"/>
+      <point x="1265" y="1464" type="line"/>
+      <point x="987" y="1464" type="line"/>
+      <point x="365" y="809" type="line"/>
+      <point x="365" y="1464" type="line"/>
+      <point x="134" y="1464" type="line"/>
     </contour>
     <contour>
-      <point x="1254" y="1464" type="line"/>
-      <point x="1254" y="1464"/>
-      <point x="251" y="430"/>
-      <point x="251" y="430" type="curve"/>
-      <point x="251" y="430"/>
-      <point x="248" y="685"/>
-      <point x="248" y="685" type="curve"/>
-      <point x="990" y="1464" type="line"/>
+      <point x="653.5" y="0" type="move" name="bot"/>
     </contour>
-    <component base="uc_main_stem" xOffset="32"/>
+    <contour>
+      <point x="653.5" y="1464" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1307</integer>
+        </dict>
       </dict>
       <key>components</key>
       <array/>
       <key>contours</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>K</string>
       <key>points</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>segmentType</key>
       <string>line</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <integer>1284</integer>
+      <string>1252</string>
       <key>x</key>
-      <integer>514</integer>
+      <string>1003</string>
       <key>y</key>
-      <integer>878</integer>
+      <string>1464</string>
     </dict>
   </lib>
 </glyph>

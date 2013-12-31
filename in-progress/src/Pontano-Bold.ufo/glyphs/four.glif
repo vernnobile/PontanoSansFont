@@ -1,31 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="1246"/>
+  <advance width="1252"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="106" y="507" type="line"/>
-      <point x="628" y="1464" type="line"/>
-      <point x="930" y="1464" type="line"/>
-      <point x="930" y="510" type="line"/>
-      <point x="1165" y="510" type="line"/>
-      <point x="1165" y="347" type="line"/>
-      <point x="931" y="347" type="line"/>
-      <point x="931" y="0" type="line"/>
-      <point x="723" y="0" type="line"/>
-      <point x="723" y="347" type="line"/>
-      <point x="106" y="347" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="968" y="0" type="line"/>
+      <point x="968" y="346" type="line"/>
+      <point x="1199" y="346" type="line"/>
+      <point x="1199" y="516" type="line"/>
+      <point x="967" y="516" type="line"/>
+      <point x="967" y="1464" type="line"/>
+      <point x="651" y="1464" type="line"/>
+      <point x="103" y="513" type="line"/>
+      <point x="103" y="346" type="line"/>
+      <point x="750" y="346" type="line"/>
     </contour>
     <contour>
-      <point x="723" y="1265" type="line"/>
-      <point x="345" y="510" type="line"/>
-      <point x="723" y="510" type="line"/>
+      <point x="315" y="516" type="line"/>
+      <point x="750" y="1317" type="line"/>
+      <point x="750" y="516" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>four</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1252</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

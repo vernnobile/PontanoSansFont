@@ -1,35 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1230"/>
+  <advance width="1234"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="253" y="1464" type="curve"/>
-      <point x="1149" y="1464" type="line"/>
-      <point x="1149" y="1300" type="line"/>
-      <point x="253" y="1300" type="line"/>
-      <point x="253" y="1300"/>
-      <point x="253" y="1464"/>
+      <point x="134" y="0" type="line"/>
+      <point x="1164" y="0" type="line"/>
+      <point x="1164" y="172" type="line"/>
+      <point x="365" y="172" type="line"/>
+      <point x="365" y="690" type="line"/>
+      <point x="1052" y="690" type="line"/>
+      <point x="1052" y="866" type="line"/>
+      <point x="365" y="866" type="line"/>
+      <point x="365" y="1292" type="line"/>
+      <point x="1153" y="1292" type="line"/>
+      <point x="1153" y="1464" type="line"/>
+      <point x="134" y="1464" type="line"/>
     </contour>
     <contour>
-      <point x="253" y="694"/>
-      <point x="253" y="862"/>
-      <point x="253" y="862" type="curve"/>
-      <point x="1047" y="862" type="line"/>
-      <point x="1047" y="694" type="line"/>
-      <point x="253" y="694" type="line"/>
+      <point x="849" y="1" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="1160" y="0" type="line"/>
-      <point x="253" y="0" type="line"/>
-      <point x="253" y="0"/>
-      <point x="253" y="164"/>
-      <point x="253" y="164" type="curve"/>
-      <point x="1160" y="164" type="line"/>
+      <point x="617" y="0" type="move" name="bot"/>
     </contour>
-    <component base="uc_main_stem" xOffset="32"/>
     <contour>
-      <point x="646" y="1462" type="move" name="top"/>
+      <point x="617" y="1464" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -37,34 +32,47 @@
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1234</integer>
+        </dict>
       </dict>
       <key>components</key>
       <array/>
       <key>contours</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>E</string>
       <key>points</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>segmentType</key>
       <string>line</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <integer>1230</integer>
+      <string>1202</string>
       <key>x</key>
-      <integer>1160</integer>
+      <string>1128</string>
       <key>y</key>
-      <integer>112</integer>
+      <string>112</string>
     </dict>
   </lib>
 </glyph>

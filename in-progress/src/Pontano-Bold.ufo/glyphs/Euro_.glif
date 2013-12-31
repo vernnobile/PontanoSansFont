@@ -4,24 +4,16 @@
   <unicode hex="20AC"/>
   <outline>
     <contour>
-      <point x="-54" y="783"/>
-      <point x="680" y="783"/>
-      <point x="680" y="783" type="curve"/>
-      <point x="680" y="927" type="line"/>
-      <point x="680" y="927"/>
-      <point x="-54" y="927"/>
-      <point x="-54" y="927" type="curve"/>
-      <point x="-54" y="783" type="line"/>
+      <point x="-56" y="521" type="line"/>
+      <point x="678" y="521" type="line"/>
+      <point x="678" y="672" type="line"/>
+      <point x="-56" y="672" type="line"/>
     </contour>
     <contour>
-      <point x="680" y="525" type="curve"/>
-      <point x="680" y="669" type="line"/>
-      <point x="680" y="669"/>
-      <point x="-54" y="669"/>
-      <point x="-54" y="669" type="curve"/>
-      <point x="-54" y="525" type="line"/>
-      <point x="-54" y="525"/>
-      <point x="680" y="525"/>
+      <point x="-56" y="781" type="line"/>
+      <point x="678" y="781" type="line"/>
+      <point x="678" y="932" type="line"/>
+      <point x="-56" y="932" type="line"/>
     </contour>
     <component base="C"/>
   </outline>
@@ -30,24 +22,39 @@
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1275</integer>
+        </dict>
       </dict>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>Euro</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <integer>1275</integer>
+      <string>1275</string>
     </dict>
   </lib>
 </glyph>

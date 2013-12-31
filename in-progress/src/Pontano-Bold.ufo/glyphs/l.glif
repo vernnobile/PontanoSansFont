@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="473"/>
+  <advance width="495"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="127" y="0" type="line"/>
-      <point x="127" y="1474" type="line"/>
-      <point x="339" y="1474" type="line"/>
-      <point x="339" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="362" y="1474" type="line"/>
+      <point x="140" y="1474" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="1023" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="247.5" y="1023" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="270" y="1464" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="247.5" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>l</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>495</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

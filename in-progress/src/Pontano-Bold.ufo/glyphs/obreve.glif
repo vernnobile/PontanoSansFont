@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="obreve" format="1">
-  <advance width="1064"/>
+  <advance width="1108"/>
   <unicode hex="014F"/>
   <outline>
-    <component base="breve" xOffset="130" yOffset="-37"/>
+    <component base="breve" xOffset="136"/>
     <component base="o"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>obreve</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1108</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
