@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla" format="1">
-  <advance width="929"/>
+  <advance width="931"/>
   <unicode hex="015F"/>
   <outline>
-    <component base="cedilla" xOffset="209" yOffset="-2"/>
     <component base="s"/>
+    <component base="cedilla" xOffset="228"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

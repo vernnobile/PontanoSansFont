@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_ascender_stem" format="1">
+  <advance width="1086"/>
+  <outline>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="1474" type="line"/>
+      <point x="115" y="1474" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>b</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <string>0</string>
+        <string>0</string>
+        <string>1</string>
+        <string>1</string>
+      </array>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <dict>
+      </dict>
+      <key>lib</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>lc_main_stem</string>
+      <key>points</key>
+      <dict>
+      </dict>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <string>1086</string>
+      <key>x</key>
+      <string>127</string>
+      <key>y</key>
+      <string>1023</string>
+    </dict>
+  </lib>
+</glyph>

@@ -3,17 +3,7 @@
 languagesystem DFLT dflt;
 languagesystem grek dflt;
 languagesystem latn dflt;
-languagesystem latn CAT;
-languagesystem latn ROM;
-languagesystem latn MOL;
-languagesystem latn TRK;
 
-feature aalt {
-# automatic
-feature locl;
-feature frac;
-feature ordn;
-} aalt;
 feature locl {
 # automatic
 script latn;
@@ -56,6 +46,9 @@ feature dlig {
 # automatic
 sub f i by uniFB01;
 sub f l by uniFB02;
+sub f f by uniFB00;
+sub f f i by uniFB03;
+sub f f l by uniFB04;
 } dlig;
 feature cpsp {
 # automatic

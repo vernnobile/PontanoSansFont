@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="130" y="1259" type="line"/>
-      <point x="130" y="1359" type="line"/>
-      <point x="584" y="1359" type="line"/>
       <point x="584" y="1259" type="line"/>
+      <point x="584" y="1359" type="line"/>
+      <point x="130" y="1359" type="line"/>
     </contour>
     <contour>
       <point x="352" y="1023" type="move" name="_top"/>
@@ -16,8 +16,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

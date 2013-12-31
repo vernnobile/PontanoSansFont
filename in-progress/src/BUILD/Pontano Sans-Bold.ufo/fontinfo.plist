@@ -37,7 +37,7 @@
 	<key>openTypeNameUniqueID</key>
 	<string>vernon adams : Pontano Sans : 2-3-2012</string>
 	<key>openTypeNameVersion</key>
-	<string>1</string>
+	<integer>1</integer>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -142,8 +142,6 @@
 		<integer>-394</integer>
 		<integer>-320</integer>
 	</array>
-	<key>postscriptWeightName</key>
-	<string>Regular</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

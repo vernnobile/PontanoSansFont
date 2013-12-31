@@ -17,31 +17,28 @@
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <string>0</string>
-        <string>0</string>
-        <string>1</string>
-        <string>1</string>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>lc_descender_stem</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <string>1057</string>
+      <integer>1057</integer>
     </dict>
   </lib>
 </glyph>

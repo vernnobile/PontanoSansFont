@@ -4,6 +4,20 @@
   <unicode hex="00B0"/>
   <outline>
     <contour>
+      <point x="240" y="1137" type="curve"/>
+      <point x="165" y="1137"/>
+      <point x="122" y="1193"/>
+      <point x="122" y="1267" type="curve"/>
+      <point x="122" y="1341"/>
+      <point x="165" y="1397"/>
+      <point x="240" y="1397" type="curve"/>
+      <point x="315" y="1397"/>
+      <point x="358" y="1341"/>
+      <point x="358" y="1267" type="curve"/>
+      <point x="358" y="1193"/>
+      <point x="315" y="1137"/>
+    </contour>
+    <contour>
       <point x="240" y="1012" type="curve"/>
       <point x="408" y="1012"/>
       <point x="502" y="1134"/>
@@ -17,26 +31,11 @@
       <point x="-22" y="1134"/>
       <point x="72" y="1012"/>
     </contour>
-    <contour>
-      <point x="240" y="1397" type="curve"/>
-      <point x="315" y="1397"/>
-      <point x="358" y="1341"/>
-      <point x="358" y="1267" type="curve"/>
-      <point x="358" y="1193"/>
-      <point x="315" y="1137"/>
-      <point x="240" y="1137" type="curve"/>
-      <point x="165" y="1137"/>
-      <point x="122" y="1193"/>
-      <point x="122" y="1267" type="curve"/>
-      <point x="122" y="1341"/>
-      <point x="165" y="1397"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

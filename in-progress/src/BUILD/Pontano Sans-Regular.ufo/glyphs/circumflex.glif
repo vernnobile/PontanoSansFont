@@ -4,13 +4,13 @@
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="315" y="1474" type="line"/>
-      <point x="490" y="1474" type="line"/>
-      <point x="675" y="1154" type="line"/>
-      <point x="578" y="1154" type="line"/>
-      <point x="402" y="1407" type="line"/>
-      <point x="227" y="1154" type="line"/>
       <point x="130" y="1154" type="line"/>
+      <point x="227" y="1154" type="line"/>
+      <point x="402" y="1407" type="line"/>
+      <point x="578" y="1154" type="line"/>
+      <point x="675" y="1154" type="line"/>
+      <point x="490" y="1474" type="line"/>
+      <point x="315" y="1474" type="line"/>
     </contour>
     <contour>
       <point x="422" y="1023" type="move" name="_top"/>
@@ -19,8 +19,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

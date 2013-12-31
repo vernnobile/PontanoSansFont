@@ -3,13 +3,13 @@
   <advance width="1057"/>
   <outline>
     <contour>
+      <point x="127" y="-350" type="line"/>
       <point x="269" y="-350" type="line"/>
       <point x="269" y="-350"/>
       <point x="268" y="798"/>
       <point x="268" y="798" type="curve"/>
       <point x="249" y="1023" type="line"/>
       <point x="127" y="1023" type="line"/>
-      <point x="127" y="-350" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,31 +17,28 @@
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <string>0</string>
-        <string>0</string>
-        <string>1</string>
-        <string>1</string>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
       </array>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>lc_descender_stem</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <string>1057</string>
+      <integer>1057</integer>
     </dict>
   </lib>
 </glyph>

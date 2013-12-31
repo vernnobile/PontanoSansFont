@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="1030"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="406.906" y="-171" type="line"/>
+      <point x="634.934" y="805" type="line"/>
+      <point x="848.116" y="805" type="line"/>
+      <point x="866.33" y="895" type="line"/>
+      <point x="654.336" y="895" type="line"/>
+      <point x="738.47" y="1253.31" type="line"/>
+      <point x="761.808" y="1351.77"/>
+      <point x="782.245" y="1449"/>
+      <point x="859" y="1449" type="curve"/>
+      <point x="892.31" y="1449"/>
+      <point x="917.487" y="1402.01"/>
+      <point x="916.993" y="1298" type="curve"/>
+      <point x="1089.99" y="1298" type="line"/>
+      <point x="1091.17" y="1487.87"/>
+      <point x="980.484" y="1537"/>
+      <point x="852" y="1537" type="curve"/>
+      <point x="654.724" y="1537"/>
+      <point x="572.359" y="1399.73"/>
+      <point x="534.549" y="1241.7" type="curve"/>
+      <point x="452.091" y="895" type="line"/>
+      <point x="289.884" y="895" type="line"/>
+      <point x="271.67" y="805" type="line"/>
+      <point x="436.664" y="805" type="line"/>
+      <point x="207.694" y="-170" type="line"/>
+    </contour>
+  </outline>
+</glyph>

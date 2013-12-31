@@ -4,10 +4,16 @@
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="133" y="1474" type="line"/>
       <point x="133" y="0" type="line"/>
       <point x="275" y="0" type="line"/>
       <point x="275" y="1474" type="line"/>
+      <point x="133" y="1474" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="274" y="1023" type="move" name="caron.alt"/>
     </contour>
     <contour>
       <point x="226" y="1474" type="move" name="top"/>
@@ -16,8 +22,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

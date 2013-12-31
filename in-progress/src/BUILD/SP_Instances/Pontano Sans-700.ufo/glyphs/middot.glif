@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="middot" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="168" y="523" type="line"/>
+      <point x="442" y="523" type="line"/>
+      <point x="442" y="767" type="line"/>
+      <point x="168" y="767" type="line"/>
+    </contour>
+  </outline>
+</glyph>

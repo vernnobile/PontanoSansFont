@@ -4,10 +4,10 @@
   <unicode hex="00D0"/>
   <outline>
     <contour>
-      <point x="0" y="808" type="line"/>
       <point x="0" y="681" type="line"/>
       <point x="570" y="681" type="line"/>
       <point x="570" y="808" type="line"/>
+      <point x="0" y="808" type="line"/>
     </contour>
     <component base="D"/>
   </outline>
@@ -16,24 +16,21 @@
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>Eth</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <string>1444</string>
+      <integer>1444</integer>
     </dict>
   </lib>
 </glyph>

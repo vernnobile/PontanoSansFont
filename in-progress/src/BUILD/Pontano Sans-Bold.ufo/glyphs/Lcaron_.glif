@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="1">
-  <advance width="1020"/>
+  <advance width="1077"/>
   <unicode hex="013D"/>
   <outline>
-    <component base="comma" xOffset="1094" yOffset="1272"/>
     <component base="L"/>
+    <component base="caron.alt" xOffset="272" yOffset="-123"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

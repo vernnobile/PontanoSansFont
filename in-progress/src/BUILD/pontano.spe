@@ -8,10 +8,10 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="Auto" />
+<data name="previewTypeSize" value="64.0" />
 <data name="previewtext" value="Honda Medium" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.73964081777" />
+<data name="projectionAngle" value="2.68564524638" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
@@ -32,4 +32,24 @@
 </master>
 
 <!-- instance definitions -->
+<instance familyname="Pontano Sans" sequence="" stylename="400">
+<location>
+<dimension name="new_axis_1" xvalue="400" />
+</location>
+</instance>
+<instance familyname="Pontano Sans" sequence="" stylename="700">
+<location>
+<dimension name="new_axis_1" xvalue="1150" />
+</location>
+</instance>
+<instance familyname="Pontano Sans" sequence="" stylename="500">
+<location>
+<dimension name="new_axis_1" xvalue="800" />
+</location>
+</instance>
+<instance familyname="Pontano Sans" sequence="" stylename="300">
+<location>
+<dimension name="new_axis_1" xvalue="-100" />
+</location>
+</instance>
 </designspace>

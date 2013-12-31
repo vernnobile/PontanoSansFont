@@ -4,11 +4,6 @@
   <unicode hex="0152"/>
   <outline>
     <contour>
-      <point x="332" y="1491"/>
-      <point x="112" y="1282"/>
-      <point x="112" y="740" type="curve" smooth="yes"/>
-      <point x="112" y="186"/>
-      <point x="324" y="-25"/>
       <point x="707" y="-25" type="curve" smooth="yes"/>
       <point x="956" y="-25"/>
       <point x="1116" y="80"/>
@@ -29,13 +24,13 @@
       <point x="1100" y="1397"/>
       <point x="956" y="1491"/>
       <point x="711" y="1491" type="curve" smooth="yes"/>
+      <point x="332" y="1491"/>
+      <point x="112" y="1282"/>
+      <point x="112" y="740" type="curve" smooth="yes"/>
+      <point x="112" y="186"/>
+      <point x="324" y="-25"/>
     </contour>
     <contour>
-      <point x="1061" y="1377"/>
-      <point x="1164" y="1235"/>
-      <point x="1164" y="700" type="curve" smooth="yes"/>
-      <point x="1164" y="268"/>
-      <point x="1043" y="93"/>
       <point x="708" y="93" type="curve" smooth="yes"/>
       <point x="370" y="93"/>
       <point x="265" y="302"/>
@@ -43,6 +38,11 @@
       <point x="265" y="1130"/>
       <point x="358" y="1371"/>
       <point x="710" y="1374" type="curve" smooth="yes"/>
+      <point x="1061" y="1377"/>
+      <point x="1164" y="1235"/>
+      <point x="1164" y="700" type="curve" smooth="yes"/>
+      <point x="1164" y="268"/>
+      <point x="1043" y="93"/>
     </contour>
   </outline>
   <lib>
@@ -50,34 +50,29 @@
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>OE</string>
       <key>points</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>segmentType</key>
       <string>curve</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <string>2171</string>
+      <integer>2171</integer>
       <key>x</key>
-      <string>368</string>
+      <integer>368</integer>
       <key>y</key>
-      <string>1374</string>
+      <integer>1374</integer>
     </dict>
   </lib>
 </glyph>

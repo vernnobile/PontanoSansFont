@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="1087"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="477" y="-24" type="curve" smooth="yes"/>
+      <point x="646" y="-24"/>
+      <point x="759" y="45"/>
+      <point x="823" y="175" type="curve"/>
+      <point x="823" y="0" type="line"/>
+      <point x="958" y="0" type="line"/>
+      <point x="957" y="1023" type="line"/>
+      <point x="823" y="1023" type="line"/>
+      <point x="822" y="516" type="line" smooth="yes"/>
+      <point x="822" y="269"/>
+      <point x="741" y="72"/>
+      <point x="505" y="72" type="curve" smooth="yes"/>
+      <point x="304" y="72"/>
+      <point x="260" y="200"/>
+      <point x="260" y="428" type="curve" smooth="yes"/>
+      <point x="260" y="1023" type="line"/>
+      <point x="125" y="1023" type="line"/>
+      <point x="125" y="465" type="line" smooth="yes"/>
+      <point x="125" y="256"/>
+      <point x="135" y="-24"/>
+    </contour>
+    <contour>
+      <point x="537" y="1023" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict/>
+      <key>baseGlyph</key>
+      <string>lc_main_stem</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>components</key>
+      <dict/>
+      <key>contours</key>
+      <dict/>
+      <key>lib</key>
+      <dict/>
+      <key>name</key>
+      <string>u</string>
+      <key>points</key>
+      <dict/>
+      <key>segmentType</key>
+      <string>curve</string>
+      <key>transformation</key>
+      <array>
+        <string>-0.9999999999999996</string>
+        <string>-1.665334536937734e-16</string>
+        <string>1.665334536937734e-16</string>
+        <string>-0.9999999999999996</string>
+        <string>1086</string>
+        <string>1024</string>
+      </array>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <string>1086</string>
+      <key>x</key>
+      <string>263</string>
+      <key>y</key>
+      <string>421</string>
+    </dict>
+  </lib>
+</glyph>

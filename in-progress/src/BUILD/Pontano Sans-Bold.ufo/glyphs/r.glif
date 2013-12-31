@@ -4,11 +4,6 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="506" y="1035"/>
-      <point x="406" y="984"/>
-      <point x="334" y="865" type="curve"/>
-      <point x="334" y="1023" type="line"/>
-      <point x="122" y="1023" type="line"/>
       <point x="122" y="0" type="line"/>
       <point x="334" y="0" type="line"/>
       <point x="334" y="502" type="line" smooth="yes"/>
@@ -16,6 +11,14 @@
       <point x="417" y="847"/>
       <point x="636" y="847" type="curve"/>
       <point x="636" y="1035" type="line"/>
+      <point x="506" y="1035"/>
+      <point x="406" y="984"/>
+      <point x="334" y="865" type="curve"/>
+      <point x="334" y="1023" type="line"/>
+      <point x="122" y="1023" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="442" y="1023" type="move" name="top"/>
@@ -26,34 +29,29 @@
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>r</string>
       <key>points</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>segmentType</key>
       <string>line</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <string>626</string>
+      <integer>626</integer>
       <key>x</key>
-      <string>127</string>
+      <integer>127</integer>
       <key>y</key>
-      <string>1023</string>
+      <integer>1023</integer>
     </dict>
   </lib>
 </glyph>

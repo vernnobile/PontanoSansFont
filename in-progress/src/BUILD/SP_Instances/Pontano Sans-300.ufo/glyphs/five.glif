@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five" format="1">
+  <advance width="1155"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="591" y="-24" type="curve" smooth="yes"/>
+      <point x="883" y="-24"/>
+      <point x="1073" y="169"/>
+      <point x="1073" y="461" type="curve" smooth="yes"/>
+      <point x="1073" y="701"/>
+      <point x="932" y="928"/>
+      <point x="611" y="928" type="curve" smooth="yes"/>
+      <point x="531" y="928"/>
+      <point x="396" y="903"/>
+      <point x="298" y="820" type="curve"/>
+      <point x="336" y="818" type="line"/>
+      <point x="411" y="1343" type="line"/>
+      <point x="960" y="1343" type="line"/>
+      <point x="960" y="1464" type="line"/>
+      <point x="286" y="1464" type="line"/>
+      <point x="190" y="744" type="line"/>
+      <point x="279" y="688" type="line"/>
+      <point x="375" y="772"/>
+      <point x="487" y="814"/>
+      <point x="606" y="814" type="curve" smooth="yes"/>
+      <point x="825" y="814"/>
+      <point x="932" y="635"/>
+      <point x="932" y="453" type="curve" smooth="yes"/>
+      <point x="932" y="233"/>
+      <point x="797" y="87"/>
+      <point x="583" y="87" type="curve" smooth="yes"/>
+      <point x="435" y="87"/>
+      <point x="296" y="188"/>
+      <point x="223" y="357" type="curve"/>
+      <point x="105" y="309" type="line"/>
+      <point x="196" y="77"/>
+      <point x="376" y="-24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <dict/>
+      <key>lib</key>
+      <dict/>
+      <key>name</key>
+      <string>five</string>
+      <key>points</key>
+      <dict/>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <string>1163</string>
+      <key>x</key>
+      <string>528</string>
+      <key>y</key>
+      <string>928</string>
+    </dict>
+  </lib>
+</glyph>

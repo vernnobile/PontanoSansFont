@@ -4,13 +4,12 @@
   <unicode hex="0218"/>
   <outline>
     <component base="S"/>
-    <component base="uni0326" xOffset="409" yOffset="-81"/>
+    <component base="commaaccent" xOffset="409" yOffset="-81"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>
