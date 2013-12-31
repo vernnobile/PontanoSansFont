@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="1142"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="478" y="-24" type="curve" smooth="yes"/>
+      <point x="623" y="-24"/>
+      <point x="725" y="29"/>
+      <point x="796" y="123" type="curve"/>
+      <point x="796" y="0" type="line"/>
+      <point x="1018" y="0" type="line"/>
+      <point x="1018" y="1023" type="line"/>
+      <point x="796" y="1023" type="line"/>
+      <point x="796" y="534" type="line" smooth="yes"/>
+      <point x="796" y="336"/>
+      <point x="738" y="133"/>
+      <point x="521" y="133" type="curve" smooth="yes"/>
+      <point x="384" y="133"/>
+      <point x="335" y="225"/>
+      <point x="335" y="420" type="curve" smooth="yes"/>
+      <point x="335" y="1023" type="line"/>
+      <point x="113" y="1023" type="line"/>
+      <point x="113" y="423" type="line" smooth="yes"/>
+      <point x="113" y="215"/>
+      <point x="158" y="-24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>segmentType</key>
+      <string>curve</string>
+    <key>b</key>
+      <dict>
+      </dict>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>baseGlyph</key>
+      <string>lc_main_stem</string>
+    <key>width</key>
+      <string>1086</string>
+    <key>points</key>
+      <dict>
+      </dict>
+    <key>contours</key>
+      <dict>
+      </dict>
+    <key>components</key>
+      <dict>
+      </dict>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>y</key>
+      <string>421</string>
+    <key>x</key>
+      <string>263</string>
+    <key>transformation</key>
+      <array>
+        <string>-0.9999999999999996</string>
+        <string>-1.665334536937734e-16</string>
+        <string>1.665334536937734e-16</string>
+        <string>-0.9999999999999996</string>
+        <string>1086</string>
+        <string>1024</string>
+      </array>
+    <key>name</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>
