@@ -4,15 +4,6 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="559.5" y="1464" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="559.5" y="1023" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="559.5" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="457" y="0" type="line"/>
       <point x="688" y="0" type="line"/>
       <point x="688" y="1292" type="line"/>
@@ -22,43 +13,44 @@
       <point x="9" y="1292" type="line"/>
       <point x="457" y="1292" type="line"/>
     </contour>
+    <contour>
+      <point x="559.5" y="1464" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="559.5" y="1023" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="559.5" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>b</key>
-      <dict>
-      </dict>
-    <key>anchors</key>
-      <array>
-      </array>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>y</key>
-      <string>1352</string>
-    <key>width</key>
-      <string>1119</string>
-    <key>points</key>
-      <dict>
-      </dict>
-    <key>contours</key>
-      <dict>
-      </dict>
-    <key>components</key>
-      <array>
-      </array>
-    <key>segmentType</key>
-      <string>line</string>
-    <key>x</key>
-      <string>483</string>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>name</key>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <dict/>
+      <key>lib</key>
+      <dict/>
+      <key>name</key>
       <string>T</string>
+      <key>points</key>
+      <dict/>
+      <key>segmentType</key>
+      <string>line</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <string>1119</string>
+      <key>x</key>
+      <string>483</string>
+      <key>y</key>
+      <string>1352</string>
     </dict>
   </lib>
 </glyph>

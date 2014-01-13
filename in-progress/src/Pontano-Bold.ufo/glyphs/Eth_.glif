@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="1444"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="0" y="678" type="line"/>
+      <point x="573" y="678" type="line"/>
+      <point x="573" y="811" type="line"/>
+      <point x="0" y="811" type="line"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>lib</key>
+      <dict/>
+      <key>name</key>
+      <string>Eth</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <string>1444</string>
+    </dict>
+  </lib>
+</glyph>
