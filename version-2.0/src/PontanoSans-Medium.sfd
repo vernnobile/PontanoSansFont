@@ -1,0 +1,12778 @@
+SplineFontDB: 3.0
+FontName: PontanoSans-Medium
+FullName: Pontano Sans Medium
+FamilyName: Pontano Sans
+Weight: Medium
+Copyright: Digitized data Copyright (c) 2011-2013, vernon adams.
+Version: 2.0
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 0
+Ascent: 1638
+Descent: 410
+UFOAscent: 1474
+UFODescent: -410
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1390606359
+ModificationTime: 1390606359
+PfmFamily: 0
+TTFWeight: 500
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 2074
+OS2TypoAOffset: 0
+OS2TypoDescent: -605
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 2074
+OS2WinAOffset: 0
+OS2WinDescent: 605
+OS2WinDOffset: 0
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'NeWT'
+Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLatinloo subtable"  } ['kern' ('latn' <'dflt' > ) ]
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "Version 2.0" "" "Pontano Sans is a trademark of Vernon Adams and may be registered in certain jurisdictions." "newtypography" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" "Copyright (c) 2013.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "Pontano Sans" "Medium" "PontanoSans-Medium" 
+PickledData: "(dp1
+S'public.glyphOrder'
+p2
+(S'A'
+S'Aacute'
+S'Abreve'
+S'Acircumflex'
+S'Adieresis'
+S'Agrave'
+S'Amacron'
+S'Aogonek'
+S'Aring'
+S'Atilde'
+S'AE'
+S'AEacute'
+S'AEmacron'
+S'B'
+S'C'
+S'Cacute'
+S'Ccaron'
+S'Ccedilla'
+S'Ccircumflex'
+S'Cdotaccent'
+S'D'
+S'Eth'
+S'Dcaron'
+S'Dcroat'
+S'Dz'
+S'E'
+S'Eacute'
+S'Ebreve'
+S'Ecaron'
+S'Ecircumflex'
+S'Edieresis'
+S'Edotaccent'
+S'Egrave'
+S'Emacron'
+S'Eogonek'
+S'F'
+S'G'
+S'Gbreve'
+S'Gcaron'
+S'Gcircumflex'
+S'Gcommaaccent'
+S'Gdotaccent'
+S'H'
+S'Hbar'
+S'Hcircumflex'
+S'I'
+S'IJ'
+S'Iacute'
+S'Ibreve'
+S'Icircumflex'
+S'Idieresis'
+S'Idotaccent'
+S'Igrave'
+S'Imacron'
+S'Iogonek'
+S'Itilde'
+S'J'
+S'Jcircumflex'
+S'K'
+S'Kcommaaccent'
+S'L'
+S'Lacute'
+S'Lcaron'
+S'Lcommaaccent'
+S'Ldot'
+S'Lslash'
+S'M'
+S'N'
+S'Nacute'
+S'Ncaron'
+S'Ncommaaccent'
+S'Eng'
+S'Ntilde'
+S'O'
+S'Oacute'
+S'Obreve'
+S'Ocircumflex'
+S'Odieresis'
+S'Ograve'
+S'Ohungarumlaut'
+S'Omacron'
+S'Oslash'
+S'Oslashacute'
+S'Otilde'
+S'OE'
+S'P'
+S'Thorn'
+S'Q'
+S'R'
+S'Racute'
+S'Rcaron'
+S'Rcommaaccent'
+S'S'
+S'Sacute'
+S'Scaron'
+S'Scedilla'
+S'Scircumflex'
+S'Scommaaccent'
+S'T'
+S'Tbar'
+S'Tcaron'
+S'Tcedilla'
+S'Tcommaaccent'
+S'U'
+S'Uacute'
+S'Ubreve'
+S'Ucircumflex'
+S'Udieresis'
+S'Ugrave'
+S'Uhungarumlaut'
+S'Umacron'
+S'Uogonek'
+S'Uring'
+S'Utilde'
+S'V'
+S'W'
+S'Wacute'
+S'Wcircumflex'
+S'Wdieresis'
+S'Wgrave'
+S'X'
+S'Y'
+S'Yacute'
+S'Ycircumflex'
+S'Ydieresis'
+S'Ygrave'
+S'Z'
+S'Zacute'
+S'Zcaron'
+S'Zdotaccent'
+S'uni01C4'
+S'uni01C5'
+S'uni01C7'
+S'uni01C8'
+S'uni01CA'
+S'uni01CB'
+S'uni01CD'
+S'uni01CF'
+S'uni01D1'
+S'uni01D3'
+S'uni01E8'
+S'uni01EA'
+S'uni01F1'
+S'uni01F2'
+S'uni01F4'
+S'uni01F8'
+S'uni0200'
+S'uni0202'
+S'uni0204'
+S'uni0206'
+S'uni0208'
+S'uni020A'
+S'uni020C'
+S'uni020E'
+S'uni0210'
+S'uni0212'
+S'uni0214'
+S'uni0216'
+S'uni021A'
+S'uni021E'
+S'uni0226'
+S'uni0228'
+S'uni0232'
+S'uni1E02'
+S'uni1E0A'
+S'uni1E1E'
+S'uni1E40'
+S'uni1E56'
+S'uni1E60'
+S'uni1E6A'
+S'uni1EBC'
+S'uni1EF8'
+S'a'
+S'aacute'
+S'abreve'
+S'acircumflex'
+S'adieresis'
+S'agrave'
+S'amacron'
+S'aogonek'
+S'aring'
+S'atilde'
+S'ae'
+S'aeacute'
+S'uni01E3'
+S'b'
+S'c'
+S'cacute'
+S'ccaron'
+S'ccedilla'
+S'ccircumflex'
+S'cdotaccent'
+S'd'
+S'eth'
+S'dcaron'
+S'dcroat'
+S'e'
+S'eacute'
+S'ebreve'
+S'ecaron'
+S'ecircumflex'
+S'edieresis'
+S'edotaccent'
+S'egrave'
+S'emacron'
+S'eogonek'
+S'f'
+S'g'
+S'gbreve'
+S'gcaron'
+S'gcircumflex'
+S'gcommaaccent'
+S'gdotaccent'
+S'h'
+S'hbar'
+S'hcircumflex'
+S'i'
+S'dotlessi'
+S'iacute'
+S'ibreve'
+S'icircumflex'
+S'idblgrave'
+S'idieresis'
+S'igrave'
+S'iinvertedbreve'
+S'ij'
+S'imacron'
+S'iogonek'
+S'itilde'
+S'j'
+S'uni0237'
+S'jcircumflex'
+S'k'
+S'kcommaaccent'
+S'kgreenlandic'
+S'l'
+S'lacute'
+S'lcaron'
+S'lcommaaccent'
+S'ldot'
+S'lslash'
+S'm'
+S'n'
+S'nacute'
+S'napostrophe'
+S'ncaron'
+S'ncommaaccent'
+S'eng'
+S'ntilde'
+S'o'
+S'oacute'
+S'obreve'
+S'ocircumflex'
+S'odieresis'
+S'ograve'
+S'ohungarumlaut'
+S'omacron'
+S'oslash'
+S'oslashacute'
+S'otilde'
+S'oe'
+S'p'
+S'thorn'
+S'q'
+S'r'
+S'racute'
+S'rcaron'
+S'rcommaaccent'
+S's'
+S'sacute'
+S'scaron'
+S'scedilla'
+S'scircumflex'
+S'scommaaccent'
+S'germandbls'
+S't'
+S'tbar'
+S'tcaron'
+S'tcedilla'
+S'tcommaaccent'
+S'u'
+S'uacute'
+S'ubreve'
+S'ucircumflex'
+S'udieresis'
+S'ugrave'
+S'uhungarumlaut'
+S'umacron'
+S'uni01C6'
+S'uni01C9'
+S'uni01CC'
+S'uni01CE'
+S'uni01D0'
+S'uni01D2'
+S'uni01D4'
+S'uni01E9'
+S'uni01EB'
+S'uni01F0'
+S'uni01F3'
+S'uni01F5'
+S'uni01F9'
+S'uni0201'
+S'uni0203'
+S'uni0205'
+S'uni0207'
+S'uni0209'
+S'uni020B'
+S'uni020D'
+S'uni020F'
+S'uni0211'
+S'uni0213'
+S'uni0215'
+S'uni0217'
+S'uni021B'
+S'uni021F'
+S'uni0227'
+S'uni0229'
+S'uni0233'
+S'uni1E03'
+S'uni1E0B'
+S'uni1E1F'
+S'uni1E41'
+S'uni1E57'
+S'uni1E61'
+S'uni1E6B'
+S'uni1EBD'
+S'uni1EF9'
+S'uogonek'
+S'uring'
+S'utilde'
+S'v'
+S'w'
+S'wacute'
+S'wcircumflex'
+S'wdieresis'
+S'wgrave'
+S'x'
+S'y'
+S'yacute'
+S'ycircumflex'
+S'ydieresis'
+S'ygrave'
+S'z'
+S'zacute'
+S'zcaron'
+S'zdotaccent'
+S'fi'
+S'fl'
+S'uniFB00'
+S'uniFB01'
+S'uniFB02'
+S'uniFB03'
+S'uniFB04'
+S'ordfeminine'
+S'ordmasculine'
+S'Delta'
+S'Sigma'
+S'Omega'
+S'mu'
+S'pi'
+S'uni022E'
+S'uni022F'
+S'zero'
+S'one'
+S'two'
+S'three'
+S'four'
+S'five'
+S'six'
+S'seven'
+S'eight'
+S'nine'
+S'fraction'
+S'onehalf'
+S'onequarter'
+S'threequarters'
+S'uni00B9'
+S'uni00B2'
+S'uni00B3'
+S'uni2074'
+S'asterisk'
+S'backslash'
+S'bullet'
+S'colon'
+S'comma'
+S'ellipsis'
+S'exclam'
+S'exclamdown'
+S'numbersign'
+S'period'
+S'periodcentered'
+S'question'
+S'questiondown'
+S'quotedbl'
+S'quotesingle'
+S'semicolon'
+S'slash'
+S'underscore'
+S'braceleft'
+S'braceright'
+S'bracketleft'
+S'bracketright'
+S'parenleft'
+S'parenright'
+S'emdash'
+S'endash'
+S'hyphen'
+S'uni00AD'
+S'guillemotleft'
+S'guillemotright'
+S'guilsinglleft'
+S'guilsinglright'
+S'quotedblbase'
+S'quotedblleft'
+S'quotedblright'
+S'quoteleft'
+S'quoteright'
+S'quotesinglbase'
+S'space'
+S'uni00A0'
+S'florin'
+S'Euro'
+S'cent'
+S'currency'
+S'dollar'
+S'sterling'
+S'yen'
+S'approxequal'
+S'asciitilde'
+S'divide'
+S'emptyset'
+S'equal'
+S'greater'
+S'greaterequal'
+S'infinity'
+S'integral'
+S'less'
+S'lessequal'
+S'logicalnot'
+S'minus'
+S'multiply'
+S'notequal'
+S'partialdiff'
+S'percent'
+S'perthousand'
+S'plus'
+S'plusminus'
+S'product'
+S'radical'
+S'summation'
+S'uni2215'
+S'uni2219'
+S'lozenge'
+S'afii61289'
+S'ampersand'
+S'asciicircum'
+S'at'
+S'bar'
+S'brokenbar'
+S'copyright'
+S'dagger'
+S'daggerdbl'
+S'degree'
+S'estimated'
+S'paragraph'
+S'registered'
+S'section'
+S'trademark'
+S'acute'
+S'breve'
+S'caron'
+S'cedilla'
+S'circumflex'
+S'dieresis'
+S'dotaccent'
+S'grave'
+S'hungarumlaut'
+S'macron'
+S'ogonek'
+S'ring'
+S'tilde'
+S'caron.alt'
+S'uni0307'
+S'uni030F'
+S'uni0311'
+S'uni0312'
+S'uni0326'
+S'afii57929'
+S'uni02C9'
+S'foundryicon'
+tp3
+sS'com.schriftgestaltung.fontMasterID'
+p4
+S'8DE4C137-4DC6-43A7-909D-C9F8072E6A1C'
+p5
+sS'com.schriftgestaltung.useNiceNames'
+p6
+I00
+sS'com.typemytype.robofont.layerOrder'
+p7
+(tsS'com.typemytype.robofont.segmentType'
+p8
+S'curve'
+p9
+sS'com.typemytype.robofont.sort'
+p10
+((dp11
+S'type'
+p12
+S'glyphList'
+p13
+sS'ascending'
+p14
+(S'A'
+S'Aacute'
+S'Abreve'
+S'Acircumflex'
+S'Adieresis'
+S'Agrave'
+S'Amacron'
+S'Aogonek'
+S'Aring'
+S'Atilde'
+S'AE'
+S'AEacute'
+S'AEmacron'
+S'uni01E2'
+S'B'
+S'C'
+S'Cacute'
+S'Ccaron'
+S'Ccedilla'
+S'Ccircumflex'
+S'Cdotaccent'
+S'D'
+S'Eth'
+S'Dcaron'
+S'Dcroat'
+S'Dz'
+S'E'
+S'Eacute'
+S'Ebreve'
+S'Ecaron'
+S'Ecircumflex'
+S'Edieresis'
+S'Edotaccent'
+S'Egrave'
+S'Emacron'
+S'Eogonek'
+S'F'
+S'G'
+S'Gbreve'
+S'Gcaron'
+S'Gcircumflex'
+S'Gcommaaccent'
+S'Gdotaccent'
+S'H'
+S'Hbar'
+S'Hcircumflex'
+S'I'
+S'IJ'
+S'Iacute'
+S'Ibreve'
+S'Icircumflex'
+S'Idieresis'
+S'Idotaccent'
+S'Igrave'
+S'Imacron'
+S'Iogonek'
+S'Itilde'
+S'J'
+S'Jcircumflex'
+S'K'
+S'Kcommaaccent'
+S'L'
+S'Lacute'
+S'Lcaron'
+S'Lcommaaccent'
+S'Ldot'
+S'Lslash'
+S'M'
+S'N'
+S'Nacute'
+S'Ncaron'
+S'Ncommaaccent'
+S'Eng'
+S'Ntilde'
+S'O'
+S'Oacute'
+S'Obreve'
+S'Ocircumflex'
+S'Odieresis'
+S'Ograve'
+S'Ohungarumlaut'
+S'Omacron'
+S'Oslash'
+S'Oslashacute'
+S'Otilde'
+S'OE'
+S'P'
+S'Thorn'
+S'Q'
+S'R'
+S'Racute'
+S'Rcaron'
+S'Rcommaaccent'
+S'S'
+S'Sacute'
+S'Scaron'
+S'Scedilla'
+S'Scircumflex'
+S'Scommaaccent'
+S'T'
+S'Tbar'
+S'Tcaron'
+S'Tcedilla'
+S'Tcommaaccent'
+S'U'
+S'Uacute'
+S'Ubreve'
+S'Ucircumflex'
+S'Udieresis'
+S'Ugrave'
+S'Uhungarumlaut'
+S'Umacron'
+S'Uogonek'
+S'Uring'
+S'Utilde'
+S'V'
+S'W'
+S'Wacute'
+S'Wcircumflex'
+S'Wdieresis'
+S'Wgrave'
+S'X'
+S'Y'
+S'Yacute'
+S'Ycircumflex'
+S'Ydieresis'
+S'Ygrave'
+S'Z'
+S'Zacute'
+S'Zcaron'
+S'Zdotaccent'
+S'uni01C4'
+S'uni01C5'
+S'uni01C7'
+S'uni01C8'
+S'uni01CA'
+S'uni01CB'
+S'uni01CD'
+S'uni01CF'
+S'uni01D1'
+S'uni01D3'
+S'uni01E8'
+S'uni01EA'
+S'uni01F1'
+S'uni01F2'
+S'uni01F4'
+S'uni01F8'
+S'uni0200'
+S'uni0202'
+S'uni0204'
+S'uni0206'
+S'uni0208'
+S'uni020A'
+S'uni020C'
+S'uni020E'
+S'uni0210'
+S'uni0212'
+S'uni0214'
+S'uni0216'
+S'uni021A'
+S'uni021E'
+S'uni0226'
+S'uni0228'
+S'uni0232'
+S'uni1E02'
+S'uni1E0A'
+S'uni1E1E'
+S'uni1E40'
+S'uni1E56'
+S'uni1E60'
+S'uni1E6A'
+S'uni1EBC'
+S'uni1EF8'
+S'a'
+S'aacute'
+S'abreve'
+S'acircumflex'
+S'adieresis'
+S'agrave'
+S'amacron'
+S'aogonek'
+S'aring'
+S'atilde'
+S'ae'
+S'aeacute'
+S'uni01E3'
+S'b'
+S'c'
+S'cacute'
+S'ccaron'
+S'ccedilla'
+S'ccircumflex'
+S'cdotaccent'
+S'd'
+S'eth'
+S'dcaron'
+S'dcroat'
+S'e'
+S'eacute'
+S'ebreve'
+S'ecaron'
+S'ecircumflex'
+S'edieresis'
+S'edotaccent'
+S'egrave'
+S'emacron'
+S'eogonek'
+S'f'
+S'g'
+S'gbreve'
+S'gcaron'
+S'gcircumflex'
+S'gcommaaccent'
+S'gdotaccent'
+S'h'
+S'hbar'
+S'hcircumflex'
+S'i'
+S'dotlessi'
+S'iacute'
+S'ibreve'
+S'icircumflex'
+S'idblgrave'
+S'idieresis'
+S'igrave'
+S'iinvertedbreve'
+S'ij'
+S'imacron'
+S'iogonek'
+S'itilde'
+S'j'
+S'uni0237'
+S'jcircumflex'
+S'k'
+S'kcommaaccent'
+S'kgreenlandic'
+S'l'
+S'lacute'
+S'lcaron'
+S'lcommaaccent'
+S'ldot'
+S'lslash'
+S'm'
+S'n'
+S'nacute'
+S'napostrophe'
+S'ncaron'
+S'ncommaaccent'
+S'eng'
+S'ntilde'
+S'o'
+S'oacute'
+S'obreve'
+S'ocircumflex'
+S'odieresis'
+S'ograve'
+S'ohungarumlaut'
+S'omacron'
+S'oslash'
+S'oslashacute'
+S'otilde'
+S'oe'
+S'p'
+S'thorn'
+S'q'
+S'r'
+S'racute'
+S'rcaron'
+S'rcommaaccent'
+S's'
+S'sacute'
+S'scaron'
+S'scedilla'
+S'scircumflex'
+S'scommaaccent'
+S'germandbls'
+S't'
+S'tbar'
+S'tcaron'
+S'tcedilla'
+S'tcommaaccent'
+S'u'
+S'uacute'
+S'ubreve'
+S'ucircumflex'
+S'udieresis'
+S'ugrave'
+S'uhungarumlaut'
+S'umacron'
+S'uni01C6'
+S'uni01C9'
+S'uni01CC'
+S'uni01CE'
+S'uni01D0'
+S'uni01D2'
+S'uni01D4'
+S'uni01E9'
+S'uni01EB'
+S'uni01F0'
+S'uni01F3'
+S'uni01F5'
+S'uni01F9'
+S'uni0201'
+S'uni0203'
+S'uni0205'
+S'uni0207'
+S'uni0209'
+S'uni020B'
+S'uni020D'
+S'uni020F'
+S'uni0211'
+S'uni0213'
+S'uni0215'
+S'uni0217'
+S'uni021B'
+S'uni021F'
+S'uni0227'
+S'uni0229'
+S'uni0233'
+S'uni1E03'
+S'uni1E0B'
+S'uni1E1F'
+S'uni1E41'
+S'uni1E57'
+S'uni1E61'
+S'uni1E6B'
+S'uni1EBD'
+S'uni1EF9'
+S'uogonek'
+S'uring'
+S'utilde'
+S'v'
+S'w'
+S'wacute'
+S'wcircumflex'
+S'wdieresis'
+S'wgrave'
+S'x'
+S'y'
+S'yacute'
+S'ycircumflex'
+S'ydieresis'
+S'ygrave'
+S'z'
+S'zacute'
+S'zcaron'
+S'zdotaccent'
+S'fi'
+S'fl'
+S'uniFB00'
+S'uniFB01'
+S'uniFB02'
+S'uniFB03'
+S'uniFB04'
+S'ordfeminine'
+S'ordmasculine'
+S'Delta'
+S'Sigma'
+S'Omega'
+S'mu'
+S'pi'
+S'uni022E'
+S'uni022F'
+S'zero'
+S'one'
+S'two'
+S'three'
+S'four'
+S'five'
+S'six'
+S'seven'
+S'eight'
+S'nine'
+S'fraction'
+S'onehalf'
+S'onequarter'
+S'threequarters'
+S'uni00B9'
+S'uni00B2'
+S'uni00B3'
+S'uni2074'
+S'asterisk'
+S'backslash'
+S'bullet'
+S'colon'
+S'comma'
+S'ellipsis'
+S'exclam'
+S'exclamdown'
+S'numbersign'
+S'period'
+S'periodcentered'
+S'question'
+S'questiondown'
+S'quotedbl'
+S'quotesingle'
+S'semicolon'
+S'slash'
+S'underscore'
+S'braceleft'
+S'braceright'
+S'bracketleft'
+S'bracketright'
+S'parenleft'
+S'parenright'
+S'emdash'
+S'endash'
+S'hyphen'
+S'uni00AD'
+S'guillemotleft'
+S'guillemotright'
+S'guilsinglleft'
+S'guilsinglright'
+S'quotedblbase'
+S'quotedblleft'
+S'quotedblright'
+S'quoteleft'
+S'quoteright'
+S'quotesinglbase'
+S'space'
+S'uni00A0'
+S'florin'
+S'Euro'
+S'cent'
+S'currency'
+S'dollar'
+S'sterling'
+S'yen'
+S'approxequal'
+S'asciitilde'
+S'divide'
+S'emptyset'
+S'equal'
+S'greater'
+S'greaterequal'
+S'infinity'
+S'integral'
+S'less'
+S'lessequal'
+S'logicalnot'
+S'minus'
+S'multiply'
+S'notequal'
+S'partialdiff'
+S'percent'
+S'perthousand'
+S'plus'
+S'plusminus'
+S'product'
+S'radical'
+S'summation'
+S'uni2215'
+S'uni2219'
+S'lozenge'
+S'afii61289'
+S'ampersand'
+S'asciicircum'
+S'at'
+S'bar'
+S'brokenbar'
+S'copyright'
+S'dagger'
+S'daggerdbl'
+S'degree'
+S'estimated'
+S'paragraph'
+S'registered'
+S'section'
+S'trademark'
+S'acute'
+S'breve'
+S'caron'
+S'cedilla'
+S'circumflex'
+S'dieresis'
+S'dotaccent'
+S'grave'
+S'hungarumlaut'
+S'macron'
+S'ogonek'
+S'ring'
+S'tilde'
+S'caron.alt'
+S'uni0307'
+S'uni030F'
+S'uni0311'
+S'uni0312'
+S'uni0326'
+S'afii57929'
+S'uni02C9'
+S'foundryicon'
+tp15
+stp16
+s."
+Encoding: iso8859-14
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 30 11
+AnchorClass2: "caron.alt" "ogonek" "top" 
+BeginChars: 554 489
+
+StartChar: A
+Encoding: 65 65 0
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 1143 0 basechar 0
+AnchorPoint: "top" 643 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+28 0 m 257
+ 233 0 l 257
+ 352 383 l 257
+ 918 383 l 257
+ 1043 0 l 257
+ 1257 0 l 257
+ 788 1464 l 257
+ 490 1464 l 257
+ 28 0 l 257
+397 534 m 257
+ 635 1330 l 257
+ 871 534 l 257
+ 397 534 l 257
+EndSplineSet
+EndChar
+
+StartChar: AE
+Encoding: 198 198 1
+Width: 2030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'2030'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'AE'
+p14
+s."
+AnchorPoint: "top" 1015 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-45 0 m 257
+ 179 0 l 257
+ 402 375 l 257
+ 974 375 l 257
+ 974 0 l 257
+ 2015 0 l 257
+ 2015 157 l 257
+ 1177 157 l 257
+ 1177 701 l 257
+ 1842 701 l 257
+ 1843 862 l 257
+ 1177 862 l 257
+ 1177 1307 l 257
+ 2005 1307 l 257
+ 2005 1464 l 257
+ 828 1464 l 257
+ -45 0 l 257
+486 527 m 257
+ 974 1384 l 257
+ 974 527 l 257
+ 486 527 l 257
+EndSplineSet
+EndChar
+
+StartChar: AEacute
+Encoding: 256 508 2
+Width: 2030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 897 441 2
+Refer: 1 198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: AEmacron
+Encoding: 257 482 3
+Width: 2030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 653 441 2
+Refer: 1 198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aacute
+Encoding: 193 193 4
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 525 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Abreve
+Encoding: 258 258 5
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 161 728 N 1 0 0 1 241 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Acircumflex
+Encoding: 194 194 6
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 224 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 7
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 185 168 N 1 0 0 1 213 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Agrave
+Encoding: 192 192 8
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 395 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Amacron
+Encoding: 259 256 9
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 281 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aogonek
+Encoding: 260 260 10
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 287 731 N 1 0 0 1 844 0 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 11
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 329 730 N 1 0 0 1 279 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 12
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 244 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: B
+Encoding: 66 66 13
+Width: 1325
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 662.5 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 558 0 l 258
+ 1016 0 1244 85 1244 413 c 256
+ 1244 609 1176 749 958 779 c 257
+ 1160.71 811.112 1197 943.528 1197 1106.54 c 256
+ 1197 1417.16 895.501 1464 594 1464 c 258
+ 139 1464 l 257
+ 139 0 l 257
+344 154 m 257
+ 344 704 l 257
+ 625 704 l 258
+ 901 704 1040 674 1040 418 c 256
+ 1040 160 812 154 591 154 c 258
+ 344 154 l 257
+344 853 m 257
+ 344 1310 l 257
+ 601 1310 l 257
+ 614.666 1310 l 258
+ 842.07 1310 993.176 1308.08 1002 1111 c 256
+ 1002.54 1099.25 1002.82 1088.03 1002.82 1077.29 c 256
+ 1002.82 888.806 916.351 853 624 853 c 258
+ 344 853 l 257
+EndSplineSet
+EndChar
+
+StartChar: C
+Encoding: 67 67 14
+Width: 1405
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 765 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+768 -24 m 256
+ 1026 -24 1239 84 1327 357 c 257
+ 1137 401 l 257
+ 1083 246 984 139 759 139 c 256
+ 441 139 331 337 331 734 c 256
+ 331 1131 441 1325 759 1325 c 256
+ 984 1325 1083 1218 1137 1064 c 257
+ 1327 1108 l 257
+ 1239 1381 1026 1489 768 1489 c 256
+ 353 1489 115 1265 115 734 c 256
+ 115 203 353 -24 768 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: Cacute
+Encoding: 261 262 15
+Width: 1405
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 647 441 2
+Refer: 14 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ccaron
+Encoding: 262 268 16
+Width: 1405
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 346 441 2
+Refer: 14 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ccedilla
+Encoding: 199 199 17
+Width: 1405
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 172 184 N 1 0 0 1 545 0 2
+Refer: 14 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ccircumflex
+Encoding: 263 264 18
+Width: 1405
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 346 441 2
+Refer: 14 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Cdotaccent
+Encoding: 164 266 19
+Width: 1405
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 547 441 2
+Refer: 14 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: D
+Encoding: 68 68 20
+Width: 1450
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 725 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+344 157 m 257
+ 344 1307 l 257
+ 677 1307 l 258
+ 1031 1307 1129 1128 1129 737 c 256
+ 1129 291 1002 157 618 157 c 258
+ 344 157 l 257
+139 0 m 257
+ 678 0 l 258
+ 1143 0 1335 211 1335 738 c 256
+ 1335 1280 1114 1464 678 1464 c 258
+ 139 1464 l 257
+ 139 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Dcaron
+Encoding: 264 270 21
+Width: 1450
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 306 441 2
+Refer: 20 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Dcroat
+Encoding: 265 272 22
+Width: 1444
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 36 208 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Delta
+Encoding: 266 8710 23
+Width: 1289
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+65 0 m 257
+ 1218 0 l 257
+ 1218 85 l 257
+ 743 1537 l 257
+ 571 1537 l 257
+ 65 85 l 257
+ 65 0 l 257
+241 181 m 257
+ 604 1273 l 257
+ 636 1391 l 257
+ 758.085 982.418 891.435 585.101 1018 181 c 257
+ 241 181 l 257
+EndSplineSet
+EndChar
+
+StartChar: Dz
+Encoding: 267 498 24
+Width: 2328
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 484 122 N 1 0 0 1 1450 0 2
+Refer: 20 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: E
+Encoding: 69 69 25
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'112'
+p7
+sS'width'
+p8
+S'1202'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'1128'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'E'
+s."
+AnchorPoint: "ogonek" 724 0 basechar 0
+AnchorPoint: "top" 651 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 1154 0 l 257
+ 1154 154 l 257
+ 344 154 l 257
+ 344 700 l 257
+ 1040 700 l 257
+ 1040 857 l 257
+ 344 857 l 257
+ 344 1310 l 257
+ 1143 1310 l 257
+ 1143 1464 l 257
+ 139 1464 l 257
+ 139 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Eacute
+Encoding: 201 201 26
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 533 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ebreve
+Encoding: 268 276 27
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 161 728 N 1 0 0 1 249 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ecaron
+Encoding: 269 282 28
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 232 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ecircumflex
+Encoding: 202 202 29
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 232 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Edieresis
+Encoding: 203 203 30
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 185 168 N 1 0 0 1 221 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Edotaccent
+Encoding: 270 278 31
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 433 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Egrave
+Encoding: 200 200 32
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 403 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Emacron
+Encoding: 271 274 33
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 289 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Eng
+Encoding: 272 330 34
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+888 -490 m 257
+ 1172 -490 1357 -377 1357 -36 c 258
+ 1357 1464 l 257
+ 1180 1464 l 257
+ 1180 312 l 257
+ 365 1464 l 257
+ 139 1464 l 257
+ 139 0 l 257
+ 323 0 l 257
+ 323 1221 l 257
+ 609.046 814.38 891.998 404.664 1180 0 c 257
+ 1180 -33 l 258
+ 1180 -250 1095 -339 890 -342 c 257
+ 888 -490 l 257
+EndSplineSet
+EndChar
+
+StartChar: Eogonek
+Encoding: 273 280 35
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 287 731 N 1 0 0 1 425 0 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Eth
+Encoding: 274 208 36
+Width: 1444
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1444'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'Eth'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+0 685 m 257
+ 566 685 l 257
+ 566 804 l 257
+ 0 804 l 257
+ 0 685 l 257
+EndSplineSet
+Refer: 20 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Euro
+Encoding: 275 8364 37
+Width: 1275
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1275'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'Euro'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+-52 531 m 257
+ 682 531 l 257
+ 682 665 l 257
+ -52 665 l 257
+ -52 531 l 257
+-52 786 m 257
+ 682 786 l 257
+ 682 920 l 257
+ -52 920 l 257
+ -52 786 l 257
+EndSplineSet
+Refer: 14 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: F
+Encoding: 70 70 38
+Width: 1201
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1464'
+p7
+sS'width'
+p8
+S'1178.66666667'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'1117'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'F'
+s."
+AnchorPoint: "top" 673 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 344 0 l 257
+ 344 689 l 257
+ 1043 689 l 257
+ 1043 846 l 257
+ 344 846 l 257
+ 344 1310 l 257
+ 1154 1310 l 257
+ 1154 1464 l 257
+ 139 1464 l 257
+ 139 0 l 257
+EndSplineSet
+Kerns2: 176 -180 "kernHorizontalKerninginLatinloo subtable"  219 -26 "kernHorizontalKerninginLatinloo subtable"  305 -140 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: G
+Encoding: 71 71 39
+Width: 1421
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 745 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+742 -24 m 256
+ 926 -24 1051 48 1113 147 c 257
+ 1154 0 l 257
+ 1287 0 l 257
+ 1287 0 1297 428 1297 581 c 258
+ 1297 817 l 257
+ 775 817 l 257
+ 775 642 l 257
+ 1095 642 l 257
+ 1095 450 l 258
+ 1095 237 926 139 760 139 c 256
+ 469 139 331 317 331 721 c 256
+ 331 1149 441 1325 750 1325 c 256
+ 936 1325 1052 1237 1120 1053 c 257
+ 1298 1113 l 257
+ 1216 1352 1047 1489 755 1489 c 256
+ 361 1489 115 1285 115 722 c 256
+ 115 165 391 -24 742 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: Gbreve
+Encoding: 276 286 40
+Width: 1421
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 161 728 N 1 0 0 1 343 441 2
+Refer: 39 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcaron
+Encoding: 277 486 41
+Width: 1421
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 326 441 2
+Refer: 39 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcircumflex
+Encoding: 278 284 42
+Width: 1421
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 326 441 2
+Refer: 39 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcommaaccent
+Encoding: 279 290 43
+Width: 1421
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 506 0 2
+Refer: 39 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gdotaccent
+Encoding: 178 288 44
+Width: 1421
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 527 441 2
+Refer: 39 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: H
+Encoding: 72 72 45
+Width: 1500
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'836'
+p7
+sS'width'
+p8
+S'1457'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'294'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'H'
+s."
+AnchorPoint: "top" 750 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 344 0 l 257
+ 344 679 l 257
+ 1155 679 l 257
+ 1155 0 l 257
+ 1360 0 l 257
+ 1360 1464 l 257
+ 1155 1464 l 257
+ 1155 842 l 257
+ 344 842 l 257
+ 344 1464 l 257
+ 139 1464 l 257
+ 139 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Hbar
+Encoding: 280 294 46
+Width: 1457
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+48 1144 m 257
+ 1446 1144 l 257
+ 1446 1249 l 257
+ 48 1249 l 257
+ 48 1144 l 257
+EndSplineSet
+Refer: 45 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Hcircumflex
+Encoding: 281 292 47
+Width: 1500
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 331 441 2
+Refer: 45 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: I
+Encoding: 73 73 48
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 231 0 basechar 0
+AnchorPoint: "top" 232 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+133 0 m 257
+ 338 0 l 257
+ 338 1464 l 257
+ 133 1464 l 257
+ 133 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: IJ
+Encoding: 282 306 49
+Width: 1504
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 59 74 N 1 0 0 1 464 0 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iacute
+Encoding: 205 205 50
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 114 441 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ibreve
+Encoding: 283 300 51
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 161 728 N 1 0 0 1 -171 441 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Icircumflex
+Encoding: 206 206 52
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 -187 441 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Idieresis
+Encoding: 207 207 53
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 185 168 N 1 0 0 1 -198 441 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Idotaccent
+Encoding: 284 304 54
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 14 441 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Igrave
+Encoding: 204 204 55
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 -16 441 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Imacron
+Encoding: 285 298 56
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 -130 441 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iogonek
+Encoding: 286 302 57
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 287 731 N 1 0 0 1 -68 0 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Itilde
+Encoding: 287 296 58
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 -167 441 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: J
+Encoding: 74 74 59
+Width: 1040
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 805 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+447 -21 m 256
+ 763 -21 904 166 904 544 c 258
+ 904 1464 l 257
+ 699 1464 l 257
+ 699 541 l 258
+ 699 281 648 145 454 145 c 256
+ 344 145 255 212 217 383 c 257
+ 32 332 l 257
+ 75 115 217 -21 447 -21 c 256
+EndSplineSet
+EndChar
+
+StartChar: Jcircumflex
+Encoding: 288 308 60
+Width: 1040
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 386 441 2
+Refer: 59 74 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: K
+Encoding: 75 75 61
+Width: 1291
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1464'
+p7
+sS'width'
+p8
+S'1252'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'1003'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'K'
+s."
+AnchorPoint: "top" 645.5 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 344 0 l 257
+ 344 540 l 257
+ 572 776 l 257
+ 1063 0 l 257
+ 1296 0 l 257
+ 712 920 l 257
+ 1240 1464 l 257
+ 993 1464 l 257
+ 344 783 l 257
+ 344 1464 l 257
+ 139 1464 l 257
+ 139 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Kcommaaccent
+Encoding: 289 310 62
+Width: 1291
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 441 0 2
+Refer: 61 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: L
+Encoding: 76 76 63
+Width: 1066
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'112'
+p7
+sS'width'
+p8
+S'1020'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'1041'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'L'
+s."
+AnchorPoint: "caron.alt" 520 1023 basechar 0
+AnchorPoint: "top" 533 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 1075 0 l 257
+ 1075 154 l 257
+ 344 154 l 257
+ 344 1464 l 257
+ 139 1464 l 257
+ 139 0 l 257
+EndSplineSet
+Kerns2: 318 -170 "kernHorizontalKerninginLatinloo subtable"  320 -120 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: Lacute
+Encoding: 290 313 64
+Width: 1066
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 415 441 2
+Refer: 63 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lcaron
+Encoding: 291 317 65
+Width: 1066
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 167 -1 N 1 0 0 1 257 -59 2
+Refer: 63 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lcommaaccent
+Encoding: 292 315 66
+Width: 1066
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 329 0 2
+Refer: 63 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ldot
+Encoding: 293 319 67
+Width: 1066
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 306 183 N 1 0 0 1 534 0 2
+Refer: 63 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lslash
+Encoding: 294 321 68
+Width: 1055
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1055'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'Lslash'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+-29 594 m 257
+ 631 854 l 257
+ 631 1024 l 257
+ -29 764 l 257
+ -29 594 l 257
+EndSplineSet
+Refer: 63 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: M
+Encoding: 77 77 69
+Width: 1671
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 835.5 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 334 0 l 257
+ 334 1210 l 257
+ 739 250 l 257
+ 926 250 l 257
+ 1343 1201 l 257
+ 1343 0 l 257
+ 1531 0 l 257
+ 1531 1464 l 257
+ 1263 1464 l 257
+ 840 469 l 257
+ 437 1464 l 257
+ 139 1464 l 257
+ 139 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: N
+Encoding: 78 78 70
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 748.5 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 323 0 l 257
+ 323 1221 l 257
+ 1178 0 l 257
+ 1357 0 l 257
+ 1357 1464 l 257
+ 1180 1464 l 257
+ 1180 312 l 257
+ 365 1464 l 257
+ 139 1464 l 257
+ 139 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Nacute
+Encoding: 295 323 71
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 631 441 2
+Refer: 70 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ncaron
+Encoding: 296 327 72
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 330 441 2
+Refer: 70 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ncommaaccent
+Encoding: 297 325 73
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 544 0 2
+Refer: 70 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ntilde
+Encoding: 209 209 74
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 350 441 2
+Refer: 70 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: O
+Encoding: 79 79 75
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'angle'
+p2
+S'90'
+p3
+sS'com.typemytype.robofont.guides'
+p4
+(dp5
+sS'com.typemytype.robofont.layerData'
+p6
+(dp7
+sS'magnetic'
+p8
+S'5'
+sS'y'
+S'1471'
+p9
+sS'x'
+S'723'
+p10
+s."
+AnchorPoint: "ogonek" 815 0 basechar 0
+AnchorPoint: "top" 757.5 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+756 138 m 256
+ 436 138 331 332 331 740 c 256
+ 331 1101 421 1325 756 1325 c 256
+ 1091 1325 1183 1102 1183 739 c 256
+ 1183 327 1081 138 756 138 c 256
+755 -24 m 256
+ 1154 -24 1400 185 1400 741 c 256
+ 1400 1289 1144 1488 756 1488 c 256
+ 369 1488 115 1290 115 740 c 256
+ 115 178 364 -24 755 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: OE
+Encoding: 298 338 76
+Width: 2171
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1374'
+p7
+sS'width'
+p8
+S'2171'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'368'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'OE'
+p21
+s."
+LayerCount: 2
+Fore
+SplineSet
+717 -25 m 256
+ 974 -25 1098 62 1164 188 c 257
+ 1164 0 l 257
+ 2121 0 l 257
+ 2121 155 l 257
+ 1369 155 l 257
+ 1369 700 l 257
+ 2012 700 l 257
+ 2012 857 l 257
+ 1369 857 l 257
+ 1369 1309 l 257
+ 2110 1309 l 257
+ 2110 1464 l 257
+ 1163 1464 l 257
+ 1163 1284 l 257
+ 1086 1415 948 1491 719 1491 c 256
+ 340 1491 102 1282 102 740 c 256
+ 102 186 334 -25 717 -25 c 256
+739.738 139.763 m 256
+ 417.111 139.763 316 319.508 316 741 c 256
+ 316 1140.96 420.815 1327.28 741.971 1327.28 c 256
+ 1066.76 1327.28 1164 1164.54 1164 732 c 256
+ 1164 290.161 1050.29 139.763 739.738 139.763 c 256
+EndSplineSet
+EndChar
+
+StartChar: Oacute
+Encoding: 211 211 77
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 640 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Obreve
+Encoding: 299 334 78
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 161 728 N 1 0 0 1 355 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ocircumflex
+Encoding: 212 212 79
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 339 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Odieresis
+Encoding: 214 214 80
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 185 168 N 1 0 0 1 328 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ograve
+Encoding: 210 210 81
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 510 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ohungarumlaut
+Encoding: 300 336 82
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 236 733 N 1 0 0 1 385 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omacron
+Encoding: 301 332 83
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 396 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omega
+Encoding: 302 8486 84
+Width: 1758
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+108 0 m 257
+ 783 0 l 257
+ 783 123 l 257
+ 492 240 338 511 338 780 c 256
+ 338 1141 611 1317 879 1317 c 256
+ 1148 1317 1420 1141 1420 780 c 256
+ 1420 511 1266 240 975 123 c 257
+ 975 0 l 257
+ 1650 0 l 257
+ 1650 128 l 257
+ 1216 128 l 257
+ 1492 283 1624 538 1624 780 c 256
+ 1624 1256 1253 1491 879 1491 c 256
+ 505 1491 134 1256 134 780 c 256
+ 134 538 266 283 542 128 c 257
+ 108 128 l 257
+ 108 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Oslash
+Encoding: 216 216 85
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1497'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'Oslash'
+p14
+s."
+AnchorPoint: "top" 748.5 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+354 -212 m 257
+ 1244 1606 l 257
+ 1126 1668 l 257
+ 235 -150 l 257
+ 354 -212 l 257
+EndSplineSet
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Oslashacute
+Encoding: 303 510 86
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 631 441 2
+Refer: 85 216 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Otilde
+Encoding: 213 213 87
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 359 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: P
+Encoding: 80 80 88
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 643 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 344 0 l 257
+ 344 627 l 257
+ 529 627 l 258
+ 1041 627 1231 724 1231 1063 c 256
+ 1231 1360 1040 1464 564 1464 c 258
+ 139 1464 l 257
+ 139 0 l 257
+344 785 m 257
+ 344 1309 l 257
+ 549 1309 l 258
+ 864 1309 1022 1288 1022 1055 c 256
+ 1022 825 893 785 569 785 c 258
+ 344 785 l 257
+EndSplineSet
+EndChar
+
+StartChar: Q
+Encoding: 81 81 89
+Width: 1529
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1374'
+p7
+sS'width'
+p8
+S'1434'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'1076'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'Q'
+s."
+LayerCount: 2
+Fore
+SplineSet
+1285 -360 m 257
+ 1437 -247 l 257
+ 1175 101 l 257
+ 1319 218 1400 422 1400 741 c 256
+ 1400 1289 1144 1488 756 1488 c 256
+ 369 1488 115 1290 115 740 c 256
+ 115 178 364 -24 755 -24 c 256
+ 856 -24 947 -10 1027 18 c 257
+ 1285 -360 l 257
+756 138 m 256
+ 436 138 331 332 331 740 c 256
+ 331 1101 421 1325 756 1325 c 256
+ 1091 1325 1183 1102 1183 739 c 256
+ 1183 327 1081 138 756 138 c 256
+EndSplineSet
+EndChar
+
+StartChar: R
+Encoding: 82 82 90
+Width: 1332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 666 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 344 0 l 257
+ 344 665 l 257
+ 728 665 l 257
+ 1060 0 l 257
+ 1281 0 l 257
+ 934 693 l 257
+ 1133 732 1248 875 1248 1076 c 256
+ 1248 1339 1094 1464 707 1464 c 258
+ 139 1464 l 257
+ 139 0 l 257
+344 820 m 257
+ 344 1309 l 257
+ 698 1309 l 258
+ 899 1309 1039 1276 1039 1074 c 256
+ 1039 864 891 820 677 820 c 258
+ 344 820 l 257
+EndSplineSet
+EndChar
+
+StartChar: Racute
+Encoding: 304 340 91
+Width: 1332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 548 441 2
+Refer: 90 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rcaron
+Encoding: 305 344 92
+Width: 1332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 247 441 2
+Refer: 90 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rcommaaccent
+Encoding: 306 342 93
+Width: 1332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 461.5 0 2
+Refer: 90 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S
+Encoding: 83 83 94
+Width: 1231
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1491'
+p7
+sS'width'
+p8
+S'1216'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'372'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'S'
+s."
+AnchorPoint: "top" 615.5 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+618 -25 m 256
+ 972 -25 1165 120 1165 393 c 256
+ 1165 670 1001 769 728 859 c 256
+ 463 945 324 960 324 1139 c 256
+ 324 1266 442 1328 646 1328 c 256
+ 793 1328 895 1269 979 1130 c 257
+ 1122 1240 l 257
+ 998 1425 864 1491 621 1491 c 256
+ 300 1491 110 1368 110 1125 c 256
+ 110 858 302 792 570 705 c 256
+ 864 611 951 574 952 386 c 256
+ 952 218 830 140 637 140 c 256
+ 403 140 290 224 221 448 c 257
+ 48 373 l 257
+ 98 103 313 -25 618 -25 c 256
+EndSplineSet
+EndChar
+
+StartChar: Sacute
+Encoding: 307 346 95
+Width: 1231
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 498 441 2
+Refer: 94 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scaron
+Encoding: 308 352 96
+Width: 1231
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 197 441 2
+Refer: 94 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scedilla
+Encoding: 309 350 97
+Width: 1231
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 172 184 N 1 0 0 1 398 0 2
+Refer: 94 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scircumflex
+Encoding: 310 348 98
+Width: 1231
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 197 441 2
+Refer: 94 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scommaaccent
+Encoding: 311 536 99
+Width: 1231
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 411 0 2
+Refer: 94 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Sigma
+Encoding: 312 931 100
+Width: 1269
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1161 0 m 257
+ 1161 173 l 257
+ 340 173 l 257
+ 815 676 l 257
+ 815 803 l 257
+ 371 1294 l 257
+ 1161 1294 l 257
+ 1161 1464 l 257
+ 115 1464 l 257
+ 115 1295 l 257
+ 614 722 l 257
+ 115 192 l 257
+ 115 0 l 257
+ 1161 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: T
+Encoding: 84 84 101
+Width: 1119
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1352'
+p7
+sS'width'
+p8
+S'1119'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'483'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'T'
+s."
+AnchorPoint: "top" 559.5 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+468 0 m 257
+ 673 0 l 257
+ 673 1310 l 257
+ 1110 1310 l 257
+ 1110 1464 l 257
+ 9 1464 l 257
+ 9 1310 l 257
+ 468 1310 l 257
+ 468 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Tbar
+Encoding: 313 358 102
+Width: 1119
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+247 682 m 257
+ 885 682 l 257
+ 885 822 l 257
+ 247 822 l 257
+ 247 682 l 257
+EndSplineSet
+Refer: 101 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Tcaron
+Encoding: 314 356 103
+Width: 1119
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 141 441 2
+Refer: 101 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Tcedilla
+Encoding: 315 354 104
+Width: 1119
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 172 184 N 1 0 0 1 342 0 2
+Refer: 101 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Thorn
+Encoding: 316 222 105
+Width: 1261
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+140 0 m 257
+ 360 0 l 257
+ 360 335 l 257
+ 513 335 l 258
+ 1037 335 1220 448 1220 779 c 256
+ 1220 1068 1048 1202 572 1202 c 258
+ 360 1202 l 257
+ 360 1464 l 257
+ 140 1464 l 257
+ 140 0 l 257
+360 494 m 257
+ 360 1042 l 257
+ 549 1042 l 258
+ 877 1042 1012 990 1012 777 c 256
+ 1012 538 878 494 569 494 c 258
+ 360 494 l 257
+EndSplineSet
+EndChar
+
+StartChar: U
+Encoding: 85 85 106
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 803 0 basechar 0
+AnchorPoint: "top" 691.5 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+687 -24 m 256
+ 1071 -24 1265 160 1265 580 c 258
+ 1265 1464 l 257
+ 1060 1464 l 257
+ 1060 593 l 258
+ 1060 298 991 138 693 138 c 256
+ 393 138 323 301 323 593 c 258
+ 323 1464 l 257
+ 117 1464 l 257
+ 117 573 l 258
+ 117 151 317 -24 687 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: Uacute
+Encoding: 218 218 107
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 574 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ubreve
+Encoding: 317 364 108
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 161 728 N 1 0 0 1 289 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ucircumflex
+Encoding: 219 219 109
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 273 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Udieresis
+Encoding: 220 220 110
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 185 168 N 1 0 0 1 262 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ugrave
+Encoding: 217 217 111
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 444 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uhungarumlaut
+Encoding: 318 368 112
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 236 733 N 1 0 0 1 319 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Umacron
+Encoding: 319 362 113
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 330 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uogonek
+Encoding: 320 370 114
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 287 731 N 1 0 0 1 504 0 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uring
+Encoding: 321 366 115
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 329 730 N 1 0 0 1 328 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Utilde
+Encoding: 322 360 116
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 293 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: V
+Encoding: 86 86 117
+Width: 1164
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+484 0 m 257
+ 681 0 l 257
+ 1174 1464 l 257
+ 972 1464 l 257
+ 588 268 l 257
+ 201 1464 l 257
+ -12 1464 l 257
+ 484 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: W
+Encoding: 87 87 118
+Width: 1858
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1797'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'W'
+s."
+AnchorPoint: "top" 949 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+421 0 m 257
+ 578 0 l 257
+ 933 1070 l 257
+ 1241 0 l 257
+ 1417 0 l 257
+ 1854 1464 l 257
+ 1659 1464 l 257
+ 1342 303 l 257
+ 1019 1464 l 257
+ 875 1464 l 257
+ 508 328 l 257
+ 218 1464 l 257
+ 4 1464 l 257
+ 421 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Wacute
+Encoding: 170 7810 119
+Width: 1858
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 831 441 2
+Refer: 118 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wcircumflex
+Encoding: 208 372 120
+Width: 1858
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 530 441 2
+Refer: 118 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wdieresis
+Encoding: 189 7812 121
+Width: 1858
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 185 168 N 1 0 0 1 519 441 2
+Refer: 118 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wgrave
+Encoding: 168 7808 122
+Width: 1858
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 701 441 2
+Refer: 118 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: X
+Encoding: 88 88 123
+Width: 1294
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'0'
+sS'width'
+p7
+S'1245'
+p8
+sS'points'
+p9
+(dp10
+sS'contours'
+p11
+(dp12
+sS'components'
+p13
+(tsS'segmentType'
+p14
+S'line'
+p15
+sS'x'
+S'1239'
+p16
+sS'com.typemytype.robofont.layerData'
+p17
+(dp18
+sS'name'
+p19
+S'X'
+s."
+LayerCount: 2
+Fore
+SplineSet
+-2 0 m 257
+ 231 0 l 257
+ 642 593 l 257
+ 1053 0 l 257
+ 1296 0 l 257
+ 765 768 l 257
+ 1254 1464 l 257
+ 1022 1464 l 257
+ 651 933 l 257
+ 283 1464 l 257
+ 38 1464 l 257
+ 528 757 l 257
+ -2 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Y
+Encoding: 89 89 124
+Width: 1205
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 639 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+503 0 m 257
+ 706 0 l 257
+ 706 548 l 257
+ 1207 1464 l 257
+ 988 1464 l 257
+ 606 734 l 257
+ 218 1464 l 257
+ -2 1464 l 257
+ 503 549 l 257
+ 503 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Yacute
+Encoding: 221 221 125
+Width: 1205
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 521 441 2
+Refer: 124 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ycircumflex
+Encoding: 222 374 126
+Width: 1205
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 220 441 2
+Refer: 124 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ydieresis
+Encoding: 175 376 127
+Width: 1205
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 185 168 N 1 0 0 1 209 441 2
+Refer: 124 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ygrave
+Encoding: 172 7922 128
+Width: 1205
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 391 441 2
+Refer: 124 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Z
+Encoding: 90 90 129
+Width: 1176
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 618 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+43 0 m 257
+ 1134 0 l 257
+ 1141 154 l 257
+ 304 154 l 257
+ 1135 1334 l 257
+ 1135 1464 l 257
+ 126 1464 l 257
+ 126 1309 l 257
+ 872 1309 l 257
+ 43 138 l 257
+ 43 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Zacute
+Encoding: 323 377 130
+Width: 1176
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 500 441 2
+Refer: 129 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Zcaron
+Encoding: 324 381 131
+Width: 1176
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 199 441 2
+Refer: 129 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Zdotaccent
+Encoding: 325 379 132
+Width: 1176
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 400 441 2
+Refer: 129 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: a
+Encoding: 97 97 133
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'500'
+p7
+sS'width'
+p8
+S'999'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'736'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'a'
+s."
+AnchorPoint: "top" 501.5 1023 basechar 0
+AnchorPoint: "ogonek" 813 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+391 -24 m 256
+ 528 -24 639 26 709 123 c 257
+ 726 0 l 257
+ 896 0 l 257
+ 896 679 l 258
+ 896 932 747 1046 504 1046 c 256
+ 330 1046 218 1002 106 920 c 257
+ 106 920 184 804 184 803 c 257
+ 273 864 359 905 496 905 c 256
+ 667 905 698 833 698 643 c 258
+ 698 599 l 257
+ 581 580 l 257
+ 285 535 77 498 77 242 c 256
+ 77 64 213 -24 391 -24 c 256
+418 115 m 256
+ 295.095 115 260.893 171.368 260.893 265.147 c 256
+ 260.893 375.472 322.881 406.063 566 450 c 258
+ 698 474 l 257
+ 698 256 l 257
+ 624 171 539 115 418 115 c 256
+EndSplineSet
+EndChar
+
+StartChar: aacute
+Encoding: 225 225 134
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 384 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: abreve
+Encoding: 326 259 135
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 161 728 N 1 0 0 1 99 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: acircumflex
+Encoding: 226 226 136
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 83 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: acute
+Encoding: 327 180 137
+Width: 496
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'496'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'acute'
+p14
+s."
+AnchorPoint: "top" 118 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+19 1146 m 257
+ 151 1146 l 257
+ 493 1466 l 257
+ 222 1466 l 257
+ 19 1146 l 257
+EndSplineSet
+EndChar
+
+StartChar: adieresis
+Encoding: 228 228 138
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 185 168 N 1 0 0 1 72 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ae
+Encoding: 230 230 139
+Width: 1667
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'158'
+p7
+sS'width'
+p8
+S'1667'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'771'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'ae'
+p21
+s."
+AnchorPoint: "top" 833.5 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+75.1896 273.885 m 256
+ 75.1896 60.6631 241.127 -24 429 -24 c 256
+ 598 -24 737 24 827 186 c 257
+ 890 35 1035 -24 1195 -24 c 256
+ 1371 -22 1515 83 1570 234 c 257
+ 1432 290 l 257
+ 1408.11 233.253 1342.59 121.993 1193.99 121.993 c 256
+ 1002.33 121.993 932.995 248.171 926 480 c 257
+ 1592 492 l 257
+ 1594 509 1595 563 1595 572 c 256
+ 1595 844 1476 1046 1191 1046 c 256
+ 1052 1046 917 987 848 848 c 257
+ 798 1005 648 1046 518 1046 c 256
+ 366 1046 243 1010 129 931 c 257
+ 206 807 l 257
+ 284.534 857.55 381.809 901.582 494.883 901.582 c 256
+ 687.806 901.582 723.777 812.365 727 605 c 257
+ 593 603 l 258
+ 267.198 597.217 75.1896 507.812 75.1896 273.885 c 256
+459.687 120.694 m 256
+ 339.347 120.694 274.828 172.016 274.828 275.313 c 256
+ 274.828 411.306 402.443 458.261 610 463 c 257
+ 729 465 l 257
+ 729 377 l 258
+ 729 203.125 616.094 120.694 459.687 120.694 c 256
+929 611 m 257
+ 942 771 1022 901 1189 901 c 256
+ 1350 901 1407 796 1418 620 c 257
+ 929 611 l 257
+EndSplineSet
+EndChar
+
+StartChar: aeacute
+Encoding: 328 509 140
+Width: 1667
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 139 230 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 782 0 2
+EndChar
+
+StartChar: afii57929
+Encoding: 329 700 141
+Width: 600
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+284 1194 m 257
+ 426 1277 450 1394 451 1584 c 257
+ 451 1717 l 257
+ 191 1717 l 257
+ 191 1487 l 257
+ 305 1474 l 257
+ 305 1386 246 1309 215 1280 c 257
+ 284 1194 l 257
+EndSplineSet
+EndChar
+
+StartChar: afii61289
+Encoding: 330 8467 142
+Width: 852
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+424 875 m 257
+ 424 301 l 258
+ 424 169 477 131 551 131 c 256
+ 586 131 635 143 683 163 c 257
+ 716 32 l 257
+ 651 1 581 -16 516 -16 c 256
+ 357.364 -16 225.912 58.7552 225.912 287.663 c 256
+ 225.912 291.074 225.941 294.52 226 298 c 258
+ 226 742 l 257
+ 79 625 l 257
+ 16 716 l 257
+ 226 886 l 257
+ 226 1245 l 258
+ 226 1464 362 1568 525 1568 c 256
+ 676 1568 778 1475 778 1342 c 256
+ 778 1234 712 1104 560 983 c 258
+ 424 875 l 257
+496 1076 m 257
+ 583.922 1159.64 615.221 1231.61 615.221 1285.51 c 256
+ 615.221 1351.6 568.154 1390.54 520.722 1390.54 c 256
+ 472.549 1390.54 424 1350.38 424 1257.72 c 258
+ 424 1014.87 l 257
+ 496 1076 l 257
+EndSplineSet
+EndChar
+
+StartChar: agrave
+Encoding: 224 224 143
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 254 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: amacron
+Encoding: 331 257 144
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 140 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 145
+Width: 1430
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1044'
+p7
+sS'width'
+p8
+S'1430'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'1010'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'ampersand'
+p21
+s."
+LayerCount: 2
+Fore
+SplineSet
+673 1491 m 256
+ 479.818 1491 317.144 1385.37 317.144 1183.24 c 256
+ 317.144 1098.89 343.886 1026.26 410 952 c 258
+ 1279 -33 l 257
+ 1405 82 l 257
+ 583 1003 l 258
+ 529.714 1062.5 504.822 1125.16 504.822 1185.37 c 256
+ 504.822 1268.11 566.656 1328 678 1328 c 256
+ 779.418 1328 841.727 1267.74 841.727 1189.21 c 256
+ 841.727 1121.86 800.033 1022.42 530 917 c 256
+ 226.122 798.658 97.9662 651.07 97.9662 412.462 c 256
+ 97.9662 169.05 294.179 -25 582 -25 c 256
+ 865 -25 1238 108 1328 778 c 257
+ 1158 803 l 257
+ 1091 318 869 139 613 139 c 256
+ 387.881 139 301.822 270.253 301.822 432.183 c 256
+ 301.822 565.823 368.014 678.816 633 805 c 256
+ 921 943 1020 1034 1020 1211 c 256
+ 1020 1393 861 1491 673 1491 c 256
+EndSplineSet
+EndChar
+
+StartChar: aogonek
+Encoding: 332 261 146
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 287 731 N 1 0 0 1 514 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: approxequal
+Encoding: 333 8776 147
+Width: 1048
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+805 548 m 256
+ 696.191 548 493.222 664.263 263.959 664.263 c 256
+ 178.612 664.263 108.175 635.188 94 415 c 257
+ 212 415 l 257
+ 211 498 245 525 304 525 c 256
+ 419 525 628 419 849 408 c 256
+ 853.159 407.806 857.23 407.706 861.215 407.706 c 256
+ 959.749 407.706 1005.35 468.346 1014 650 c 257
+ 895 650 l 257
+ 890 573 858 548 805 548 c 256
+756 873 m 256
+ 646.894 873 441.806 989.424 211.933 989.424 c 256
+ 127.952 989.424 59.0073 957.646 45 741 c 257
+ 163 741 l 257
+ 162 823 196 851 255 851 c 256
+ 370 851 579 745 800 734 c 256
+ 804.16 733.806 808.232 733.706 812.218 733.706 c 256
+ 910.75 733.706 956.35 794.309 965 975 c 257
+ 846 975 l 257
+ 841 899 809 873 756 873 c 256
+EndSplineSet
+EndChar
+
+StartChar: aring
+Encoding: 229 229 148
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 329 730 N 1 0 0 1 138 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 149
+Width: 1053
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+79 100 m 257
+ 272 100 l 257
+ 521 776 l 257
+ 766 100 l 257
+ 980 100 l 257
+ 619 999 l 257
+ 441 999 l 257
+ 79 100 l 257
+EndSplineSet
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 150
+Width: 962
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+766.975 674.775 m 256
+ 888.213 674.775 939.623 769.956 949 970 c 257
+ 783 970 l 257
+ 765 895 761 866 704 866 c 256
+ 631.947 866 367.438 971.235 220.639 971.235 c 256
+ 117.367 971.235 28.2758 924.358 13 683 c 257
+ 179 683 l 257
+ 200 778 225 785 257 785 c 256
+ 351.555 785 584.841 674.775 766.975 674.775 c 256
+EndSplineSet
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 151
+Width: 826
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+362 755 m 257
+ 471 755 l 257
+ 464 1036 l 257
+ 720 880 l 257
+ 775 984 l 257
+ 508 1114 l 257
+ 774 1244 l 257
+ 719 1348 l 257
+ 464 1195 l 257
+ 471 1472 l 257
+ 362 1472 l 257
+ 368 1194 l 257
+ 112 1347 l 257
+ 57 1243 l 257
+ 324 1113 l 257
+ 58 983 l 257
+ 113 879 l 257
+ 368 1035 l 257
+ 362 755 l 257
+EndSplineSet
+EndChar
+
+StartChar: at
+Encoding: 64 64 152
+Width: 1704
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+1078 297 m 257
+ 1102.5 176.55 1203.23 146.933 1264.17 146.933 c 256
+ 1444.89 146.933 1615 320.61 1615 638 c 256
+ 1615 1038 1273 1298 883 1298 c 256
+ 385 1298 90 905 90 518 c 256
+ 90 143 324 -181 842 -181 c 256
+ 1006 -181 1153 -140 1288 -64 c 257
+ 1226 52 l 257
+ 1149 11 1005 -39 847 -39 c 256
+ 437 -39 267 211 267 509 c 256
+ 267 805 504 1150 886 1150 c 256
+ 1187 1150 1449 982 1449 650 c 256
+ 1449 372.379 1373.75 271.993 1277.44 271.993 c 256
+ 1224.52 271.993 1186.47 300.997 1186.47 355.241 c 256
+ 1186.47 361.484 1186.97 368.071 1188 375 c 258
+ 1278 959 l 257
+ 1142 959 l 257
+ 1113 886 l 257
+ 1046 944 953 982 868 982 c 256
+ 616 982 429 721 429 467 c 256
+ 429 282.254 552.566 108.786 775.191 108.786 c 256
+ 901.454 108.786 1026.52 190.156 1078 297 c 257
+782 243 m 256
+ 676 243 605 336 605 464 c 256
+ 605 697 725 850 880 850 c 256
+ 951 850 1022 823 1083 774 c 257
+ 1047 546 l 258
+ 1007 293 872 243 782 243 c 256
+EndSplineSet
+EndChar
+
+StartChar: atilde
+Encoding: 227 227 153
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 103 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: b
+Encoding: 98 98 154
+Width: 1139
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'940'
+p7
+sS'width'
+p8
+S'1079'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'436'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'b'
+s."
+AnchorPoint: "top" 631 1296 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+611 -24 m 256
+ 890 -24 1048 173 1048 517 c 256
+ 1048 864 871 1046 612 1046 c 256
+ 483 1046 387 988 323 900 c 257
+ 323 1474 l 257
+ 125 1474 l 257
+ 125 0 l 257
+ 277 0 l 257
+ 287 152 l 257
+ 350 41 459 -24 611 -24 c 256
+598 116 m 256
+ 369 116 316 261 316 522 c 256
+ 316 829 458 906 599 906 c 256
+ 766 906 845 767 845 517 c 256
+ 845 249 771 116 598 116 c 256
+EndSplineSet
+Kerns2: 154 -23 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 155
+Width: 632
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+435 -5 m 257
+ 638 -5 l 257
+ 241 1464 l 257
+ 38 1464 l 257
+ 435 -5 l 257
+EndSplineSet
+EndChar
+
+StartChar: bar
+Encoding: 124 124 156
+Width: 416
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+111 -197 m 257
+ 316 -197 l 257
+ 316 1502 l 257
+ 111 1502 l 257
+ 111 -197 l 257
+EndSplineSet
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 157
+Width: 644
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'644'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'braceleft'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+624 -130 m 257
+ 624 -6 l 257
+ 399 -6 379 46 379 381 c 256
+ 379 563 341 676 212 707 c 257
+ 341 738 379 851 379 1033 c 256
+ 379 1368 399 1420 624 1420 c 257
+ 624 1544 l 257
+ 231 1544 166 1414 166 1043 c 256
+ 166 1039.9 166.001 1036.8 166.001 1033.7 c 256
+ 166.001 906.006 164.095 783.716 3 772 c 257
+ 3 642 l 257
+ 164.095 630.284 166.001 507.994 166.001 380.295 c 256
+ 166.001 377.2 166 374.101 166 371 c 256
+ 166 0 231 -130 624 -130 c 257
+EndSplineSet
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 158
+Width: 644
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'644'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'braceleft'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+3 -130 m 257
+ 396 -130 461 0 461 371 c 256
+ 461 374.101 460.999 377.2 460.999 380.295 c 256
+ 460.999 507.994 462.905 630.284 624 642 c 257
+ 624 772 l 257
+ 462.905 783.716 460.999 906.006 460.999 1033.7 c 256
+ 460.999 1036.8 461 1039.9 461 1043 c 256
+ 461 1414 396 1544 3 1544 c 257
+ 3 1420 l 257
+ 228 1420 248 1368 248 1033 c 256
+ 248 851 286 738 415 707 c 257
+ 286 676 248 563 248 381 c 256
+ 248 46 228 -6 3 -6 c 257
+ 3 -130 l 257
+EndSplineSet
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 159
+Width: 708
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+132 -52 m 257
+ 614 -52 l 257
+ 614 99 l 257
+ 337 99 l 257
+ 337 1331 l 257
+ 614 1331 l 257
+ 614 1480 l 257
+ 132 1480 l 257
+ 132 -52 l 257
+EndSplineSet
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 160
+Width: 708
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+129 -52 m 257
+ 611 -52 l 257
+ 611 1480 l 257
+ 129 1480 l 257
+ 129 1331 l 257
+ 406 1331 l 257
+ 406 99 l 257
+ 129 99 l 257
+ 129 -52 l 257
+EndSplineSet
+EndChar
+
+StartChar: breve
+Encoding: 334 728 161
+Width: 805
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 402.5 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+401 1207 m 256
+ 540 1207 676 1283 680 1479 c 257
+ 518 1479 l 257
+ 518 1404 497 1352 401 1352 c 256
+ 306 1352 285 1404 285 1479 c 257
+ 123 1479 l 257
+ 127 1283 262 1207 401 1207 c 256
+EndSplineSet
+EndChar
+
+StartChar: brokenbar
+Encoding: 335 166 162
+Width: 416
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+108 -198 m 257
+ 313 -198 l 257
+ 313 471 l 257
+ 108 471 l 257
+ 108 -198 l 257
+108 845 m 257
+ 313 845 l 257
+ 313 1504 l 257
+ 108 1504 l 257
+ 108 845 l 257
+EndSplineSet
+EndChar
+
+StartChar: bullet
+Encoding: 336 8226 163
+Width: 1115
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+558 212 m 256
+ 792 212 947 374 947 618 c 256
+ 947 862 792 1025 560 1025 c 256
+ 324 1025 168 862 168 618 c 256
+ 168 374 324 212 558 212 c 256
+EndSplineSet
+EndChar
+
+StartChar: c
+Encoding: 99 99 164
+Width: 1012
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 536 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+540 -24 m 256
+ 732 -24 894 48 949 294 c 257
+ 792 341 l 257
+ 754 185 675 117 547 117 c 256
+ 385 117 294 250 294 514 c 256
+ 294 769 382 905 547 905 c 256
+ 673 905 749 839 788 686 c 257
+ 951 727 l 257
+ 895 971 730 1046 541 1046 c 256
+ 245 1046 91 819 91 511 c 256
+ 91 202 245 -24 540 -24 c 256
+EndSplineSet
+Kerns2: 164 -25 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: cacute
+Encoding: 337 263 165
+Width: 1012
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 164 99 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 443 0 2
+EndChar
+
+StartChar: caron
+Encoding: 338 711 166
+Width: 838
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'838'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'caron'
+p14
+s."
+AnchorPoint: "top" 419 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+305 1154 m 257
+ 544 1154 l 257
+ 705 1474 l 257
+ 572 1474 l 257
+ 424 1249 l 257
+ 277 1474 l 257
+ 144 1474 l 257
+ 305 1154 l 257
+EndSplineSet
+EndChar
+
+StartChar: caron.alt
+Encoding: 339 -1 167
+Width: 600
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "caron.alt" 263 1082 mark 0
+AnchorPoint: "top" 300 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+500 1125 m 257
+ 642 1216 642 1355 647 1513 c 257
+ 647 1598 l 257
+ 427 1598 l 257
+ 427 1408 l 257
+ 521 1395 l 257
+ 518 1274 466 1207 441 1187 c 257
+ 500 1125 l 257
+EndSplineSet
+EndChar
+
+StartChar: ccaron
+Encoding: 340 269 168
+Width: 1012
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 97 0 2
+Refer: 164 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ccedilla
+Encoding: 231 231 169
+Width: 1012
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 172 184 N 1 0 0 1 318.5 0 2
+Refer: 164 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ccircumflex
+Encoding: 341 265 170
+Width: 1012
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 174 710 N 1 0 0 1 97 0 2
+Refer: 164 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: cdotaccent
+Encoding: 165 267 171
+Width: 1012
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 298 0 2
+Refer: 164 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: cedilla
+Encoding: 342 184 172
+Width: 435
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+317 -113 m 258
+ 268 0 l 257
+ 179 0 l 257
+ 208 -118 l 258
+ 215.963 -150.4 219.566 -177.644 219.566 -200.499 c 256
+ 219.566 -292.011 161.802 -313.16 94.8335 -313.16 c 256
+ 67.6565 -313.16 38.9635 -309.677 12 -306 c 257
+ 12 -395 l 257
+ 55.9397 -410.165 98.0212 -417.303 136.587 -417.303 c 256
+ 258.006 -417.303 344.577 -346.555 344.577 -232.832 c 256
+ 344.577 -196.888 335.929 -156.652 317 -113 c 258
+EndSplineSet
+EndChar
+
+StartChar: cent
+Encoding: 343 162 173
+Width: 982
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+486 -208 m 257
+ 615 -208 l 257
+ 615 1253 l 257
+ 486 1253 l 257
+ 486 -208 l 257
+EndSplineSet
+Refer: 164 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: circumflex
+Encoding: 344 710 174
+Width: 838
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 419 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+140 1154 m 257
+ 273 1154 l 257
+ 420 1379 l 257
+ 568 1154 l 257
+ 701 1154 l 257
+ 540 1474 l 257
+ 301 1474 l 257
+ 140 1154 l 257
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 175
+Width: 482
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+125 171 m 257
+ 366 171 l 257
+ 366 404 l 257
+ 125 404 l 257
+ 125 171 l 257
+125 808 m 257
+ 366 808 l 257
+ 366 1042 l 257
+ 125 1042 l 257
+ 125 808 l 257
+EndSplineSet
+EndChar
+
+StartChar: comma
+Encoding: 44 44 176
+Width: 445
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+178 -287 m 257
+ 320 -204 345 -87 346 103 c 257
+ 346 236 l 257
+ 86 236 l 257
+ 86 6 l 257
+ 200 -7 l 257
+ 199 -95 141 -172 110 -201 c 257
+ 178 -287 l 257
+EndSplineSet
+EndChar
+
+StartChar: copyright
+Encoding: 169 169 177
+Width: 1702
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1702'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'copyright'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+856 326 m 256
+ 997 326 1095 394 1138 543 c 257
+ 1048 574 l 257
+ 1015 471 965 424 860 424 c 256
+ 700 424 635 526 635 781 c 256
+ 635 1036 700 1137 860 1137 c 256
+ 965 1137 1015 1091 1048 988 c 257
+ 1138 1019 l 257
+ 1095 1167 997 1236 856 1236 c 256
+ 642 1236 523 1105 523 781 c 256
+ 523 457 642 326 856 326 c 256
+849 114 m 256
+ 481 114 199 379 199 773 c 256
+ 199 1158 482 1436 850 1436 c 256
+ 1219 1436 1503 1128 1503 773 c 256
+ 1503 419 1218 114 849 114 c 256
+850 53 m 256
+ 1251 53 1579 375 1579 774 c 256
+ 1579 1175 1251 1497 850 1497 c 256
+ 451 1497 123 1205 123 774 c 256
+ 123 335 451 53 850 53 c 256
+EndSplineSet
+EndChar
+
+StartChar: currency
+Encoding: 345 164 178
+Width: 1068
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+190 197 m 257
+ 324 350 l 257
+ 379 309 449 284 535 284 c 256
+ 641 284 722 322 780 381 c 257
+ 934 246 l 257
+ 990 309 l 257
+ 831 449 l 257
+ 866 510 883 581 883 653 c 256
+ 883 740 857 828 805 896 c 257
+ 942 1052 l 257
+ 878 1108 l 257
+ 745 956 l 257
+ 691 998 620 1023 534 1023 c 256
+ 427 1023 345 985 287 926 c 257
+ 134 1061 l 257
+ 78 997 l 257
+ 236 859 l 257
+ 200 799 183 727 183 656 c 256
+ 183 568 210 479 264 410 c 257
+ 126 253 l 257
+ 190 197 l 257
+536 385 m 256
+ 385 385 303 516 303 655 c 256
+ 303 794 386 925 535 925 c 256
+ 684 925 769 796 769 658 c 256
+ 769 518 681 385 536 385 c 256
+EndSplineSet
+EndChar
+
+StartChar: d
+Encoding: 100 100 179
+Width: 1137
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'940'
+p7
+sS'width'
+p8
+S'1077'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'407'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'b'
+s."
+AnchorPoint: "caron.alt" 940 1023 basechar 0
+AnchorPoint: "top" 568.5 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+530 -24 m 256
+ 680 -24 787 41 851 149 c 257
+ 860 3 l 257
+ 1012 3 l 257
+ 1012 1477 l 257
+ 814 1477 l 257
+ 814 908 l 257
+ 752 992 659 1046 533 1046 c 256
+ 274 1046 91 870 91 519 c 256
+ 91 175 251 -24 530 -24 c 256
+560.583 115.576 m 256
+ 368.726 115.576 293 247.505 293 521 c 256
+ 293 775.156 372.963 906.135 549.521 906.135 c 256
+ 688.277 906.135 824 819.205 824 522 c 256
+ 824 281.021 757.907 115.576 560.583 115.576 c 256
+EndSplineSet
+Kerns2: 179 -25 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: dagger
+Encoding: 346 8224 180
+Width: 1117
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+461 0 m 257
+ 671 0 l 257
+ 671 938 l 257
+ 996 938 l 257
+ 996 1098 l 257
+ 671 1098 l 257
+ 671 1464 l 257
+ 461 1464 l 257
+ 461 1098 l 257
+ 121 1098 l 257
+ 121 938 l 257
+ 461 938 l 257
+ 461 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: daggerdbl
+Encoding: 347 8225 181
+Width: 1117
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+461 0 m 257
+ 671 0 l 257
+ 671 459 l 257
+ 996 459 l 257
+ 996 618 l 257
+ 671 618 l 257
+ 671 938 l 257
+ 996 938 l 257
+ 996 1098 l 257
+ 671 1098 l 257
+ 671 1464 l 257
+ 461 1464 l 257
+ 461 1098 l 257
+ 121 1098 l 257
+ 121 938 l 257
+ 461 938 l 257
+ 461 618 l 257
+ 123 618 l 257
+ 123 459 l 257
+ 461 459 l 257
+ 461 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: dcaron
+Encoding: 348 271 182
+Width: 1137
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 100 N 1 0 0 1 0 0 2
+Refer: 167 -1 N 1 0 0 1 677 -59 2
+EndChar
+
+StartChar: dcroat
+Encoding: 349 273 183
+Width: 1137
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1137'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'dcroat'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+586 1181 m 257
+ 1130 1181 l 257
+ 1130 1301 l 257
+ 586 1301 l 257
+ 586 1181 l 257
+EndSplineSet
+Refer: 179 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: degree
+Encoding: 350 176 184
+Width: 483
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+240 1133 m 256
+ 161 1133 117 1193 117 1267 c 256
+ 117 1341 161 1401 240 1401 c 256
+ 319 1401 363 1341 363 1267 c 256
+ 363 1193 319 1133 240 1133 c 256
+240 1016 m 256
+ 404 1016 498 1136 498 1267 c 256
+ 498 1398 404 1518 240 1518 c 256
+ 76 1518 -18 1398 -18 1267 c 256
+ -18 1136 76 1016 240 1016 c 256
+EndSplineSet
+EndChar
+
+StartChar: dieresis
+Encoding: 351 168 185
+Width: 860
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 430 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+87 1169 m 257
+ 309 1169 l 257
+ 309 1391 l 257
+ 87 1391 l 257
+ 87 1169 l 257
+522 1169 m 257
+ 744 1169 l 257
+ 744 1391 l 257
+ 522 1391 l 257
+ 522 1169 l 257
+EndSplineSet
+EndChar
+
+StartChar: divide
+Encoding: 352 247 186
+Width: 1024
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+346 171 m 257
+ 589 171 l 257
+ 589 393 l 257
+ 346 393 l 257
+ 346 171 l 257
+94 532 m 257
+ 844 532 l 257
+ 844 665 l 257
+ 94 665 l 257
+ 94 532 l 257
+346 800 m 257
+ 589 800 l 257
+ 589 1024 l 257
+ 346 1024 l 257
+ 346 800 l 257
+EndSplineSet
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 187
+Width: 1216
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'-24'
+p7
+sS'width'
+p8
+S'1216'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'642'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'dollar'
+p21
+s."
+LayerCount: 2
+Fore
+SplineSet
+585 -204 m 257
+ 708 -204 l 257
+ 708 1672 l 257
+ 585 1672 l 257
+ 585 -204 l 257
+EndSplineSet
+Refer: 94 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: dotaccent
+Encoding: 353 729 188
+Width: 434
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'434'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'dotaccent'
+p14
+s."
+AnchorPoint: "top" 218 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+114 1233 m 257
+ 317 1233 l 257
+ 317 1468 l 257
+ 114 1468 l 257
+ 114 1233 l 257
+EndSplineSet
+EndChar
+
+StartChar: dotlessi
+Encoding: 354 305 189
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 232 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+138 0 m 257
+ 336 0 l 257
+ 336 1023 l 257
+ 138 1023 l 257
+ 138 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: e
+Encoding: 101 101 190
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 645 0 basechar 0
+AnchorPoint: "top" 515 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+552 -24 m 256
+ 742 -24 893 89 940 267 c 257
+ 791 300 l 257
+ 756 202 688 117 549 117 c 256
+ 360 117 292 297 289 474 c 257
+ 956 474 l 257
+ 958 491 959 558 959 567 c 256
+ 959 840 828 1046 543 1046 c 256
+ 256 1046 91 839 91 512 c 256
+ 91 219 231 -24 552 -24 c 256
+289 604 m 257
+ 296 733 358 905 540 905 c 256
+ 709 905 773 799 773 604 c 257
+ 289 604 l 257
+EndSplineSet
+Kerns2: 477 -21 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: eacute
+Encoding: 233 233 191
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 190 101 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 443 0 2
+EndChar
+
+StartChar: ebreve
+Encoding: 355 277 192
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 190 101 N 1 0 0 1 0 0 2
+Refer: 161 728 N 1 0 0 1 128 0 2
+EndChar
+
+StartChar: ecaron
+Encoding: 356 283 193
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 190 101 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 109 0 2
+EndChar
+
+StartChar: ecircumflex
+Encoding: 234 234 194
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 190 101 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 107 0 2
+EndChar
+
+StartChar: edieresis
+Encoding: 235 235 195
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 190 101 N 1 0 0 1 0 0 2
+Refer: 185 168 N 1 0 0 1 127 0 2
+EndChar
+
+StartChar: edotaccent
+Encoding: 357 279 196
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 190 101 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 322 0 2
+EndChar
+
+StartChar: egrave
+Encoding: 232 232 197
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 267 0 2
+Refer: 190 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: eight
+Encoding: 56 56 198
+Width: 1229
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+136.945 359.28 m 256
+ 136.945 155.552 308.872 -24 600 -24 c 256
+ 918 -24 1093 160 1093 365 c 256
+ 1093 506 1080 640 825 763 c 257
+ 914 795 1090 903 1090 1099 c 256
+ 1090 1375 870 1489 625 1489 c 256
+ 387 1489 149 1379 149 1101 c 256
+ 149 925 278 800 391 747 c 257
+ 190.716 630.168 136.945 507.552 136.945 359.28 c 256
+617.364 141.991 m 256
+ 444.563 141.991 358.66 251.085 358.66 395.912 c 256
+ 358.66 500.905 399.341 602.109 533 687 c 257
+ 748 625 884 586 884 368 c 256
+ 884 227.811 753.514 141.991 617.364 141.991 c 256
+673 820 m 257
+ 468 885 362 914 362 1104 c 256
+ 362 1253 475 1325 625 1325 c 256
+ 784 1325 878 1241 878 1101 c 256
+ 878 940 765 868 673 820 c 257
+EndSplineSet
+EndChar
+
+StartChar: ellipsis
+Encoding: 358 8230 199
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 305 46 N 1 0 0 1 0 0 2
+Refer: 305 46 N 1 0 0 1 855 0 2
+Refer: 305 46 N 1 0 0 1 434 0 2
+EndChar
+
+StartChar: emacron
+Encoding: 359 275 200
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 153 0 2
+Refer: 190 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: emdash
+Encoding: 360 8212 201
+Width: 2048
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+135 302 m 257
+ 1912 302 l 257
+ 1912 420 l 257
+ 135 420 l 257
+ 135 302 l 257
+EndSplineSet
+EndChar
+
+StartChar: emptyset
+Encoding: 361 8709 202
+Width: 1702
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+272 -74 m 257
+ 422 102 l 257
+ 542 20 690 -25 850 -25 c 256
+ 1251 -25 1579 297 1579 696 c 256
+ 1579 898 1495 1080 1362 1211 c 257
+ 1513 1389 l 257
+ 1432 1457 l 257
+ 1282 1279 l 257
+ 1161 1367 1012 1419 850 1419 c 256
+ 451 1419 123 1127 123 696 c 256
+ 123 472 208 290 344 164 c 257
+ 198 -9 l 257
+ 272 -74 l 257
+422 257 m 257
+ 315 363 251 515 251 695 c 256
+ 251 1049 509 1306 850 1306 c 256
+ 985 1306 1107 1261 1205 1188 c 257
+ 422 257 l 257
+849 88 m 256
+ 716 88 596 125 499 193 c 257
+ 1283 1118 l 257
+ 1388 1006 1451 855 1451 695 c 256
+ 1451 371 1191 88 849 88 c 256
+EndSplineSet
+EndChar
+
+StartChar: endash
+Encoding: 362 8211 203
+Width: 1024
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+135 302 m 257
+ 889 302 l 257
+ 889 420 l 257
+ 135 420 l 257
+ 135 302 l 257
+EndSplineSet
+EndChar
+
+StartChar: eng
+Encoding: 363 331 204
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+540 -410 m 257
+ 824 -409 1010 -297 1010 -24 c 258
+ 1010 593 l 258
+ 1010 798 973 1046 650 1046 c 256
+ 499 1046 392 989 323 884 c 257
+ 323 1023 l 257
+ 125 1023 l 257
+ 125 0 l 257
+ 323 0 l 257
+ 323 506 l 257
+ 325 704 391 906 613 906 c 256
+ 767 906 812 800 812 599 c 258
+ 812 -22 l 258
+ 812 -169 748 -259 543 -261 c 257
+ 540 -410 l 257
+EndSplineSet
+EndChar
+
+StartChar: eogonek
+Encoding: 364 281 205
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 287 731 N 1 0 0 1 346 0 2
+Refer: 190 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: equal
+Encoding: 61 61 206
+Width: 820
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+135 275 m 257
+ 685 275 l 257
+ 685 413 l 257
+ 135 413 l 257
+ 135 275 l 257
+135 524 m 257
+ 685 524 l 257
+ 685 662 l 257
+ 135 662 l 257
+ 135 524 l 257
+EndSplineSet
+EndChar
+
+StartChar: estimated
+Encoding: 365 8494 207
+Width: 1192
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+671 -20 m 256
+ 878 -20 1013 70 1113 188 c 257
+ 1061 239 l 257
+ 963 134 851 53 671 53 c 256
+ 441 53 319 245 318 521 c 257
+ 1121 521 l 257
+ 1121 869 973 1102 653 1102 c 256
+ 330 1102 100 861 100 541 c 256
+ 100 221 288 -20 671 -20 c 256
+320 601 m 257
+ 335 863 486 1042 659 1042 c 256
+ 868 1042 1009 836 1009 601 c 257
+ 320 601 l 257
+EndSplineSet
+EndChar
+
+StartChar: eth
+Encoding: 366 240 208
+Width: 1053
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1026'
+p7
+sS'width'
+p8
+S'1053'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'421'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'eth'
+p21
+s."
+LayerCount: 2
+Fore
+SplineSet
+70 454 m 256
+ 70 206.906 222.223 -24.0125 522.067 -24.0125 c 256
+ 846.161 -24.0125 985 214.313 985 529 c 256
+ 985 774 925 1031 760 1207 c 257
+ 934 1321 l 257
+ 861 1424 l 257
+ 661 1294 l 257
+ 541 1379 379 1432 169 1432 c 257
+ 169 1302 l 257
+ 316 1302 433 1264 524 1204 c 257
+ 375 1107 l 257
+ 448 1004 l 257
+ 624 1119 l 257
+ 719 1017 768 888 783 774 c 257
+ 715 865 612 908 503 908 c 256
+ 284 908 70 746 70 454 c 256
+531.464 126.743 m 256
+ 382.49 126.743 268 243.283 268 443 c 256
+ 268 633 378 755 523 755 c 256
+ 621 755 697 707 789 607 c 257
+ 795 581 796 535 796 511 c 256
+ 796 303.551 718.44 126.743 531.464 126.743 c 256
+EndSplineSet
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 209
+Width: 428
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+123 0 m 257
+ 326 0 l 257
+ 326 209 l 257
+ 123 209 l 257
+ 123 0 l 257
+183 344 m 257
+ 264 344 l 257
+ 341 1464 l 257
+ 97 1464 l 257
+ 183 344 l 257
+EndSplineSet
+EndChar
+
+StartChar: exclamdown
+Encoding: 367 161 210
+Width: 428
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 209 33 N -1 0 0 -1 438 1046 2
+EndChar
+
+StartChar: f
+Encoding: 102 102 211
+Width: 637
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1368'
+p7
+sS'width'
+p8
+S'623'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'492'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'f'
+s."
+AnchorPoint: "top" 311 1296 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+201 0 m 257
+ 399 0 l 257
+ 399 878 l 257
+ 612 878 l 257
+ 612 1023 l 257
+ 399 1023 l 257
+ 399 1144 l 258
+ 398.967 1148.76 398.949 1153.4 398.949 1157.93 c 256
+ 398.949 1289.36 413.93 1323 499 1323 c 256
+ 533 1323 572 1311 605 1294 c 257
+ 655 1425 l 257
+ 614 1448 536 1474 476 1474 c 256
+ 297 1474 201 1406 201 1136 c 258
+ 201 1023 l 257
+ 27 1023 l 257
+ 27 878 l 257
+ 201 878 l 257
+ 201 0 l 257
+EndSplineSet
+Kerns2: 211 -110 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: fi
+Encoding: 368 64257 212
+Width: 1084
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 238 105 N 1 0 0 1 637 0 2
+Refer: 211 102 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: five
+Encoding: 53 53 213
+Width: 1229
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'928'
+p7
+sS'width'
+p8
+S'1163'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'528'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'five'
+p21
+s."
+LayerCount: 2
+Fore
+SplineSet
+625 -24 m 256
+ 930 -24 1124 179 1124 461 c 256
+ 1124 716 974 928 645 928 c 256
+ 565 928 452 907 361 851 c 257
+ 419 849 l 257
+ 485 1287 l 257
+ 1008 1287 l 257
+ 1008 1464 l 257
+ 304 1464 l 257
+ 208 744 l 257
+ 335 663 l 257
+ 433 734 531 762 635 762 c 256
+ 815 762 917 624 917 453 c 256
+ 917 266 785 138 616 138 c 256
+ 481 138 359 222 286 377 c 257
+ 114 309 l 257
+ 207 68 392 -24 625 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: fl
+Encoding: 369 64258 214
+Width: 1109
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 257 108 N 1 0 0 1 637 0 2
+Refer: 211 102 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: florin
+Encoding: 370 402 215
+Width: 1026
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+405 -170 m 257
+ 633 806 l 257
+ 846 806 l 257
+ 864 894 l 257
+ 652 894 l 257
+ 737 1253 l 258
+ 760 1352 780 1450 861 1450 c 256
+ 898 1450 923 1402 923 1299 c 257
+ 1088 1299 l 257
+ 1089 1488 980 1536 854 1536 c 256
+ 660 1536 578 1401 540 1242 c 258
+ 458 894 l 257
+ 296 894 l 257
+ 278 806 l 257
+ 443 806 l 257
+ 214 -169 l 257
+ 405 -170 l 257
+EndSplineSet
+EndChar
+
+StartChar: foundryicon
+Encoding: 371 -1 216
+Width: 1347
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+485 405 m 257
+ 485 672 l 257
+ 591 672 l 257
+ 761 523 l 257
+ 761 672 l 257
+ 867 672 l 257
+ 867 405 l 257
+ 761 405 l 257
+ 591 552 l 257
+ 591 405 l 257
+ 485 405 l 257
+280 2 m 257
+ 669 278 l 257
+ 1066 2 l 257
+ 922 461 l 257
+ 1313 755 l 257
+ 828 755 l 257
+ 669 1215 l 257
+ 519 755 l 257
+ 34 755 l 257
+ 423 461 l 257
+ 280 2 l 257
+EndSplineSet
+EndChar
+
+StartChar: four
+Encoding: 52 52 217
+Width: 1238
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+752 0 m 257
+ 946 0 l 257
+ 946 349 l 257
+ 1184 349 l 257
+ 1184 501 l 257
+ 945 501 l 257
+ 945 1464 l 257
+ 663 1464 l 257
+ 104 498 l 257
+ 104 349 l 257
+ 752 349 l 257
+ 752 0 l 257
+301 501 m 257
+ 752 1322 l 257
+ 752 501 l 257
+ 301 501 l 257
+EndSplineSet
+EndChar
+
+StartChar: fraction
+Encoding: 372 8260 218
+Width: 1438
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+156 -14 m 257
+ 1391 1415 l 257
+ 1283 1507 l 257
+ 47 78 l 257
+ 156 -14 l 257
+EndSplineSet
+EndChar
+
+StartChar: g
+Encoding: 103 103 219
+Width: 1145
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'-429'
+p7
+sS'width'
+p8
+S'1074'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'805'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'g'
+s."
+AnchorPoint: "top" 572.5 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+830 30 m 258
+ 830 -190.536 764.327 -318.049 553.393 -318.049 c 256
+ 403.171 -318.049 318.945 -259.665 256 -180 c 257
+ 149 -290 l 257
+ 225 -385 373 -467 558 -467 c 256
+ 842 -466 1028 -314 1028 27 c 258
+ 1028 1023 l 257
+ 859 1023 l 257
+ 840 877 l 257
+ 777 978 675 1046 535 1046 c 256
+ 276 1046 87 863 87 517 c 256
+ 87 181 258 -24 537 -24 c 256
+ 667 -24 765 24 830 107 c 257
+ 830 30 l 258
+548 116 m 256
+ 375.045 116 287.992 253.213 287.992 522.745 c 256
+ 287.992 765.446 384.832 906 547 906 c 256
+ 694 906 831 841 831 490 c 256
+ 831 248 768 116 548 116 c 256
+EndSplineSet
+Kerns2: 219 -25 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: gbreve
+Encoding: 373 287 220
+Width: 1145
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 219 103 N 1 0 0 1 0 0 2
+Refer: 161 728 N 1 0 0 1 129 0 2
+EndChar
+
+StartChar: gcaron
+Encoding: 374 487 221
+Width: 1145
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 219 103 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 111 0 2
+EndChar
+
+StartChar: gcircumflex
+Encoding: 375 285 222
+Width: 1145
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 219 103 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 109 0 2
+EndChar
+
+StartChar: gcommaaccent
+Encoding: 376 291 223
+Width: 1145
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 440 786 N 1 0 0 1 224 0 2
+Refer: 219 103 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: gdotaccent
+Encoding: 179 289 224
+Width: 1145
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 219 103 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 323 0 2
+EndChar
+
+StartChar: germandbls
+Encoding: 223 223 225
+Width: 1199
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1199'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'germandbls'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+956.021 1199.23 m 256
+ 956.021 1368.78 828.61 1492.05 559.57 1492.05 c 256
+ 328.602 1492.05 108 1370.33 108 1151 c 258
+ 108 0 l 257
+ 314 0 l 257
+ 314 1136 l 258
+ 314 1265.44 417.485 1347.04 559.825 1347.04 c 256
+ 707.931 1347.04 766 1291.75 766 1209 c 256
+ 766 995.721 432.998 1033.21 432.998 815.255 c 256
+ 432.998 573.201 917.038 554.956 917.038 338.335 c 256
+ 917.038 199.364 768.552 164 441 164 c 257
+ 441 0 l 257
+ 481 0 l 258
+ 1039.51 0 1124.01 115.918 1124.01 338.893 c 256
+ 1124.01 654.062 635.998 717.194 635.998 822.677 c 256
+ 635.998 882.001 956.021 930.259 956.021 1199.23 c 256
+EndSplineSet
+EndChar
+
+StartChar: grave
+Encoding: 96 96 226
+Width: 496
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 358 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+349 1154 m 257
+ 481 1154 l 257
+ 278 1474 l 257
+ 7 1474 l 257
+ 349 1154 l 257
+EndSplineSet
+EndChar
+
+StartChar: greater
+Encoding: 62 62 227
+Width: 1051
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 78 m 257
+ 999 430 l 257
+ 999 610 l 257
+ 50 976 l 257
+ 50 782 l 257
+ 775 530 l 257
+ 50 292 l 257
+ 50 78 l 257
+EndSplineSet
+EndChar
+
+StartChar: greaterequal
+Encoding: 377 8805 228
+Width: 1051
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50 248 m 257
+ 999 528 l 257
+ 999 708 l 257
+ 50 1020 l 257
+ 50 826 l 257
+ 775 628 l 257
+ 50 446 l 257
+ 50 248 l 257
+53 0 m 257
+ 1014 0 l 257
+ 1014 130 l 257
+ 53 130 l 257
+ 53 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: guillemotleft
+Encoding: 378 171 229
+Width: 946
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'946'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'guillemotleft'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+458 234 m 257
+ 458 431 l 257
+ 143 650 l 257
+ 458 867 l 257
+ 458 1065 l 257
+ 5 788 l 257
+ 5 511 l 257
+ 458 234 l 257
+938 234 m 257
+ 938 431 l 257
+ 623 650 l 257
+ 938 867 l 257
+ 938 1065 l 257
+ 485 788 l 257
+ 485 511 l 257
+ 938 234 l 257
+EndSplineSet
+EndChar
+
+StartChar: guillemotright
+Encoding: 379 187 230
+Width: 946
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+5 234 m 257
+ 458 511 l 257
+ 458 788 l 257
+ 5 1065 l 257
+ 5 867 l 257
+ 320 650 l 257
+ 5 431 l 257
+ 5 234 l 257
+485 234 m 257
+ 938 511 l 257
+ 938 788 l 257
+ 485 1065 l 257
+ 485 867 l 257
+ 800 650 l 257
+ 485 431 l 257
+ 485 234 l 257
+EndSplineSet
+EndChar
+
+StartChar: guilsinglleft
+Encoding: 380 8249 231
+Width: 528
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+485 234 m 257
+ 485 431 l 257
+ 183 650 l 257
+ 485 867 l 257
+ 485 1065 l 257
+ 45 788 l 257
+ 45 511 l 257
+ 485 234 l 257
+EndSplineSet
+EndChar
+
+StartChar: guilsinglright
+Encoding: 381 8250 232
+Width: 528
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+41 234 m 257
+ 481 511 l 257
+ 481 788 l 257
+ 41 1065 l 257
+ 41 867 l 257
+ 343 650 l 257
+ 41 431 l 257
+ 41 234 l 257
+EndSplineSet
+EndChar
+
+StartChar: h
+Encoding: 104 104 233
+Width: 1125
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'segmentType'
+p2
+S'line'
+p3
+sS'b'
+(dp4
+sS'anchors'
+p5
+(tsS'com.typemytype.robofont.layerData'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'name'
+p9
+S'h'
+sS'width'
+p10
+S'1086'
+p11
+sS'points'
+p12
+(dp13
+sS'contours'
+p14
+(dp15
+sS'components'
+p16
+(tsS'lib'
+p17
+(dp18
+sS'y'
+S'940'
+p19
+sS'x'
+S'783'
+p20
+sS'com.typemytype.robofont.guides'
+p21
+(ts."
+AnchorPoint: "top" 631 1296 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 0 m 257
+ 324 0 l 257
+ 324 537 l 257
+ 332 733 399 905 610 905 c 256
+ 763 905 812 803 812 602 c 258
+ 812 0 l 257
+ 1010 0 l 257
+ 1010 593 l 258
+ 1010 799 973 1044 650 1044 c 256
+ 499 1044 393 986 324 883 c 257
+ 324 1474 l 257
+ 125 1474 l 257
+ 125 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: hbar
+Encoding: 382 295 234
+Width: 1117
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1117'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'hbar'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+-10 1181 m 257
+ 534 1181 l 257
+ 534 1301 l 257
+ -10 1301 l 257
+ -10 1181 l 257
+EndSplineSet
+Refer: 233 104 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: hcircumflex
+Encoding: 383 293 235
+Width: 1125
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 233 104 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 251 273 2
+EndChar
+
+StartChar: hungarumlaut
+Encoding: 384 733 236
+Width: 745
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 372.5 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+55 1134 m 257
+ 147 1134 l 257
+ 389 1470 l 257
+ 128 1470 l 257
+ 55 1134 l 257
+371 1134 m 257
+ 472 1134 l 257
+ 741 1470 l 257
+ 472 1470 l 257
+ 371 1134 l 257
+EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 237
+AltUni2: 002015.ffffffff.0
+Width: 724
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 368 m 257
+ 600 368 l 257
+ 600 524 l 257
+ 100 524 l 257
+ 100 368 l 257
+EndSplineSet
+EndChar
+
+StartChar: i
+Encoding: 105 105 238
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 244 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 14 0 2
+EndChar
+
+StartChar: iacute
+Encoding: 237 237 239
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 114 0 2
+EndChar
+
+StartChar: ibreve
+Encoding: 385 301 240
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 2
+Refer: 161 728 N 1 0 0 1 -170.5 0 2
+EndChar
+
+StartChar: icircumflex
+Encoding: 238 238 241
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 -187 0 2
+EndChar
+
+StartChar: idblgrave
+Encoding: 386 521 242
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 -293.5 16 2
+Refer: 189 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: idieresis
+Encoding: 239 239 243
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 2
+Refer: 185 168 N 1 0 0 1 -174 0 2
+EndChar
+
+StartChar: igrave
+Encoding: 236 236 244
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 -126 0 2
+Refer: 189 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: iinvertedbreve
+Encoding: 387 523 245
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 -165 2 2
+Refer: 189 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ij
+Encoding: 388 307 246
+Width: 954
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 252 106 N 1 0 0 1 447 0 2
+Refer: 238 105 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: imacron
+Encoding: 389 299 247
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 -130 0 2
+Refer: 189 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: infinity
+Encoding: 390 8734 248
+Width: 1606
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1561 738 m 256
+ 1561 950.279 1433.64 1166.03 1177.01 1166.03 c 256
+ 1027.7 1166.03 880.086 1077.44 798 937 c 257
+ 726 1074 585 1162 435 1162 c 256
+ 173 1162 41 945 41 730 c 256
+ 41 514 172 300 432 300 c 256
+ 578 300 714 393 782 542 c 257
+ 859 396 1010 303 1171 303 c 256
+ 1171.59 302.998 1172.18 302.997 1172.77 302.997 c 256
+ 1430.6 302.997 1561 521.494 1561 738 c 256
+435 493 m 256
+ 282 493 205 613 205 732 c 256
+ 205 850 281 967 433 967 c 256
+ 551 967 664 857 724 680 c 257
+ 657 566 545 493 435 493 c 256
+1169 493 m 256
+ 1041 493 920 614 857 807 c 257
+ 922 906 1035 965 1150 965 c 256
+ 1267 965 1395 889 1395 724 c 256
+ 1395 607 1320 493 1169 493 c 256
+EndSplineSet
+EndChar
+
+StartChar: integral
+Encoding: 391 8747 249
+Width: 810
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+184 -275 m 256
+ 363 -275 465 -208 489 62 c 258
+ 586 1144 l 258
+ 599 1287 616 1323 703 1323 c 256
+ 737 1323 776 1311 806 1294 c 257
+ 868 1425 l 257
+ 829 1448 754 1474 694 1474 c 256
+ 515 1474 413 1406 389 1136 c 258
+ 292 55 l 258
+ 279 -88 262 -124 175 -124 c 256
+ 141 -124 102 -112 72 -95 c 257
+ 10 -226 l 257
+ 49 -250 124 -275 184 -275 c 256
+EndSplineSet
+EndChar
+
+StartChar: iogonek
+Encoding: 392 303 250
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 287 731 N 1 0 0 1 -55 0 2
+Refer: 238 105 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: itilde
+Encoding: 393 297 251
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 -167 0 2
+Refer: 189 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: j
+Encoding: 106 106 252
+Width: 507
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'482'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'j'
+s."
+LayerCount: 2
+Fore
+Refer: 435 567 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 83 0 2
+EndChar
+
+StartChar: jcircumflex
+Encoding: 394 309 253
+Width: 507
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 435 567 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 -118 0 2
+EndChar
+
+StartChar: k
+Encoding: 107 107 254
+Width: 1052
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'511'
+p7
+sS'width'
+p8
+S'1005'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'268'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'k'
+s."
+AnchorPoint: "top" 631 1296 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 0 m 257
+ 324 0 l 257
+ 324 340 l 257
+ 504 514 l 257
+ 838 0 l 257
+ 1062 0 l 257
+ 634 638 l 257
+ 1035 1023 l 257
+ 811 1023 l 257
+ 324 550 l 257
+ 324 1474 l 257
+ 125 1474 l 257
+ 125 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: kcommaaccent
+Encoding: 395 311 255
+Width: 1052
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 322 0 2
+Refer: 254 107 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: kgreenlandic
+Encoding: 396 312 256
+Width: 1010
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'446'
+p7
+sS'width'
+p8
+S'1010'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'271'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'kgreenlandic'
+p21
+s."
+LayerCount: 2
+Fore
+SplineSet
+832 0 m 257
+ 1056 0 l 257
+ 628 590 l 257
+ 1001 1023 l 257
+ 773 1023 l 257
+ 337 529 l 257
+ 337 1023 l 257
+ 139 1023 l 257
+ 139 0 l 257
+ 337 0 l 257
+ 337 319 l 257
+ 495 481 l 257
+ 832 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: l
+Encoding: 108 108 257
+Width: 472
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "caron.alt" 332 1023 basechar 0
+AnchorPoint: "top" 243 1464 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+138 0 m 257
+ 336 0 l 257
+ 336 1474 l 257
+ 138 1474 l 257
+ 138 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: lacute
+Encoding: 397 314 258
+Width: 472
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 257 108 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 192 451 2
+EndChar
+
+StartChar: lcaron
+Encoding: 398 318 259
+Width: 472
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 257 108 N 1 0 0 1 0 0 2
+Refer: 167 -1 N 1 0 0 1 69 -59 2
+EndChar
+
+StartChar: lcommaaccent
+Encoding: 399 316 260
+Width: 472
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 32 0 2
+Refer: 257 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ldot
+Encoding: 400 320 261
+Width: 472
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 306 183 N 1 0 0 1 419 0 2
+Refer: 257 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: less
+Encoding: 60 60 262
+Width: 1051
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+998 78 m 257
+ 998 272 l 257
+ 273 524 l 257
+ 998 763 l 257
+ 998 976 l 257
+ 49 625 l 257
+ 49 444 l 257
+ 998 78 l 257
+EndSplineSet
+EndChar
+
+StartChar: lessequal
+Encoding: 401 8804 263
+Width: 1051
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+998 250 m 257
+ 998 428 l 257
+ 273 623 l 257
+ 998 800 l 257
+ 998 1014 l 257
+ 49 714 l 257
+ 49 534 l 257
+ 998 250 l 257
+45 0 m 257
+ 1006 0 l 257
+ 1006 130 l 257
+ 45 130 l 257
+ 45 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: logicalnot
+Encoding: 402 172 264
+Width: 1024
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+786 327 m 257
+ 905 327 l 257
+ 905 756 l 257
+ 135 756 l 257
+ 135 636 l 257
+ 786 636 l 257
+ 786 327 l 257
+EndSplineSet
+EndChar
+
+StartChar: lozenge
+Encoding: 403 9674 265
+Width: 1054
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+451 0 m 257
+ 590 0 l 257
+ 1023 699 l 257
+ 590 1398 l 257
+ 451 1398 l 257
+ 30 699 l 257
+ 451 0 l 257
+528 200 m 257
+ 236 699 l 257
+ 528 1198 l 257
+ 824 699 l 257
+ 528 200 l 257
+EndSplineSet
+EndChar
+
+StartChar: lslash
+Encoding: 404 322 266
+Width: 421
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'421'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'lslash'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+-43 623 m 257
+ 497 868 l 257
+ 497 1032 l 257
+ -43 787 l 257
+ -43 623 l 257
+EndSplineSet
+Refer: 257 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: m
+Encoding: 109 109 267
+Width: 1813
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'757'
+p7
+sS'width'
+p8
+S'1782'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'269'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'm'
+s."
+AnchorPoint: "top" 983 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 0 m 257
+ 323 0 l 257
+ 323 499 l 257
+ 324 709 386 906 609 906 c 256
+ 763 906 812 803 812 602 c 258
+ 812 0 l 257
+ 1010 0 l 257
+ 1010 496 l 258
+ 1010 709 1067 906 1297 906 c 256
+ 1450 906 1499 803 1499 602 c 258
+ 1499 0 l 257
+ 1697 0 l 257
+ 1697 593 l 258
+ 1697 799 1660 1046 1337 1046 c 256
+ 1161 1046 1044 974 979 837 c 257
+ 938 956 848 1046 650 1046 c 256
+ 498 1046 392 987 323 883 c 257
+ 323 1023 l 257
+ 125 1023 l 257
+ 125 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: macron
+Encoding: 405 175 268
+Width: 724
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 362 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+147 1194 m 257
+ 601 1194 l 257
+ 601 1334 l 257
+ 147 1334 l 257
+ 147 1194 l 257
+EndSplineSet
+EndChar
+
+StartChar: minus
+Encoding: 406 8722 269
+Width: 1024
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+135 659 m 257
+ 803 659 l 257
+ 803 775 l 257
+ 135 775 l 257
+ 135 659 l 257
+EndSplineSet
+EndChar
+
+StartChar: mu
+Encoding: 407 956 270
+Width: 1119
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+110 -224 m 257
+ 308 -224 l 257
+ 308 1023 l 257
+ 110 1023 l 257
+ 110 -224 l 257
+EndSplineSet
+Refer: 355 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: multiply
+Encoding: 408 215 271
+Width: 734
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+202 183 m 257
+ 363 345 l 257
+ 524 183 l 257
+ 638 297 l 257
+ 476 458 l 257
+ 638 619 l 257
+ 524 733 l 257
+ 363 571 l 257
+ 202 733 l 257
+ 88 619 l 257
+ 250 458 l 257
+ 88 297 l 257
+ 202 183 l 257
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 272
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'830'
+p7
+sS'width'
+p8
+S'1086'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'265'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'n'
+s."
+AnchorPoint: "top" 628 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 0 m 257
+ 323 0 l 257
+ 323 506 l 257
+ 325 704 391 906 613 906 c 256
+ 767 906 812 800 812 599 c 258
+ 812 0 l 257
+ 1010 0 l 257
+ 1010 593 l 258
+ 1010 798 973 1046 650 1046 c 256
+ 499 1046 392 989 323 884 c 257
+ 323 1023 l 257
+ 125 1023 l 257
+ 125 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: nacute
+Encoding: 409 324 273
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 272 110 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 515 0 2
+EndChar
+
+StartChar: napostrophe
+Encoding: 410 329 274
+Width: 600
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 272 110 N 1 0 0 1 0 0 2
+Refer: 141 700 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ncaron
+Encoding: 411 328 275
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 272 110 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 181 0 2
+EndChar
+
+StartChar: ncommaaccent
+Encoding: 412 326 276
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 359 0 2
+Refer: 272 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: nine
+Encoding: 57 57 277
+Width: 1237
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1202'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'nine'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+552.363 517.96 m 256
+ 669.913 517.96 783.099 544.616 888 621 c 257
+ 874 268 741 141 557 140 c 256
+ 473 140 375 166 275 225 c 257
+ 219 69 l 257
+ 331 5 471 -24 569 -24 c 256
+ 895 -24 1112 267 1112 768 c 256
+ 1112 1216 918 1489 581 1489 c 256
+ 282 1489 109 1245 109 987 c 256
+ 109 684.693 304.501 517.96 552.363 517.96 c 256
+888 788 m 257
+ 787.281 712.461 690.129 674.991 582.876 674.991 c 256
+ 405.005 674.991 320 760.346 320 991 c 256
+ 320 1208 421 1324 581 1324 c 256
+ 814 1324 888 1077 888 822 c 258
+ 888 788 l 257
+EndSplineSet
+EndChar
+
+StartChar: notequal
+Encoding: 413 8800 278
+Width: 912
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+362 216 m 257
+ 472 516 l 257
+ 864 516 l 257
+ 864 653 l 257
+ 523 653 l 257
+ 564 765 l 257
+ 864 765 l 257
+ 864 903 l 257
+ 614 903 l 257
+ 713 1171 l 257
+ 551 1208 l 257
+ 443 903 l 257
+ 48 903 l 257
+ 48 765 l 257
+ 394 765 l 257
+ 354 653 l 257
+ 48 653 l 257
+ 48 516 l 257
+ 305 516 l 257
+ 212 252 l 257
+ 362 216 l 257
+EndSplineSet
+EndChar
+
+StartChar: ntilde
+Encoding: 241 241 279
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 229 0 2
+Refer: 272 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 280
+Width: 1221
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+128 -1 m 257
+ 315 0 l 257
+ 424 531 l 257
+ 676 531 l 257
+ 569 -1 l 257
+ 756 0 l 257
+ 865 531 l 257
+ 1073 531 l 257
+ 1112 667 l 257
+ 892 667 l 257
+ 938 882 l 257
+ 1143 882 l 257
+ 1179 1018 l 257
+ 965 1018 l 257
+ 1057 1464 l 257
+ 864 1464 l 257
+ 774 1018 l 257
+ 525 1018 l 257
+ 617 1464 l 257
+ 424 1464 l 257
+ 334 1018 l 257
+ 153 1018 l 257
+ 117 882 l 257
+ 307 882 l 257
+ 262 667 l 257
+ 86 667 l 257
+ 47 531 l 257
+ 235 531 l 257
+ 128 -1 l 257
+451 667 m 257
+ 497 882 l 257
+ 746 882 l 257
+ 704 667 l 257
+ 451 667 l 257
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 281
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+(tsS'com.typemytype.robofont.layerData'
+p3
+(dp4
+s."
+AnchorPoint: "top" 549.5 1023 basechar 0
+AnchorPoint: "ogonek" 596 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+550 116 m 256
+ 338 116 293 317 293 512 c 256
+ 293 706 338 906 550 906 c 256
+ 761 906 806 706 806 512 c 256
+ 806 317 761 116 550 116 c 256
+550 -24 m 256
+ 831 -24 1009 158 1009 512 c 256
+ 1009 865 831 1046 550 1046 c 256
+ 268 1046 90 865 90 512 c 256
+ 90 158 268 -24 550 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: oacute
+Encoding: 243 243 282
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 111 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 449 0 2
+EndChar
+
+StartChar: obreve
+Encoding: 414 335 283
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 111 N 1 0 0 1 0 0 2
+Refer: 161 728 N 1 0 0 1 134 0 2
+EndChar
+
+StartChar: ocircumflex
+Encoding: 244 244 284
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 111 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 114 0 2
+EndChar
+
+StartChar: odieresis
+Encoding: 246 246 285
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 111 N 1 0 0 1 0 0 2
+Refer: 185 168 N 1 0 0 1 134 0 2
+EndChar
+
+StartChar: oe
+Encoding: 415 339 286
+Width: 2129
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 1745 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+553 -24 m 256
+ 713 -24 845 47 913 181 c 257
+ 972 61 1106 -24 1275 -24 c 256
+ 1465 -24 1616 89 1663 267 c 257
+ 1514 300 l 257
+ 1479 202 1411 117 1272 117 c 256
+ 1083 117 1014 297 1012 474 c 257
+ 1679 474 l 257
+ 1681 491 1682 558 1682 567 c 256
+ 1682 840 1551 1046 1266 1046 c 256
+ 1109 1046 979 963 912 835 c 257
+ 848 968 712 1046 553 1046 c 256
+ 271 1046 94 865 94 512 c 256
+ 94 158 271 -24 553 -24 c 256
+553 116 m 256
+ 342 116 297 317 297 512 c 256
+ 297 706 342 906 553 906 c 256
+ 765 906 810 706 810 512 c 256
+ 810 317 765 116 553 116 c 256
+1012 604 m 257
+ 1019 733 1081 905 1263 905 c 256
+ 1431 905 1495 799 1496 604 c 257
+ 1012 604 l 257
+EndSplineSet
+EndChar
+
+StartChar: ogonek
+Encoding: 416 731 287
+Width: 462
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 299 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+386 -375 m 257
+ 386 -264 l 257
+ 369.324 -267.817 355.11 -269.576 343.042 -269.576 c 256
+ 295.048 -269.576 281 -241.758 281 -205 c 256
+ 281 -147 312 -80 347 0 c 257
+ 252 0 l 257
+ 188.849 -72.1728 116.991 -156.373 116.991 -242.519 c 256
+ 116.991 -308.098 169.882 -386.984 294.757 -386.984 c 256
+ 321.745 -386.984 352.095 -383.3 386 -375 c 257
+EndSplineSet
+EndChar
+
+StartChar: ograve
+Encoding: 242 242 288
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 111 N 1 0 0 1 0 0 2
+Refer: 226 96 N 1 0 0 1 134 0 2
+EndChar
+
+StartChar: ohungarumlaut
+Encoding: 417 337 289
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 111 N 1 0 0 1 0 0 2
+Refer: 236 733 N 1 0 0 1 300 0 2
+EndChar
+
+StartChar: omacron
+Encoding: 418 333 290
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 111 N 1 0 0 1 0 0 2
+Refer: 268 175 N 1 0 0 1 189 0 2
+EndChar
+
+StartChar: one
+Encoding: 49 49 291
+Width: 895
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+411 0 m 257
+ 617 0 l 257
+ 617 1464 l 257
+ 438 1464 l 257
+ 127 1335 l 257
+ 187 1172 l 257
+ 411 1272 l 257
+ 411 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: onehalf
+Encoding: 419 189 292
+Width: 1398
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+1161 582 m 256
+ 1228.17 582 1264.13 542.206 1264.13 481.176 c 256
+ 1264.13 373.055 1127.43 289.873 928 115 c 257
+ 928 0 l 257
+ 1418 0 l 257
+ 1418 111 l 257
+ 1134 112 l 257
+ 1299.07 255.617 1418.91 332.267 1418.91 479.019 c 256
+ 1418.91 643.151 1295.1 712 1169 712 c 256
+ 1063 712 950 658 907 537 c 257
+ 1033 474 l 257
+ 1051 540 1090 582 1161 582 c 256
+208 769 m 257
+ 365 769 l 257
+ 365 1464 l 257
+ 222 1464 l 257
+ 66 1391 l 257
+ 95 1266 l 257
+ 208 1326 l 257
+ 208 769 l 257
+156 -14 m 257
+ 1391 1415 l 257
+ 1283 1507 l 257
+ 47 78 l 257
+ 156 -14 l 257
+EndSplineSet
+EndChar
+
+StartChar: onequarter
+Encoding: 420 188 293
+Width: 1403
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+1110 0 m 257
+ 1264 0 l 257
+ 1264 127 l 257
+ 1370 127 l 257
+ 1370 241 l 257
+ 1264 241 l 257
+ 1264 693 l 257
+ 1063 693 l 257
+ 767 220 l 257
+ 767 127 l 257
+ 1110 127 l 257
+ 1110 0 l 257
+196 769 m 257
+ 353 769 l 257
+ 353 1464 l 257
+ 210 1464 l 257
+ 54 1391 l 257
+ 83 1266 l 257
+ 196 1326 l 257
+ 196 769 l 257
+148 -14 m 257
+ 1383 1415 l 257
+ 1275 1507 l 257
+ 39 78 l 257
+ 148 -14 l 257
+926 241 m 257
+ 1110 551 l 257
+ 1110 241 l 257
+ 926 241 l 257
+EndSplineSet
+EndChar
+
+StartChar: ordfeminine
+Encoding: 421 170 294
+Width: 946
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+399.704 582.774 m 256
+ 518.708 582.774 596.408 639.116 647 699 c 257
+ 665 603 l 257
+ 815 603 l 257
+ 815 1141 l 258
+ 815 1359 694 1474 495 1474 c 256
+ 398 1474 260 1422 185 1340 c 257
+ 185 1340 293 1241 293 1240 c 257
+ 350 1296 420 1335 497 1335 c 256
+ 590 1335 643 1277 643 1164 c 258
+ 643 1111 l 257
+ 554 1104 l 258
+ 324 1085 147 1018 147 804 c 256
+ 147 660.468 268.328 582.774 399.704 582.774 c 256
+427.263 692.319 m 256
+ 345.688 692.319 303.65 740.312 303.65 809.127 c 256
+ 303.65 816.47 304.1 824.1 305 832 c 256
+ 316 918 364 965 554 983 c 258
+ 643 991 l 257
+ 643 805 l 257
+ 595.869 752.214 506.089 692.319 427.263 692.319 c 256
+EndSplineSet
+EndChar
+
+StartChar: ordmasculine
+Encoding: 422 186 295
+Width: 1000
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1000'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'ordmasculine'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+517 720 m 256
+ 373 720 308 847 308 1031 c 256
+ 308 1212 373 1339 516 1339 c 256
+ 658 1339 725 1212 725 1029 c 256
+ 725 846 658 720 517 720 c 256
+516 583 m 256
+ 753 583 909 730 909 1031 c 256
+ 909 1339 742 1474 517 1474 c 256
+ 289 1474 123 1338 123 1028 c 256
+ 123 729 279 583 516 583 c 256
+EndSplineSet
+EndChar
+
+StartChar: oslash
+Encoding: 248 248 296
+Width: 1104
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1104'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'oslash'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+284 -199 m 257
+ 935 1176 l 257
+ 835 1229 l 257
+ 182 -146 l 257
+ 284 -199 l 257
+EndSplineSet
+Refer: 281 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: oslashacute
+Encoding: 423 511 297
+Width: 1104
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 296 248 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 449 0 2
+EndChar
+
+StartChar: otilde
+Encoding: 245 245 298
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 151 0 2
+Refer: 281 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: p
+Encoding: 112 112 299
+Width: 1145
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1082'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'p'
+s."
+AnchorPoint: "top" 613 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 -366 m 257
+ 323 -366 l 257
+ 323 107 l 257
+ 388 24 487 -24 618 -24 c 256
+ 897 -24 1054 173 1054 517 c 256
+ 1054 866 876 1046 617 1046 c 256
+ 477 1046 375 977 312 876 c 257
+ 298 1023 l 257
+ 125 1023 l 257
+ 125 -366 l 257
+605 116 m 256
+ 376 116 323 257 323 526 c 256
+ 324 831 465 906 605 906 c 256
+ 772 906 852 767 852 517 c 256
+ 852 249 777 116 605 116 c 256
+EndSplineSet
+EndChar
+
+StartChar: paragraph
+Encoding: 182 182 300
+Width: 1038
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+403 0 m 257
+ 579 0 l 257
+ 579 1303 l 257
+ 698 1303 l 257
+ 698 0 l 257
+ 874 0 l 257
+ 874 1303 l 257
+ 1006 1303 l 257
+ 1006 1464 l 257
+ 563 1464 l 258
+ 155 1464 67 1305 67 1126 c 256
+ 67 930 189 799 403 799 c 257
+ 403 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 301
+Width: 602
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1518'
+p7
+sS'width'
+p8
+S'602'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'232'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'parenleft'
+p21
+s."
+LayerCount: 2
+Fore
+SplineSet
+523 -181 m 257
+ 562 -62 l 257
+ 327 11 214 289 214 703 c 256
+ 214 1117 327 1395 562 1468 c 257
+ 523 1587 l 257
+ 232 1518 3 1242 3 703 c 256
+ 3 164 232 -112 523 -181 c 257
+EndSplineSet
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 302
+Width: 602
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1518'
+p7
+sS'width'
+p8
+S'602'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'232'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'parenright'
+p21
+s."
+LayerCount: 2
+Fore
+SplineSet
+41 -181 m 257
+ 332 -112 562 164 562 703 c 256
+ 562 1242 332 1518 41 1587 c 257
+ 3 1468 l 257
+ 238 1395 350 1117 350 703 c 256
+ 350 289 238 11 3 -62 c 257
+ 41 -181 l 257
+EndSplineSet
+EndChar
+
+StartChar: partialdiff
+Encoding: 424 8706 303
+Width: 1183
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+606 908 m 256
+ 372.201 908 122 722.066 122 392 c 256
+ 122 169 253 -24 527 -24 c 256
+ 897.966 -24 1056 286.224 1056 678 c 256
+ 1056 1064 885 1432 327 1432 c 257
+ 313 1302 l 257
+ 721 1302 866 1008 871 774 c 257
+ 813 864 715 908 606 908 c 256
+861 582 m 256
+ 861 342.649 754.817 127 553 127 c 256
+ 420 127 319 221 319 393 c 256
+ 319 608.784 452.424 755 609 755 c 256
+ 707 755 778 707 860 607 c 257
+ 861 599 861 591 861 582 c 256
+EndSplineSet
+EndChar
+
+StartChar: percent
+Encoding: 37 37 304
+Width: 1677
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1677'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'percent'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+356 903 m 256
+ 250 903 195 1000 195 1122 c 256
+ 195 1238 254 1338 356 1338 c 256
+ 461 1338 517 1242 517 1121 c 256
+ 517 1000 460 903 356 903 c 256
+357 773 m 256
+ 558 773 669 946 669 1120 c 256
+ 669 1292 558 1466 357 1466 c 256
+ 154 1466 42 1291 42 1118 c 256
+ 42 945 152 773 357 773 c 256
+278 -28 m 257
+ 1513 1401 l 257
+ 1409 1498 l 257
+ 173 69 l 257
+ 278 -28 l 257
+1285 111 m 256
+ 1179 111 1124 208 1124 330 c 256
+ 1124 446 1183 546 1285 546 c 256
+ 1390 546 1445 449 1445 329 c 256
+ 1445 208 1389 111 1285 111 c 256
+1286 -19 m 256
+ 1487 -19 1598 153 1598 327 c 256
+ 1598 499 1487 674 1286 674 c 256
+ 1083 674 971 499 971 326 c 256
+ 971 153 1081 -19 1286 -19 c 256
+EndSplineSet
+EndChar
+
+StartChar: period
+Encoding: 46 46 305
+Width: 434
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+95 0 m 257
+ 336 0 l 257
+ 336 235 l 257
+ 95 235 l 257
+ 95 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: periodcentered
+Encoding: 425 183 306
+Width: 434
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+95 529 m 257
+ 336 529 l 257
+ 336 764 l 257
+ 95 764 l 257
+ 95 529 l 257
+EndSplineSet
+EndChar
+
+StartChar: perthousand
+Encoding: 426 8240 307
+Width: 2415
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+2061 111 m 256
+ 1954 111 1900 208 1900 330 c 256
+ 1900 446 1958 546 2061 546 c 256
+ 2166 546 2221 449 2221 329 c 256
+ 2221 208 2165 111 2061 111 c 256
+2062 -19 m 256
+ 2263 -19 2373 153 2373 327 c 256
+ 2373 499 2263 674 2062 674 c 256
+ 1859 674 1747 499 1747 326 c 256
+ 1747 153 1857 -19 2062 -19 c 256
+EndSplineSet
+Refer: 304 37 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: pi
+Encoding: 427 960 308
+Width: 1350
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1083 -13 m 256
+ 1157 -13 1221 10 1254 42 c 257
+ 1254 166 l 257
+ 1227 156 1170 131 1131 131 c 256
+ 1054 131 1012 227 1012 435 c 256
+ 1012 548 1023 688 1048 863 c 257
+ 1276 863 l 257
+ 1276 1023 l 257
+ 417 1023 l 258
+ 187 1023 116 945 116 735 c 257
+ 208 735 l 257
+ 220 809 258 863 336 863 c 258
+ 458 863 l 257
+ 397 375 l 258
+ 371 165 250 108 127 108 c 257
+ 127 3 l 257
+ 462 3 530 101 540 313 c 258
+ 565 863 l 257
+ 927 863 l 257
+ 898 641 858 430 858 273 c 256
+ 858 99 908 -13 1083 -13 c 256
+EndSplineSet
+EndChar
+
+StartChar: plus
+Encoding: 43 43 309
+Width: 860
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+356 350 m 257
+ 498 350 l 257
+ 498 656 l 257
+ 778 656 l 257
+ 778 796 l 257
+ 498 796 l 257
+ 498 1100 l 257
+ 356 1100 l 257
+ 356 796 l 257
+ 72 796 l 257
+ 72 656 l 257
+ 356 656 l 257
+ 356 350 l 257
+EndSplineSet
+EndChar
+
+StartChar: plusminus
+Encoding: 428 177 310
+Width: 860
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+358 423 m 257
+ 500 423 l 257
+ 500 655 l 257
+ 730 655 l 257
+ 730 795 l 257
+ 500 795 l 257
+ 500 1023 l 257
+ 358 1023 l 257
+ 358 795 l 257
+ 128 795 l 257
+ 128 655 l 257
+ 358 655 l 257
+ 358 423 l 257
+127 219 m 257
+ 730 219 l 257
+ 730 338 l 257
+ 127 338 l 257
+ 127 219 l 257
+EndSplineSet
+EndChar
+
+StartChar: product
+Encoding: 429 8719 311
+Width: 1379
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+139 0 m 257
+ 344 0 l 257
+ 344 1310 l 257
+ 1035 1310 l 257
+ 1035 0 l 257
+ 1240 0 l 257
+ 1240 1464 l 257
+ 139 1464 l 257
+ 139 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 312
+Width: 1142
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1082'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'p'
+s."
+LayerCount: 2
+Fore
+SplineSet
+822 -350 m 257
+ 1020 -350 l 257
+ 1020 1023 l 257
+ 847 1023 l 257
+ 832 876 l 257
+ 769 977 668 1046 528 1046 c 256
+ 268 1046 90 866 90 517 c 256
+ 90 173 248 -24 527 -24 c 256
+ 658 -24 757 24 822 107 c 257
+ 822 -350 l 257
+540 116 m 256
+ 367 116 293 249 293 517 c 256
+ 293 767 372 906 540 906 c 256
+ 681 906 822 832 822 516 c 256
+ 822 259 768 116 540 116 c 256
+EndSplineSet
+EndChar
+
+StartChar: question
+Encoding: 63 63 313
+Width: 1010
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+338 358 m 257
+ 519 358 l 257
+ 737 723 941 805 941 1094 c 256
+ 941 1294 816 1491 497 1491 c 256
+ 329 1491 154 1440 35 1251 c 257
+ 174 1150 l 257
+ 204 1196 298 1328 488 1328 c 256
+ 672 1328 737 1227 737 1089 c 256
+ 737 838 554 778 338 358 c 257
+322 0 m 257
+ 548 0 l 257
+ 548 231 l 257
+ 322 231 l 257
+ 322 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: questiondown
+Encoding: 430 191 314
+Width: 1010
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 313 63 N -1 0 0 -1 976 1139 2
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 315
+Width: 510
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+48 961 m 257
+ 129 961 l 257
+ 195 1503 l 257
+ -20 1503 l 257
+ 48 961 l 257
+381 961 m 257
+ 462 961 l 257
+ 529 1503 l 257
+ 314 1503 l 257
+ 381 961 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotedblbase
+Encoding: 431 8222 316
+Width: 744
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+123 -422 m 257
+ 310 -290 307 -77 311 133 c 257
+ 75 133 l 257
+ 75 -70 l 257
+ 74 -71 153 -91 153 -91 c 257
+ 150 -232 90 -322 61 -349 c 257
+ 123 -422 l 257
+493 -422 m 257
+ 680 -290 676 -77 681 133 c 257
+ 445 133 l 257
+ 445 -70 l 258
+ 445 -71 523 -91 523 -91 c 257
+ 520 -232 460 -322 431 -349 c 257
+ 493 -422 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotedblleft
+Encoding: 432 8220 317
+Width: 630
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-15 954 m 257
+ 224 954 l 257
+ 224 1174 l 257
+ 110 1191 l 257
+ 114 1333 176 1413 205 1440 c 257
+ 145 1514 l 257
+ -12 1404 -15 1241 -15 1059 c 258
+ -15 954 l 257
+340 954 m 257
+ 579 954 l 257
+ 579 1174 l 257
+ 459 1190 l 257
+ 462 1333 524 1413 553 1440 c 257
+ 494 1514 l 257
+ 337 1402 346 1243 340 1059 c 257
+ 340 954 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotedblright
+Encoding: 433 8221 318
+Width: 631
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+123 951 m 257
+ 311 1083 284 1294 288 1504 c 257
+ 49 1504 l 257
+ 49 1303 l 258
+ 49 1302 154 1281 154 1282 c 257
+ 150 1142 91 1051 60 1025 c 257
+ 123 951 l 257
+471 951 m 257
+ 657 1082 641 1295 646 1504 c 257
+ 408 1504 l 257
+ 408 1303 l 257
+ 503 1281 l 257
+ 499 1139 438 1049 409 1025 c 257
+ 471 951 l 257
+EndSplineSet
+EndChar
+
+StartChar: quoteleft
+Encoding: 434 8216 319
+Width: 330
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+3 951 m 257
+ 265 951 l 257
+ 265 1180 l 257
+ 155 1195 l 257
+ 155 1309 180 1343 246 1456 c 257
+ 245 1456 147 1508 147 1510 c 257
+ 5 1398 3 1246 3 1081 c 258
+ 3 951 l 257
+EndSplineSet
+EndChar
+
+StartChar: quoteright
+Encoding: 435 8217 320
+Width: 330
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+153 951 m 257
+ 343 1083 315 1294 319 1504 c 257
+ 81 1504 l 257
+ 81 1303 l 258
+ 81 1302 186 1281 186 1282 c 257
+ 182 1142 123 1054 94 1027 c 257
+ 153 951 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotesinglbase
+Encoding: 436 8218 321
+Width: 436
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+156 -422 m 257
+ 343 -290 339 -77 344 133 c 257
+ 110 133 l 257
+ 110 -70 l 258
+ 110 -71 186 -91 186 -91 c 257
+ 183 -232 123 -322 94 -349 c 257
+ 156 -422 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 322
+Width: 280
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+116 961 m 257
+ 196 961 l 257
+ 263 1503 l 257
+ 48 1503 l 257
+ 116 961 l 257
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 323
+Width: 668
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'1023'
+p7
+sS'width'
+p8
+S'626'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'line'
+p16
+sS'x'
+S'127'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'r'
+s."
+AnchorPoint: "top" 334 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+123 0 m 257
+ 321 0 l 257
+ 321 513 l 257
+ 322 696 405 858 624 858 c 257
+ 624 1034 l 257
+ 493 1034 392 981 321 858 c 257
+ 321 1023 l 257
+ 123 1023 l 257
+ 123 0 l 257
+EndSplineSet
+Kerns2: 133 -37 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: racute
+Encoding: 437 341 324
+Width: 668
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 323 114 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 327 0 2
+EndChar
+
+StartChar: radical
+Encoding: 438 8730 325
+Width: 1346
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+489 0 m 257
+ 631 0 l 257
+ 1243 1464 l 257
+ 1041 1464 l 257
+ 545 216 l 257
+ 310 623 l 257
+ 110 623 l 257
+ 489 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: rcaron
+Encoding: 439 345 326
+Width: 668
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 323 114 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 -7 0 2
+EndChar
+
+StartChar: rcommaaccent
+Encoding: 440 343 327
+Width: 668
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 25 0 2
+Refer: 323 114 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: registered
+Encoding: 174 174 328
+Width: 1702
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+1073 379 m 257
+ 1197 379 l 257
+ 1011 791 l 257
+ 1122 827 1179 900 1179 1017 c 256
+ 1179 1173 1071 1248 857 1248 c 258
+ 578 1248 l 257
+ 578 381 l 257
+ 691 381 l 257
+ 691 772 l 257
+ 897 772 l 257
+ 1073 379 l 257
+694 863 m 257
+ 694 1162 l 257
+ 848 1162 l 258
+ 960 1162 1060 1145 1060 1015 c 256
+ 1060 864 954 863 834 863 c 258
+ 694 863 l 257
+849 114 m 256
+ 481 114 199 379 199 773 c 256
+ 199 1158 482 1436 850 1436 c 256
+ 1219 1436 1503 1128 1503 773 c 256
+ 1503 419 1218 114 849 114 c 256
+850 53 m 256
+ 1251 53 1579 375 1579 774 c 256
+ 1579 1175 1251 1497 850 1497 c 256
+ 451 1497 123 1205 123 774 c 256
+ 123 335 451 53 850 53 c 256
+EndSplineSet
+EndChar
+
+StartChar: ring
+Encoding: 441 730 329
+Width: 728
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 364 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+365 1331 m 256
+ 286 1331 242 1391 242 1465 c 256
+ 242 1539 286 1600 365 1600 c 256
+ 444 1600 488 1539 488 1465 c 256
+ 488 1391 444 1331 365 1331 c 256
+365 1214 m 256
+ 529 1214 623 1334 623 1465 c 256
+ 623 1597 529 1716 365 1716 c 256
+ 201 1716 107 1597 107 1465 c 256
+ 107 1334 201 1214 365 1214 c 256
+EndSplineSet
+EndChar
+
+StartChar: s
+Encoding: 115 115 330
+Width: 927
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'993'
+p7
+sS'width'
+p8
+S'913'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'765'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S's'
+s."
+AnchorPoint: "top" 463.5 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+690.023 267.147 m 256
+ 690.023 148.867 607.847 116 474 116 c 256
+ 311 116 259 156 210 284 c 257
+ 65 225 l 257
+ 117 34 282 -24 459 -24 c 256
+ 747 -24 861 85 861 285 c 256
+ 861 482 763 544 501 602 c 256
+ 332.724 638.962 279.876 656.056 279.876 752.672 c 256
+ 279.876 861.7 323.182 906 489 906 c 256
+ 616 906 674 875 726 777 c 257
+ 726 778 848 847 848 847 c 257
+ 776 995 663 1046 482 1046 c 256
+ 250 1046 95 946 95 761 c 256
+ 95 558 191 507 411 457 c 256
+ 657.149 400.878 690.023 396.136 690.023 267.147 c 256
+EndSplineSet
+EndChar
+
+StartChar: sacute
+Encoding: 442 347 331
+Width: 927
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 330 115 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 386 0 2
+EndChar
+
+StartChar: scaron
+Encoding: 443 353 332
+Width: 927
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 330 115 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 53 0 2
+EndChar
+
+StartChar: scedilla
+Encoding: 444 351 333
+Width: 927
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 330 115 N 1 0 0 1 0 0 2
+Refer: 172 184 N 1 0 0 1 246 0 2
+EndChar
+
+StartChar: scircumflex
+Encoding: 445 349 334
+Width: 927
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 330 115 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 51 0 2
+EndChar
+
+StartChar: scommaaccent
+Encoding: 446 537 335
+Width: 927
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 259 0 2
+Refer: 330 115 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: section
+Encoding: 167 167 336
+Width: 1005
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'y'
+S'808'
+p7
+sS'width'
+p8
+S'1005'
+p9
+sS'points'
+p10
+(dp11
+sS'contours'
+p12
+(dp13
+sS'components'
+p14
+(tsS'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+S'838'
+p17
+sS'com.typemytype.robofont.layerData'
+p18
+(dp19
+sS'name'
+p20
+S'section'
+p21
+s."
+LayerCount: 2
+Fore
+SplineSet
+737.931 259.607 m 256
+ 737.931 186.647 680.097 140 542 140 c 256
+ 412 140 318 189 270 324 c 257
+ 127 273 l 257
+ 167 49 374 -24 539 -24 c 256
+ 768.608 -24 914.042 74.8124 914.042 267.276 c 256
+ 914.042 365.953 845.937 433.709 772 483 c 257
+ 870 583 877 645 883 712 c 256
+ 883.456 717.716 883.68 723.337 883.68 728.864 c 256
+ 883.68 999.645 346.894 1047.55 346.894 1208.08 c 256
+ 346.894 1283 407.624 1331.03 535.058 1331.03 c 256
+ 624.425 1331.03 700.255 1308.64 756 1204 c 257
+ 756 1205 884 1284 884 1284 c 257
+ 812 1436 706 1489 529 1489 c 256
+ 310 1489 150 1391 150 1204 c 256
+ 150 1086 228 1028 296 987 c 257
+ 184.41 894.685 157.956 822.982 157.956 750.288 c 256
+ 157.956 438.104 737.931 424.6 737.931 259.607 c 256
+633 553 m 257
+ 451.616 633.083 326.451 677.56 326.451 764.996 c 256
+ 326.451 805.303 353.049 854.739 413 921 c 257
+ 608.844 839.065 701.741 791.742 701.741 710.158 c 256
+ 701.741 669.269 678.406 619.773 633 553 c 257
+EndSplineSet
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 337
+Width: 478
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+219 -287 m 257
+ 359 -204 383 -87 384 103 c 257
+ 384 236 l 257
+ 124 236 l 257
+ 124 6 l 257
+ 238 -7 l 257
+ 238 -95 179 -170 148 -199 c 257
+ 219 -287 l 257
+123 808 m 257
+ 368 808 l 257
+ 368 1042 l 257
+ 123 1042 l 257
+ 123 808 l 257
+EndSplineSet
+EndChar
+
+StartChar: seven
+Encoding: 55 55 338
+Width: 1246
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+555 -1 m 257
+ 1076 1306 l 257
+ 1076 1464 l 257
+ 196 1464 l 257
+ 211 1306 l 257
+ 860 1306 l 257
+ 331 0 l 257
+ 555 -1 l 257
+EndSplineSet
+EndChar
+
+StartChar: six
+Encoding: 54 54 339
+Width: 1237
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+345 844 m 257
+ 358.088 1199.38 491.316 1325.03 679.67 1325.03 c 256
+ 762.622 1325.03 858.847 1298.89 957 1240 c 257
+ 1013 1396 l 257
+ 901 1460 761 1489 663 1489 c 256
+ 337 1489 120 1198 120 697 c 256
+ 120 249 314 -24 651 -24 c 256
+ 951 -24 1124 220 1124 478 c 256
+ 1124 781.194 927.349 948.018 677.47 948.018 c 256
+ 561.525 948.018 448.099 919.808 345 844 c 257
+345 677 m 257
+ 445.874 754.439 543.375 790.034 653.077 790.034 c 256
+ 828.914 790.034 912 703.373 912 474 c 256
+ 912 257 811 141 651 141 c 256
+ 419 141 345 388 345 643 c 258
+ 345 677 l 257
+EndSplineSet
+EndChar
+
+StartChar: slash
+Encoding: 47 47 340
+Width: 592
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+193 -45 m 257
+ 621 1497 l 257
+ 458 1534 l 257
+ 43 -8 l 257
+ 193 -45 l 257
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 341
+Width: 461
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: sterling
+Encoding: 163 163 342
+Width: 1168
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+219 -26 m 257
+ 429 19 558 42 679 42 c 256
+ 809 42 879 21 979 0 c 257
+ 1017 164 l 257
+ 933 187 844 218 740 218 c 256
+ 616 218 527 203 344 136 c 257
+ 384.632 216.273 439.013 315.206 439.013 495.091 c 256
+ 439.013 552.447 430.204 605.556 424 680 c 257
+ 773 680 l 257
+ 773 823 l 257
+ 416 823 l 257
+ 411 880 398 955 398 1007 c 256
+ 398 1228 477 1325 651 1325 c 256
+ 733 1325 802 1306 838 1128 c 257
+ 1003 1152 l 257
+ 971 1371 878 1489 645 1489 c 256
+ 359 1489 202 1321 202 988 c 256
+ 202 942 215 873 219 823 c 257
+ 55 823 l 257
+ 55 680 l 257
+ 231 680 l 257
+ 240 636 253 571 253 522 c 256
+ 253 335 182 173 132 89 c 257
+ 219 -26 l 257
+EndSplineSet
+EndChar
+
+StartChar: summation
+Encoding: 447 8721 343
+Width: 1241
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+161 -18 m 257
+ 1142 -18 l 257
+ 1142 137 l 257
+ 358 137 l 257
+ 897 680 l 257
+ 897 789 l 257
+ 361 1342 l 257
+ 1142 1342 l 257
+ 1142 1491 l 257
+ 161 1491 l 257
+ 161 1335 l 257
+ 722 737 l 257
+ 161 155 l 257
+ 161 -18 l 257
+EndSplineSet
+EndChar
+
+StartChar: t
+Encoding: 116 116 344
+Width: 686
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "caron.alt" 334 1023 basechar 0
+AnchorPoint: "top" 291 1296 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+478 -16 m 256
+ 543 -16 613 2 672 31 c 257
+ 640 162 l 257
+ 594 143 546 131 509 131 c 256
+ 433 131 382 174 382 302 c 258
+ 382 888 l 257
+ 606 888 l 257
+ 606 1023 l 257
+ 382 1023 l 257
+ 382 1393 l 257
+ 192 1342 l 257
+ 184 1023 l 257
+ 39 1023 l 257
+ 39 888 l 257
+ 184 888 l 257
+ 184 303 l 258
+ 184 65 314 -16 478 -16 c 256
+EndSplineSet
+EndChar
+
+StartChar: tbar
+Encoding: 448 359 345
+Width: 686
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+90 533 m 257
+ 544 533 l 257
+ 544 673 l 257
+ 90 673 l 257
+ 90 533 l 257
+EndSplineSet
+Refer: 344 116 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: tcaron
+Encoding: 449 357 346
+Width: 686
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 344 116 N 1 0 0 1 0 0 2
+Refer: 167 -1 N 1 0 0 1 71 -59 2
+EndChar
+
+StartChar: tcedilla
+Encoding: 450 355 347
+Width: 686
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 344 116 N 1 0 0 1 0 0 2
+Refer: 172 184 N 1 0 0 1 195.5 0 2
+EndChar
+
+StartChar: tcommaaccent
+Encoding: 451 539 348
+Width: 686
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 139 0 2
+Refer: 344 116 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: thorn
+Encoding: 452 254 349
+Width: 1058
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'1058'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'thorn'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+92 -394 m 257
+ 290 -373 l 257
+ 290 110 l 257
+ 346 38 442 -24 585 -24 c 256
+ 846 -24 1005 217 1005 520 c 256
+ 1005 836 862 1046 579 1046 c 256
+ 437 1046 346 986 289 912 c 257
+ 289 1464 l 257
+ 92 1464 l 257
+ 92 -394 l 257
+552.7 904.031 m 256
+ 693.732 904.031 801 788.259 801 521 c 256
+ 801 283 734 118 569 118 c 256
+ 392.837 118 289.95 248.506 289.95 528.707 c 256
+ 289.95 812.021 418.749 904.031 552.7 904.031 c 256
+EndSplineSet
+EndChar
+
+StartChar: three
+Encoding: 51 51 350
+Width: 1215
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+594.219 139.855 m 256
+ 435.39 139.855 365.082 227.843 315 374 c 257
+ 141 316 l 257
+ 202 68 380 -24 599 -24 c 256
+ 599.695 -24.0023 600.39 -24.0034 601.084 -24.0034 c 256
+ 908.179 -24.0034 1068.01 196.321 1068.01 403.596 c 256
+ 1068.01 580.392 994.518 756.431 776 820 c 257
+ 944 878 997 1015 997 1155 c 256
+ 997 1354 839 1489 587 1489 c 256
+ 417 1489 275 1412 175 1256 c 257
+ 323 1167 l 257
+ 406 1292 490 1328 594 1328 c 256
+ 725 1328 798 1243 798 1140 c 256
+ 798 1006 757 888 483 888 c 257
+ 483 731 l 257
+ 710.139 731 860.301 662.577 860.301 415.488 c 256
+ 860.301 268.505 789.019 139.855 594.219 139.855 c 256
+EndSplineSet
+EndChar
+
+StartChar: threequarters
+Encoding: 453 190 351
+Width: 1462
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+128 910 m 257
+ 157.47 789.071 274.748 742.966 372.553 742.966 c 256
+ 536.685 742.966 629.076 831.031 629.076 960.515 c 256
+ 629.076 1013.72 616.775 1102.09 489 1145 c 257
+ 573 1173 603 1238 603 1304 c 256
+ 603 1408 502 1481 360 1481 c 256
+ 278 1481 173 1441 143 1359 c 257
+ 241 1286 l 257
+ 265 1330 307 1362 361 1362 c 256
+ 422.872 1362 460.231 1336.72 460.231 1287.11 c 256
+ 460.231 1232.46 431.847 1199.9 316 1198 c 257
+ 316 1077 l 257
+ 452 1077 481 1027 481 956 c 256
+ 481 905 434 866 374 866 c 256
+ 322 866 263 884 237 967 c 257
+ 128 910 l 257
+1263 0 m 257
+ 1420 0 l 257
+ 1420 127 l 257
+ 1524 127 l 257
+ 1524 241 l 257
+ 1420 241 l 257
+ 1420 693 l 257
+ 1216 693 l 257
+ 921 220 l 257
+ 921 127 l 257
+ 1263 127 l 257
+ 1263 0 l 257
+309 -14 m 257
+ 1544 1415 l 257
+ 1436 1507 l 257
+ 200 78 l 257
+ 309 -14 l 257
+1080 241 m 257
+ 1263 551 l 257
+ 1263 241 l 257
+ 1080 241 l 257
+EndSplineSet
+EndChar
+
+StartChar: tilde
+Encoding: 454 732 352
+Width: 798
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 399 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+586 1194 m 256
+ 654 1194 691 1263 691 1379 c 256
+ 691 1394 691 1410 689 1427 c 257
+ 565 1427 l 257
+ 565 1369 555 1347 528 1347 c 256
+ 457 1347 341 1432 226 1432 c 256
+ 165 1432 107 1382 107 1258 c 256
+ 107 1240 108 1221 111 1200 c 257
+ 234 1200 l 257
+ 234 1260 255 1282 279 1282 c 257
+ 380 1275 476 1194 586 1194 c 256
+EndSplineSet
+EndChar
+
+StartChar: trademark
+Encoding: 455 8482 353
+Width: 1847
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+917 615 m 257
+ 1064 615 l 257
+ 1064 1206 l 257
+ 1266 731 l 257
+ 1393 731 l 257
+ 1598 1203 l 257
+ 1598 615 l 257
+ 1739 615 l 257
+ 1739 1463 l 257
+ 1564 1463 l 257
+ 1334 932 l 257
+ 1103 1464 l 257
+ 917 1464 l 257
+ 917 615 l 257
+358 615 m 257
+ 514 615 l 257
+ 514 1349 l 257
+ 757 1349 l 257
+ 757 1464 l 257
+ 116 1464 l 257
+ 116 1349 l 257
+ 358 1349 l 257
+ 358 615 l 257
+EndSplineSet
+EndChar
+
+StartChar: two
+Encoding: 50 50 354
+Width: 1246
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+1073.15 1034.07 m 256
+ 1073.15 1344.58 883.286 1489 617 1489 c 256
+ 392 1489 234 1394 117 1141 c 257
+ 297 1069 l 257
+ 381 1240 474 1326 629 1326 c 256
+ 777 1326 867 1215 867 1051 c 256
+ 867 599 168 537 161 0 c 257
+ 1075 0 l 257
+ 1075 165 l 257
+ 393 165 l 257
+ 580.136 477.883 1073.15 604.496 1073.15 1034.07 c 256
+EndSplineSet
+EndChar
+
+StartChar: u
+Encoding: 117 117 355
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'com.typemytype.robofont.layerData'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'baseGlyph'
+p7
+S'lc_main_stem'
+p8
+sS'y'
+S'421'
+p9
+sS'width'
+p10
+S'1086'
+p11
+sS'points'
+p12
+(dp13
+sS'contours'
+p14
+(dp15
+sS'components'
+p16
+(dp17
+sS'lib'
+p18
+(dp19
+sS'segmentType'
+p20
+S'curve'
+p21
+sS'x'
+S'263'
+p22
+sS'transformation'
+p23
+(S'-0.9999999999999996'
+S'-1.665334536937734e-16'
+S'1.665334536937734e-16'
+S'-0.9999999999999996'
+S'1086'
+S'1024'
+tp24
+sS'name'
+p25
+S'u'
+s."
+AnchorPoint: "top" 563 1023 basechar 0
+AnchorPoint: "ogonek" 905 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+478 -24 m 256
+ 630 -24 734 34 803 137 c 257
+ 803 0 l 257
+ 1001 0 l 257
+ 1001 1023 l 257
+ 803 1023 l 257
+ 803 529 l 258
+ 803 317 739 116 516 116 c 256
+ 361 116 314 218 314 422 c 258
+ 314 1023 l 257
+ 116 1023 l 257
+ 116 435 l 258
+ 116 227 151 -24 478 -24 c 256
+EndSplineSet
+EndChar
+
+StartChar: uacute
+Encoding: 250 250 356
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 464 0 2
+EndChar
+
+StartChar: ubreve
+Encoding: 456 365 357
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 161 728 N 1 0 0 1 149 0 2
+EndChar
+
+StartChar: ucircumflex
+Encoding: 251 251 358
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 128 0 2
+EndChar
+
+StartChar: udieresis
+Encoding: 252 252 359
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 185 168 N 1 0 0 1 148 0 2
+EndChar
+
+StartChar: ugrave
+Encoding: 249 249 360
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 226 96 N 1 0 0 1 149 0 2
+EndChar
+
+StartChar: uhungarumlaut
+Encoding: 457 369 361
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 236 733 N 1 0 0 1 315 0 2
+EndChar
+
+StartChar: umacron
+Encoding: 458 363 362
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 268 175 N 1 0 0 1 203 0 2
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 363
+Width: 870
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+99 -137 m 257
+ 750 -137 l 257
+ 750 -1 l 257
+ 99 -1 l 257
+ 99 -137 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 364
+Width: 461
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 341 32 N 1 0 0 1 -69.5 0 2
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 365
+Width: 600
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 237 45 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni00B2
+Encoding: 459 178 366
+Width: 1243
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+905.117 1199.79 m 256
+ 905.117 1394.95 778.853 1489 611 1489 c 256
+ 470 1489 361 1429 290 1269 c 257
+ 293 1268 411 1218 411 1218 c 257
+ 459 1324 523 1377 617 1377 c 256
+ 708 1377 765 1309 765 1209 c 256
+ 765 936 322 891 318 553 c 257
+ 906 553 l 257
+ 906 662 l 257
+ 480 662 l 257
+ 601.625 853.832 905.117 930.287 905.117 1199.79 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni00B3
+Encoding: 460 179 367
+Width: 1151
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+274 748 m 257
+ 312.073 590.699 427.725 532.995 568.126 532.995 c 256
+ 763.755 532.995 868 670.476 868 802 c 257
+ 867 913 823 1021 685 1063 c 257
+ 790 1102 823 1187 823 1275 c 256
+ 823 1398 722 1487 558 1487 c 256
+ 451 1487 355 1438 296 1338 c 257
+ 395 1277 l 257
+ 444 1354 497 1378 562 1378 c 256
+ 642 1378 688 1330 688 1264 c 256
+ 688 1180 663 1110 492 1110 c 257
+ 492 1003 l 257
+ 637.1 1003 727.196 959.377 727.196 811.179 c 256
+ 727.196 722.181 683.291 643.914 564.706 643.914 c 256
+ 465.808 643.914 420.236 699.331 389 788 c 257
+ 274 748 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni00B9
+Encoding: 461 185 368
+Width: 848
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+369 799 m 257
+ 526 799 l 257
+ 526 1494 l 257
+ 383 1494 l 257
+ 227 1421 l 257
+ 256 1296 l 257
+ 369 1356 l 257
+ 369 799 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni01C4
+Encoding: 462 452 369
+Width: 2626
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 1649 441 2
+Refer: 129 90 N 1 0 0 1 1450 0 2
+Refer: 20 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C5
+Encoding: 463 453 370
+Width: 2328
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 484 122 N 1 0 0 1 1450 0 2
+Refer: 166 711 N 1 0 0 1 1470 0 2
+Refer: 20 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C6
+Encoding: 464 454 371
+Width: 2015
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 484 122 N 1 0 0 1 1137 0 2
+Refer: 179 100 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 1157 0 2
+EndChar
+
+StartChar: uni01C7
+Encoding: 465 455 372
+Width: 2106
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 63 76 N 1 0 0 1 0 0 2
+Refer: 59 74 N 1 0 0 1 1066 0 2
+EndChar
+
+StartChar: uni01C8
+Encoding: 466 456 373
+Width: 1573
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 252 106 N 1 0 0 1 1066 0 2
+Refer: 63 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C9
+Encoding: 467 457 374
+Width: 979
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 257 108 N 1 0 0 1 0 0 2
+Refer: 252 106 N 1 0 0 1 472 0 2
+EndChar
+
+StartChar: uni01CA
+Encoding: 468 458 375
+Width: 2537
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 70 78 N 1 0 0 1 0 0 2
+Refer: 59 74 N 1 0 0 1 1497 0 2
+EndChar
+
+StartChar: uni01CB
+Encoding: 469 459 376
+Width: 2004
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 252 106 N 1 0 0 1 1497 0 2
+Refer: 70 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CC
+Encoding: 470 460 377
+Width: 1633
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 272 110 N 1 0 0 1 0 0 2
+Refer: 252 106 N 1 0 0 1 1126 0 2
+EndChar
+
+StartChar: uni01CD
+Encoding: 471 461 378
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 224 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CE
+Encoding: 472 462 379
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 83 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CF
+Encoding: 473 463 380
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 -187 441 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01D0
+Encoding: 474 464 381
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 189 305 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 -192 0 2
+EndChar
+
+StartChar: uni01D1
+Encoding: 475 465 382
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 339 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01D2
+Encoding: 476 466 383
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 281 111 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 116 0 2
+EndChar
+
+StartChar: uni01D3
+Encoding: 477 467 384
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 273 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01D4
+Encoding: 478 468 385
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 130 0 2
+EndChar
+
+StartChar: uni01E3
+Encoding: 479 483 386
+Width: 1667
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 472 0 2
+Refer: 139 230 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01E8
+Encoding: 480 488 387
+Width: 1291
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 227 441 2
+Refer: 61 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01E9
+Encoding: 481 489 388
+Width: 1052
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 254 107 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 245 273 2
+EndChar
+
+StartChar: uni01EA
+Encoding: 482 490 389
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 287 731 N 1 0 0 1 516 0 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01EB
+Encoding: 483 491 390
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 287 731 N 1 0 0 1 297 0 2
+Refer: 281 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F0
+Encoding: 484 496 391
+Width: 507
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 435 567 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 -126 14 2
+EndChar
+
+StartChar: uni01F1
+Encoding: 485 497 392
+Width: 2626
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 129 90 N 1 0 0 1 1450 0 2
+Refer: 20 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F2
+Encoding: 486 498 393
+Width: 2328
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 484 122 N 1 0 0 1 1450 0 2
+Refer: 20 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F3
+Encoding: 487 499 394
+Width: 2015
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 484 122 N 1 0 0 1 1137 0 2
+Refer: 179 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F4
+Encoding: 488 500 395
+Width: 1421
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 137 180 N 1 0 0 1 627 441 2
+Refer: 39 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F5
+Encoding: 489 501 396
+Width: 1145
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 219 103 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 444 0 2
+EndChar
+
+StartChar: uni01F8
+Encoding: 490 504 397
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 226 96 N 1 0 0 1 501 441 2
+Refer: 70 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F9
+Encoding: 491 505 398
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 272 110 N 1 0 0 1 0 0 2
+Refer: 226 96 N 1 0 0 1 200 0 2
+EndChar
+
+StartChar: uni0200
+Encoding: 492 512 399
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 79 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0201
+Encoding: 493 513 400
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 -46 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0202
+Encoding: 494 514 401
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 229 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0203
+Encoding: 495 515 402
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 105 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0204
+Encoding: 496 516 403
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 120 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0205
+Encoding: 497 517 404
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 -21 0 2
+Refer: 190 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0206
+Encoding: 498 518 405
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 270 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0207
+Encoding: 499 519 406
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 130 0 2
+Refer: 190 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0208
+Encoding: 500 520 407
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 -295 458 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0209
+Encoding: 501 521 408
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 -294 16 2
+Refer: 189 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020A
+Encoding: 502 522 409
+Width: 464
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 -166 444 2
+Refer: 48 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020B
+Encoding: 503 523 410
+Width: 447
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 -165 2 2
+Refer: 189 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020C
+Encoding: 504 524 411
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 195 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020D
+Encoding: 505 525 412
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 -15 0 2
+Refer: 281 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020E
+Encoding: 506 526 413
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 346 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020F
+Encoding: 507 527 414
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 136 0 2
+Refer: 281 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0210
+Encoding: 508 528 415
+Width: 1332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 81 441 2
+Refer: 90 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0211
+Encoding: 509 529 416
+Width: 668
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 -137 0 2
+Refer: 323 114 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0212
+Encoding: 510 530 417
+Width: 1332
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 232 441 2
+Refer: 90 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0213
+Encoding: 511 531 418
+Width: 668
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 13 0 2
+Refer: 323 114 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0214
+Encoding: 512 532 419
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 139 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0215
+Encoding: 513 533 420
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 438 783 N 1 0 0 1 0 0 2
+Refer: 355 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0216
+Encoding: 514 534 421
+Width: 1383
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 289 441 2
+Refer: 106 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0217
+Encoding: 515 535 422
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 439 785 N 1 0 0 1 151 0 2
+Refer: 355 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021A
+Encoding: 516 538 423
+Width: 1119
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 355 0 2
+Refer: 101 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021B
+Encoding: 517 539 424
+Width: 686
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 441 806 N 1 0 0 1 208.5 0 2
+Refer: 344 116 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021E
+Encoding: 518 542 425
+Width: 1500
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 166 711 N 1 0 0 1 331 441 2
+Refer: 45 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021F
+Encoding: 519 543 426
+Width: 1125
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 233 104 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 253 273 2
+EndChar
+
+StartChar: uni0226
+Encoding: 520 550 427
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 425 441 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0227
+Encoding: 521 551 428
+Width: 1003
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 284 0 2
+Refer: 133 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0228
+Encoding: 522 552 429
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 172 184 N 1 0 0 1 395 0 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0229
+Encoding: 523 553 430
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 190 101 N 1 0 0 1 0 0 2
+Refer: 172 184 N 1 0 0 1 297.5 0 2
+EndChar
+
+StartChar: uni022E
+Encoding: 524 558 431
+Width: 1515
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 540 441 2
+Refer: 75 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni022F
+Encoding: 525 559 432
+Width: 1099
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 281 111 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 328 0 2
+EndChar
+
+StartChar: uni0232
+Encoding: 526 562 433
+Width: 1205
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 268 175 N 1 0 0 1 277 441 2
+Refer: 124 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0233
+Encoding: 527 563 434
+Width: 987
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 478 121 N 1 0 0 1 0 0 2
+Refer: 268 175 N 1 0 0 1 139 0 2
+EndChar
+
+StartChar: uni0237
+Encoding: 528 567 435
+Width: 507
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'482'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'j'
+s."
+AnchorPoint: "top" 301 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+135 -369 m 256
+ 323 -369 397 -287 397 -36 c 258
+ 397 1023 l 257
+ 199 1023 l 257
+ 199 -91 l 258
+ 199 -178 159 -207 104 -207 c 256
+ 64 -207 23 -194 -16 -176 c 257
+ -54 -324 l 257
+ -8 -351 64 -369 135 -369 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni02C9
+Encoding: 529 713 436
+Width: 600
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+84 1247 m 257
+ 538 1247 l 257
+ 538 1387 l 257
+ 84 1387 l 257
+ 84 1247 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni0307
+Encoding: 530 775 437
+Width: 539
+VWidth: 0
+GlyphClass: 4
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 269.5 1023 mark 0
+LayerCount: 2
+Fore
+SplineSet
+270 1268 m 256
+ 351 1268 392 1331 392 1393 c 256
+ 392 1455 351 1517 270 1517 c 256
+ 189 1517 148 1455 148 1393 c 256
+ 148 1331 189 1268 270 1268 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni030F
+Encoding: 531 783 438
+Width: 745
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'745'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'uni030F'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+322 1152 m 257
+ 423 1152 l 257
+ 323 1488 l 257
+ 53 1488 l 257
+ 322 1152 l 257
+648 1152 m 257
+ 739 1152 l 257
+ 666 1488 l 257
+ 405 1488 l 257
+ 648 1152 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni0311
+Encoding: 532 785 439
+Width: 805
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'805'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'uni0311'
+p14
+s."
+LayerCount: 2
+Fore
+SplineSet
+116 1166 m 257
+ 277 1166 l 257
+ 277 1241 307 1293 402 1293 c 256
+ 497 1293 527 1241 527 1166 c 257
+ 688 1166 l 257
+ 684 1362 541 1438 402 1438 c 256
+ 263 1438 120 1362 116 1166 c 257
+EndSplineSet
+EndChar
+
+StartChar: uni0312
+Encoding: 533 786 440
+Width: 600
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+191 1202 m 257
+ 451 1202 l 257
+ 451 1432 l 257
+ 337 1445 l 257
+ 338 1533 396 1610 428 1639 c 257
+ 359 1725 l 257
+ 217 1642 192 1525 191 1335 c 257
+ 191 1202 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni0326
+Encoding: 534 806 441
+Width: 409
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+183 -655 m 257
+ 306 -590 344 -478 344 -295 c 258
+ 344 -147 l 257
+ 88 -147 l 257
+ 88 -373 l 257
+ 205 -383 l 257
+ 205 -457 155 -543 117 -577 c 257
+ 183 -655 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni1E02
+Encoding: 161 7682 442
+Width: 1325
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 445 441 2
+Refer: 13 66 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E03
+Encoding: 162 7683 443
+Width: 1139
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 413 273 2
+Refer: 154 98 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E0A
+Encoding: 166 7690 444
+Width: 1450
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 507 441 2
+Refer: 20 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E0B
+Encoding: 171 7691 445
+Width: 1137
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 351 0 2
+Refer: 179 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E1E
+Encoding: 176 7710 446
+Width: 1201
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 455 441 2
+Refer: 38 70 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E1F
+Encoding: 177 7711 447
+Width: 637
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 211 102 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 151 426 2
+EndChar
+
+StartChar: uni1E40
+Encoding: 180 7744 448
+Width: 1671
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 618 441 2
+Refer: 69 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E41
+Encoding: 181 7745 449
+Width: 1813
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 267 109 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 143 0 2
+EndChar
+
+StartChar: uni1E56
+Encoding: 183 7766 450
+Width: 1286
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 425 441 2
+Refer: 88 80 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E57
+Encoding: 185 7767 451
+Width: 1145
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 299 112 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 326 0 2
+EndChar
+
+StartChar: uni1E60
+Encoding: 187 7776 452
+Width: 1231
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 398 441 2
+Refer: 94 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E61
+Encoding: 191 7777 453
+Width: 927
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 330 115 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 265 0 2
+EndChar
+
+StartChar: uni1E6A
+Encoding: 215 7786 454
+Width: 1119
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 188 729 N 1 0 0 1 342 441 2
+Refer: 101 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E6B
+Encoding: 247 7787 455
+Width: 686
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 344 116 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 73 256 2
+EndChar
+
+StartChar: uni1EBC
+Encoding: 535 7868 456
+Width: 1225
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 252 441 2
+Refer: 25 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EBD
+Encoding: 536 7869 457
+Width: 1030
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 116 0 2
+Refer: 190 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EF8
+Encoding: 537 7928 458
+Width: 1205
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 352 732 N 1 0 0 1 240 441 2
+Refer: 124 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EF9
+Encoding: 538 7929 459
+Width: 987
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 478 121 N 1 0 0 1 0 0 2
+Refer: 352 732 N 1 0 0 1 84 0 2
+EndChar
+
+StartChar: uni2074
+Encoding: 539 8308 460
+Width: 970
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+519 822 m 257
+ 676 822 l 257
+ 676 949 l 257
+ 780 949 l 257
+ 780 1063 l 257
+ 676 1063 l 257
+ 676 1515 l 257
+ 472 1515 l 257
+ 177 1042 l 257
+ 177 949 l 257
+ 519 949 l 257
+ 519 822 l 257
+336 1063 m 257
+ 519 1373 l 257
+ 519 1063 l 257
+ 336 1063 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni2215
+Encoding: 540 8725 461
+Width: 861
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+52 0 m 257
+ 196 0 l 257
+ 809 1456 l 257
+ 661 1456 l 257
+ 52 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni2219
+Encoding: 541 8729 462
+Width: 600
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+225 543 m 257
+ 389 543 l 257
+ 389 758 l 257
+ 225 758 l 257
+ 225 543 l 257
+EndSplineSet
+EndChar
+
+StartChar: uniFB00
+Encoding: 542 64256 463
+Width: 1164
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 211 102 N 1 0 0 1 0 0 2
+Refer: 211 102 N 1 0 0 1 527 0 2
+EndChar
+
+StartChar: uniFB01
+Encoding: 543 64257 464
+Width: 1084
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 238 105 N 1 0 0 1 637 0 2
+Refer: 211 102 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB02
+Encoding: 544 64258 465
+Width: 1109
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 257 108 N 1 0 0 1 637 0 2
+Refer: 211 102 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniFB03
+Encoding: 545 64259 466
+Width: 1611
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 238 105 N 1 0 0 1 1164 0 2
+Refer: 211 102 N 1 0 0 1 0 0 2
+Refer: 211 102 N 1 0 0 1 527 0 2
+EndChar
+
+StartChar: uniFB04
+Encoding: 546 64260 467
+Width: 1636
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 257 108 N 1 0 0 1 1164 0 2
+Refer: 211 102 N 1 0 0 1 0 0 2
+Refer: 211 102 N 1 0 0 1 527 0 2
+EndChar
+
+StartChar: uogonek
+Encoding: 547 371 468
+Width: 1118
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 287 731 N 1 0 0 1 573 0 2
+EndChar
+
+StartChar: uring
+Encoding: 548 367 469
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 329 730 N 1 0 0 1 213 0 2
+EndChar
+
+StartChar: utilde
+Encoding: 549 361 470
+Width: 1126
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 355 117 N 1 0 0 1 0 0 2
+Refer: 352 732 N 1 0 0 1 148 0 2
+EndChar
+
+StartChar: v
+Encoding: 118 118 471
+Width: 958
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+386 0 m 257
+ 554 0 l 257
+ 943 1023 l 257
+ 753 1023 l 257
+ 481 252 l 257
+ 213 1023 l 257
+ 14 1023 l 257
+ 386 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: w
+Encoding: 119 119 472
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 748.5 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+338 0 m 257
+ 506 0 l 257
+ 745 684 l 257
+ 972 0 l 257
+ 1139 0 l 257
+ 1495 1023 l 257
+ 1300 1023 l 257
+ 1066 252 l 257
+ 807 1023 l 257
+ 700 1023 l 257
+ 433 252 l 257
+ 206 1023 l 257
+ 0 1023 l 257
+ 338 0 l 257
+EndSplineSet
+Kerns2: 219 -19 "kernHorizontalKerninginLatinloo subtable" 
+EndChar
+
+StartChar: wacute
+Encoding: 186 7811 473
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 472 119 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 653 0 2
+EndChar
+
+StartChar: wcircumflex
+Encoding: 240 373 474
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 472 119 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 317 0 2
+EndChar
+
+StartChar: wdieresis
+Encoding: 190 7813 475
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 472 119 N 1 0 0 1 0 0 2
+Refer: 185 168 N 1 0 0 1 337 0 2
+EndChar
+
+StartChar: wgrave
+Encoding: 184 7809 476
+Width: 1497
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 472 119 N 1 0 0 1 0 0 2
+Refer: 226 96 N 1 0 0 1 337 0 2
+EndChar
+
+StartChar: x
+Encoding: 120 120 477
+Width: 976
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'966'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'x'
+s."
+LayerCount: 2
+Fore
+SplineSet
+10 0 m 257
+ 220 0 l 257
+ 485 370 l 257
+ 756 0 l 257
+ 973 0 l 257
+ 599 511 l 257
+ 969 1023 l 257
+ 759 1023 l 257
+ 498 648 l 257
+ 223 1023 l 257
+ 6 1023 l 257
+ 382 509 l 257
+ 10 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: y
+Encoding: 121 121 478
+Width: 987
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'b'
+(dp2
+sS'anchors'
+p3
+(tsS'lib'
+p4
+(dp5
+sS'unicodes'
+p6
+(tsS'width'
+p7
+S'971'
+p8
+sS'contours'
+p9
+(tsS'components'
+p10
+(tsS'com.typemytype.robofont.layerData'
+p11
+(dp12
+sS'name'
+p13
+S'y'
+s."
+AnchorPoint: "top" 493.5 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+58 -303 m 257
+ 95.7765 -313.21 134.225 -318.006 168.651 -318.006 c 256
+ 384.78 -318.006 480.439 -195.899 588 74 c 258
+ 965 1023 l 257
+ 769 1023 l 257
+ 502 325 l 257
+ 231 1023 l 257
+ 27 1023 l 257
+ 400 121 l 257
+ 386 76 l 257
+ 326 -109 263 -148 148 -148 c 256
+ 128 -148 106 -145 81 -141 c 257
+ 58 -303 l 257
+EndSplineSet
+EndChar
+
+StartChar: yacute
+Encoding: 253 253 479
+Width: 987
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 478 121 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 400 0 2
+EndChar
+
+StartChar: ycircumflex
+Encoding: 254 375 480
+Width: 987
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 478 121 N 1 0 0 1 0 0 2
+Refer: 174 710 N 1 0 0 1 64 0 2
+EndChar
+
+StartChar: ydieresis
+Encoding: 255 255 481
+Width: 987
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 478 121 N 1 0 0 1 0 0 2
+Refer: 185 168 N 1 0 0 1 84 0 2
+EndChar
+
+StartChar: yen
+Encoding: 550 165 482
+Width: 1162
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+224 310 m 257
+ 942 310 l 257
+ 942 430 l 257
+ 224 430 l 257
+ 224 310 l 257
+224 542 m 257
+ 942 542 l 257
+ 942 661 l 257
+ 224 661 l 257
+ 224 542 l 257
+EndSplineSet
+Refer: 124 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ygrave
+Encoding: 188 7923 483
+Width: 987
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 478 121 N 1 0 0 1 0 0 2
+Refer: 226 96 N 1 0 0 1 85 0 2
+EndChar
+
+StartChar: z
+Encoding: 122 122 484
+Width: 878
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+AnchorPoint: "top" 439 1023 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+63 0 m 257
+ 831 0 l 257
+ 831 142 l 257
+ 285 142 l 257
+ 833 888 l 257
+ 833 1023 l 257
+ 86 1023 l 257
+ 86 880 l 257
+ 600 880 l 257
+ 63 134 l 257
+ 63 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: zacute
+Encoding: 551 378 485
+Width: 878
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 484 122 N 1 0 0 1 0 0 2
+Refer: 137 180 N 1 0 0 1 379 0 2
+EndChar
+
+StartChar: zcaron
+Encoding: 552 382 486
+Width: 878
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 484 122 N 1 0 0 1 0 0 2
+Refer: 166 711 N 1 0 0 1 45 0 2
+EndChar
+
+StartChar: zdotaccent
+Encoding: 553 380 487
+Width: 878
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 484 122 N 1 0 0 1 0 0 2
+Refer: 188 729 N 1 0 0 1 258 0 2
+EndChar
+
+StartChar: zero
+Encoding: 48 48 488
+Width: 1246
+VWidth: 0
+GlyphClass: 2
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+623 140 m 256
+ 390 140 297 337 297 724 c 256
+ 297 1111 390 1325 623 1325 c 256
+ 856 1325 949 1111 949 724 c 256
+ 949 337 856 140 623 140 c 256
+623 -24 m 256
+ 995 -24 1166 264 1166 724 c 256
+ 1166 1184 995 1489 623 1489 c 256
+ 251 1489 80 1184 80 724 c 256
+ 80 264 251 -24 623 -24 c 256
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
